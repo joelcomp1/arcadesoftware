@@ -95,6 +95,7 @@ namespace WindowsApplication1
             this.button4.TabIndex = 9;
             this.button4.Text = "Play Game";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // listBox4
             // 
@@ -898,6 +899,7 @@ namespace WindowsApplication1
             this.button5.TabIndex = 11;
             this.button5.Text = "Play Game";
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // listBox5
             // 
@@ -1662,6 +1664,7 @@ namespace WindowsApplication1
             this.button3.TabIndex = 7;
             this.button3.Text = "Play Game";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // listBox3
             // 
