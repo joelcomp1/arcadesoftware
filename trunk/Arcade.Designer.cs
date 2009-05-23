@@ -3420,7 +3420,6 @@ namespace WindowsApplication1
             "Meteor Defense  ",
             "Midnight Magic  ",
             "Millipede  ",
-            "Milpede  ",
             "Miner 2049er  ",
             "Miner 2049er Volume II  ",
             "Mines of Minos  ",
