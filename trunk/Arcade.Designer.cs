@@ -55,6 +55,9 @@ namespace WindowsApplication1
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.Main = new System.Windows.Forms.TabControl();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.button6 = new System.Windows.Forms.Button();
+            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             this.SNES.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
             this.Sega_Genesis.SuspendLayout();
@@ -2988,6 +2991,9 @@ namespace WindowsApplication1
             // 
             // Atari_2600
             // 
+            this.Atari_2600.Controls.Add(this.richTextBox1);
+            this.Atari_2600.Controls.Add(this.button6);
+            this.Atari_2600.Controls.Add(this.textBox1);
             this.Atari_2600.Controls.Add(this.button1);
             this.Atari_2600.Controls.Add(this.listBox1);
             this.Atari_2600.Controls.Add(this.pictureBox3);
@@ -3018,16 +3024,13 @@ namespace WindowsApplication1
             "2 Pak Special Black - Challenge, Surfing  ",
             "2 Pak Special Dark Blue - Planet Patrol, Wall Defender   ",
             "2 Pak Special Green - Hoppy, Alien Force  ",
-            "2 Pak Special Green - Hoppy, Alien Force  ",
             "2 Pak Special Magenta - CaveBlast,City War   ",
-            "2 Pak Special Yellow - Star Warrior, Frogger   ",
             "2 Pak Special Yellow - Star Warrior, Frogger   ",
             "2-in-1 - Freeway and Tennis ",
             "2-in-1 - Frostbite and River Raid ",
             "2Pak Black - Challenge, Surfing  ",
             "A-Team, The ",
             "Acid Drop  ",
-            "Action Force  ",
             "Action Force  ",
             "Adventure  ",
             "Adventures of Tron  ",
@@ -3824,6 +3827,31 @@ namespace WindowsApplication1
             this.pictureBox1.TabIndex = 2;
             this.pictureBox1.TabStop = false;
             // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(100, 36);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(100, 20);
+            this.textBox1.TabIndex = 5;
+            // 
+            // button6
+            // 
+            this.button6.Location = new System.Drawing.Point(100, 80);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(75, 23);
+            this.button6.TabIndex = 6;
+            this.button6.Text = "Search";
+            this.button6.UseVisualStyleBackColor = true;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
+            // 
+            // richTextBox1
+            // 
+            this.richTextBox1.Location = new System.Drawing.Point(206, 27);
+            this.richTextBox1.Name = "richTextBox1";
+            this.richTextBox1.Size = new System.Drawing.Size(233, 111);
+            this.richTextBox1.TabIndex = 7;
+            this.richTextBox1.Text = "\t              Search Results";
+            // 
             // Arcade
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -3842,6 +3870,7 @@ namespace WindowsApplication1
             this.NES.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox21)).EndInit();
             this.Atari_2600.ResumeLayout(false);
+            this.Atari_2600.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             this.Home.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
@@ -3883,6 +3912,9 @@ namespace WindowsApplication1
         private System.Windows.Forms.ListBox listBox4;
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.ListBox listBox5;
+        private System.Windows.Forms.Button button6;
+        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.RichTextBox richTextBox1;
 
 
 

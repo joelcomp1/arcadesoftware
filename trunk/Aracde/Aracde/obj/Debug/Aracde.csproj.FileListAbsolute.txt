@@ -10,3 +10,15 @@ C:\Arcade\Main Program\Aracde\Aracde\obj\Debug\WindowsApplication1.Properties.Re
 C:\Arcade\Main Program\Aracde\Aracde\obj\Debug\Aracde.csproj.GenerateResource.Cache
 C:\Arcade\Main Program\Aracde\Aracde\obj\Debug\Aracde.exe.manifest
 C:\Arcade\Main Program\Aracde\Aracde\obj\Debug\Aracde.application
+C:\SVN\arcadesoftware\Aracde\Aracde\obj\Debug\Aracde.exe
+C:\SVN\arcadesoftware\Aracde\Aracde\obj\Debug\Aracde.pdb
+C:\SVN\arcadesoftware\Aracde\Aracde\bin\Debug\Aracde.exe.manifest
+C:\SVN\arcadesoftware\Aracde\Aracde\bin\Debug\Aracde.application
+C:\SVN\arcadesoftware\Aracde\Aracde\bin\Debug\Aracde.exe
+C:\SVN\arcadesoftware\Aracde\Aracde\bin\Debug\Aracde.pdb
+C:\SVN\arcadesoftware\Aracde\Aracde\obj\Debug\ResolveAssemblyReference.cache
+C:\SVN\arcadesoftware\Aracde\Aracde\obj\Debug\WindowsApplication1.Arcade.resources
+C:\SVN\arcadesoftware\Aracde\Aracde\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\SVN\arcadesoftware\Aracde\Aracde\obj\Debug\Aracde.csproj.GenerateResource.Cache
+C:\SVN\arcadesoftware\Aracde\Aracde\obj\Debug\Aracde.exe.manifest
+C:\SVN\arcadesoftware\Aracde\Aracde\obj\Debug\Aracde.application

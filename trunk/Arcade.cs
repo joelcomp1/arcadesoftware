@@ -89,7 +89,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "2 Pak Special Black - Challenge, Surfing  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special Black - Challenge, Surfing (HES) (PAL) [a1][!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -98,7 +98,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "2 Pak Special Dark Blue - Planet Patrol, Wall Defender   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special Dark Blue - Planet Patrol, Wall Defender (1990) (HES) (PAL) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -107,16 +107,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "2 Pak Special Green - Hoppy, Alien Force  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
-                Process p = new Process();
-                p.StartInfo.FileName = cmd;
-                p.Start();
-                p.WaitForExit();
-                p.Dispose();
-            }
-            if (listBox1.SelectedItem.ToString() == "2 Pak Special Green - Hoppy, Alien Force  ")
-            {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special Green - Hoppy, Alien Force (HES) (PAL) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -125,7 +116,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "2 Pak Special Magenta - CaveBlast,City War   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special Magenta - CaveBlast,City War (1992) (HES) (PAL) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -134,16 +125,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "2 Pak Special Yellow - Star Warrior, Frogger   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
-                Process p = new Process();
-                p.StartInfo.FileName = cmd;
-                p.Start();
-                p.WaitForExit();
-                p.Dispose();
-            }
-            if (listBox1.SelectedItem.ToString() == "2 Pak Special Yellow - Star Warrior, Frogger   ")
-            {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special Yellow - Star Warrior, Frogger (1990) (HES) (PAL) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -152,7 +134,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "2-in-1 - Freeway and Tennis ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\2-in-1 - Freeway and Tennis [p1].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -161,7 +143,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "2-in-1 - Frostbite and River Raid ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\2-in-1 - Frostbite and River Raid [p1].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -170,7 +152,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "2Pak Black - Challenge, Surfing  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\2Pak Black - Challenge, Surfing (HES) (PAL) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -179,7 +161,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "A-Team, The ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\A-Team, The (Atari) (Prototype) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -188,7 +170,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Acid Drop  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Acid Drop (1992) (Salu) (PAL) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -197,16 +179,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Action Force  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
-                Process p = new Process();
-                p.StartInfo.FileName = cmd;
-                p.Start();
-                p.WaitForExit();
-                p.Dispose();
-            }
-            if (listBox1.SelectedItem.ToString() == "Action Force  ")
-            {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Action Force (1983) (Parker Bros).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -215,7 +188,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Adventure  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Adventure (1978) (Atari).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -224,7 +197,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Adventures of Tron  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Adventures of Tron (1983) (Mattel).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -233,7 +206,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Adventures on GX-12  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Adventures on GX-12 (Telegames) (PAL) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -242,7 +215,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Air Raid")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Air Raid.a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -251,7 +224,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Air Raiders   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Air Raiders (1982) (Mattel) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -260,7 +233,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Air-Sea Battle   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Air-Sea Battle (1977) (Atari).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -269,7 +242,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Airlock  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Airlock (1982) (Data Age).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -278,7 +251,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Alien  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Alien (1982) (20th Century Fox).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -287,7 +260,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Alien Invaders Plus  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Alien Invaders Plus (Space Invaders hack) [h1].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -296,7 +269,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Aligator People   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Aligator People (20th Century Fox) (Prototype) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -305,7 +278,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Alpha Beam with Ernie  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Alpha Beam with Ernie (1983) (Atari).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -314,7 +287,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Amanda Invaders  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Amanda Invaders (PD).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -323,7 +296,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Amidar  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Amidar (1983) (Parker Bros).a26";    
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -332,7 +305,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Angling  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Angling (Ariola) (PAL) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -341,7 +314,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Angriff der Luftflotten   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Angriff der Luftflotten (AKA Paris Attack) (Starsoft) (PAL) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -350,7 +323,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Apples and Dolls ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Apples and Dolls (CCE).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -359,7 +332,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Aquaventure ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Aquaventure (CCE).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -368,7 +341,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Arcade Golf  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Arcade Golf (1979) (Sears).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -377,7 +350,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Armor Ambush   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Armor Ambush (1982) (Mattel) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -386,7 +359,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Artillery Duel   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Artillery Duel (1983) (Xonox) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -395,7 +368,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Assault ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Assault (Bomb).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -404,7 +377,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Asterix   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Asterix (1988) (Atari) (PAL) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -413,7 +386,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Asteroids 2  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Asteroids 2 (Asteroids hack) [h1].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -422,7 +395,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Asteroids ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Asteroids [p1].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -431,7 +404,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Astroblast   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Astroblast (1982) (Mattel) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -440,7 +413,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Astrowar ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Astrowar (Starsoft).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -449,7 +422,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Atari 2600 Invaders ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Atari 2600 Invaders [h1].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -458,7 +431,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Atlantis ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Atlantis (Activision).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -467,7 +440,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Atlantis II   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Atlantis II (1982) (Imagic) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -476,7 +449,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Bachelor Party  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Bachelor Party (1982) (Mystique).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -485,7 +458,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Bachelorette Party  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Bachelorette Party (1982) (Mystique-Playaround).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -494,7 +467,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Backgammon  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Backgammon (1978) (Atari).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -503,7 +476,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Bank Heist  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Bank Heist (1983) (20th Century Fox).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -512,7 +485,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Barber Pole Demo ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Barber Pole Demo (PD).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -521,7 +494,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Barnstorming   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Barnstorming (1982) (Activision) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -530,7 +503,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Basketball   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Basketball (1978) (Atari) [o1].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -539,7 +512,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Basketball (32-in-1)  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Basketball (32-in-1) (Atari) (PAL) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -548,7 +521,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Battlezone  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Battlezone (1983) (Atari).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -557,7 +530,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Beamrider  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Beamrider (1983) (Activision).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -566,7 +539,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Beany Bopper ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Beany Bopper (CCE).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -575,7 +548,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Beast Invaders ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Beast Invaders (double shot hack).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -584,7 +557,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Beat \'Em and Eat \'Em   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Beat 'Em and Eat 'Em (1982) (Mystique) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -593,7 +566,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Berenstain Bears  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Berenstain Bears (1982) (Coleco).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -602,7 +575,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Bermuda  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Bermuda (Starsoft) (PAL) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -611,7 +584,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Bermuda Triangle   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Bermuda Triangle (1982) (Data Age) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -620,7 +593,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Berzerk  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Berzerk (1982) (Atari).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -629,7 +602,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Better Space Invaders   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Better Space Invaders (1999) (Rob Kudla) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -638,7 +611,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Big - Move This Demo ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Big - Move This Demo (PD).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -647,7 +620,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Big - Move This Demo 2 ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Big - Move This Demo 2 (PD).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -656,7 +629,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Big Bird\'s Egg Catch  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Big Bird's Egg Catch (1983) (Atari).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -665,7 +638,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Billard  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Billard (Starsoft) (PAL) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -674,7 +647,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Bionic Breakthrough   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Bionic Breakthrough (1984) (Atari) (Prototype).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -683,7 +656,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Black and White Fast Scolling Demo ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Black and White Fast Scolling Demo (PD).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -692,7 +665,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Black Hole  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Black Hole (Starsoft) (PAL) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -701,7 +674,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Blackjack   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Blackjack (1977) (Atari) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -710,7 +683,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Blackjack (32-in-1)  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Blackjack (32-in-1) (Atari) (PAL) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -719,7 +692,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Blue and White Sprite Demo ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Blue and White Sprite Demo (PD).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -728,7 +701,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Blue Dot Demo ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Blue Dot Demo (PD).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -737,7 +710,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Blueprint  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Blueprint (1983) (CBS Electronics).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -746,7 +719,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "BMX Air Master  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\BMX Air Master (1989) (TNT Games).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -755,7 +728,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Bobby geht nach Hause  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Bobby geht nach Hause (Starsoft) (PAL) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -764,7 +737,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Bobby is Going Home  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Bobby is Going Home (CCE) (NTSC by Thomas Jentzsch).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -773,7 +746,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Bogey Blaster  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Bogey Blaster (Telegames) (PAL) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -782,7 +755,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Boing! ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Boing! (PD).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -791,7 +764,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Bowling   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Bowling (1978) (Atari) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -800,7 +773,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Bowling (32-in-1)  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Bowling (32-in-1) (Atari) (PAL) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -809,7 +782,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Boxen  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Boxen (Ariola) (PAL) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -818,7 +791,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Boxing   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Boxing (1981) (Activision) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -827,7 +800,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Boxing (32-in-1)  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Boxing (32-in-1) (Atari) (PAL) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -836,7 +809,8 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Brain Games  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Brain Games (1982) (Atari).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -845,7 +819,8 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Breakdown   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Breakdown (AKA Capture) (Dynamics-Goliath) (PAL) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -854,7 +829,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Breakout - Breakaway IV  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Breakout - Breakaway IV (1978) (Atari).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -863,7 +838,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Brick Kick (R.J.P.G.)")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Brick Kick (R.J.P.G.).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -872,7 +847,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Bridge   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Bridge (1981) (Activision) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -881,7 +856,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Buck Rogers - Planet of Zoom   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Buck Rogers - Planet of Zoom (1983) (Sega) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -890,7 +865,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Bugs  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Bugs (1982) (Data Age).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -899,7 +874,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Bugs Bunny ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Bugs Bunny (Atari) (Prototype) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -908,7 +883,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Bump \'N\' Jump  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Bump 'N' Jump (1983) (Mattel).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -917,7 +892,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Bumper Bash  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Bumper Bash (1983) (Spectravideo).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -926,7 +901,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Burgertime  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Burgertime (1982) (Mattel).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -935,7 +910,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Burning Desire  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Burning Desire (1982) (Playaround).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -944,7 +919,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Cakewalk ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Cakewalk (CommaVid).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -953,7 +928,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "California Games  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\California Games (1988) (Epyx).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -962,7 +937,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Candi  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Candi (Space Invaders hack) [h1].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -971,7 +946,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Canguru   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Canguru (Zirok) (Brazil) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -980,7 +955,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Canyon Bomber  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Canyon Bomber (1978) (Atari).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -989,7 +964,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Carnival  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Carnival (1982) (Coleco).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -998,7 +973,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Casino   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Casino (1978) (Atari) (PAL) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1007,7 +982,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Cat Trax  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Cat Trax (1983) (UA).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1016,7 +991,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Cathouse Blues  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Cathouse Blues (1982) (Mystique).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1025,7 +1000,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Centipede  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Centipede (1982) (Atari).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1034,7 +1009,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Centipede 2k  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Centipede 2k (2000) (PD).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1043,7 +1018,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Challenge  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Challenge (Funvision) (PAL).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1052,7 +1027,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Challenge of...NEXAR  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Challenge of...NEXAR (1982) (Spectravideo).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1061,7 +1036,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Championship Soccer ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Championship Soccer (AKA Pele's Soccer).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1070,7 +1045,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Chase the Chuckwagon  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Chase the Chuckwagon (1983) (Spectravideo).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1079,7 +1054,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Checkers  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Checkers (1980) (Activision).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1088,7 +1063,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Checkers (32-in-1)  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Checkers (32-in-1) (Atari) (PAL) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1097,7 +1072,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "China Syndrome  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\China Syndrome (1982) (Spectravideo).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1106,7 +1081,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Chinese Character Demo ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Chinese Character Demo (PD).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1115,7 +1090,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Chopper Command   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Chopper Command (1982) (Activision) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1124,7 +1099,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Chuck Norris Superkicks ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Chuck Norris Superkicks (Xonox).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1133,7 +1108,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Circus Atari   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Circus Atari (1978) (Atari) (Joystick).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1142,7 +1117,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Coconuts  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Coconuts (1982) (Telesys).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1151,7 +1126,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Code Breaker  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Code Breaker (1978) (Atari).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1160,7 +1135,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Col \'N ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Col 'N (HomeVision).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1169,7 +1144,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Color Bar Generator ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Color Bar Generator (Videosoft).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1178,7 +1153,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Color Table Display Helper ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Color Table Display Helper (PD).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1187,7 +1162,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Combat   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Combat (1977) (Atari) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1196,7 +1171,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Combat (32-in-1)  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Combat (32-in-1) (Atari) (PAL) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1205,7 +1180,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Combat II  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Combat II (1982) (Atari) (Prototype) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1214,7 +1189,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Combat Rock ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Combat Rock (PD).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1223,7 +1198,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Commando  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Commando (1988) (Atari).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1232,7 +1207,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Commando Raid  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Commando Raid (1982) (US Games).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1241,7 +1216,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Communist Mutants From Space  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Communist Mutants From Space (1982) (Starpath).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1250,7 +1225,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "CompuMate  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\CompuMate (Spectravideo & Universum) (PAL) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1259,7 +1234,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Computer Chess   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Computer Chess (1983) (Atari) (Prototype).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1268,7 +1243,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Concentration  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Concentration (1978) (Atari).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1277,7 +1252,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Condor Attack ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Condor Attack (CCE).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1286,7 +1261,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Confrontation  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Confrontation (1983) (Answer Software).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1295,7 +1270,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Congo Bongo  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Congo Bongo (1983) (Sega).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1304,7 +1279,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Console Wars ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Console Wars (PD).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1313,7 +1288,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Corrida da Matematica ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Corrida da Matematica (CCE).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1322,7 +1297,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Cosmic Ark   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Cosmic Ark (1982) (Imagic) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1331,7 +1306,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Cosmic Avenger ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Cosmic Avenger (PAL) [p1][!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1340,7 +1315,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Cosmic Commuter   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Cosmic Commuter (1984) (Activision) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1349,7 +1324,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Cosmic Corridor ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Cosmic Corridor (Zimag).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1358,7 +1333,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Cosmic Creeps  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Cosmic Creeps (1982) (Telesys).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1367,7 +1342,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Cosmic Swarm   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Cosmic Swarm (1982) (CommaVid) [o1].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1376,7 +1351,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Cosmic Swarm (32-in-1)  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Cosmic Swarm (32-in-1) (Atari) (PAL) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1385,7 +1360,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Counter Demo ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Counter Demo (PD).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1394,7 +1369,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Crackpots   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Crackpots (1983) (Activision) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1403,7 +1378,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Crash Dive  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Crash Dive (1983) (20th Century Fox).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1412,7 +1387,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Crazy Climber  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Crazy Climber (1983) (Atari).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1421,7 +1396,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Crazy Valet ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Crazy Valet (Hozer Video Games).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1430,7 +1405,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Criminal Pursuit")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Criminal Pursuit.a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1439,7 +1414,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Cross Force  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Cross Force (1982) (Spectravision).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1448,7 +1423,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Crossbow  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Crossbow (1987) (Atari).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1457,7 +1432,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Cruise Missile  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Cruise Missile (1982) (Froggo).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1466,7 +1441,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Crypts of Chaos  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Crypts of Chaos (1982) (20th Century Fox).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1475,7 +1450,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Crystal Castles  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Crystal Castles (1984) (Atari).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1484,7 +1459,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Cubicolor ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Cubicolor (Rob Fulop).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1493,7 +1468,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Cubis ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Cubis (6K) (1997) (Eckhard Stolberg).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1502,7 +1477,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Cubo Magico ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Cubo Magico (CCE).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1511,7 +1486,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Custer\'s Revenge  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Custer's Revenge (1982) (Mystique).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1520,7 +1495,8 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Dancing Plate ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Dancing Plate (PAL) [p1][!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1529,7 +1505,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Dancing Plates ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Dancing Plates (PAL).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1538,7 +1514,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Dare Diver  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Dare Diver (1977) (Sears).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1547,7 +1523,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Dark Cavern   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Dark Cavern (1982) (Mattel) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1556,7 +1532,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Dark Chambers  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Dark Chambers (1988) (Atari).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1565,7 +1541,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Dark Mage ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Dark Mage (final beta) (PD).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1574,7 +1550,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Deadly Duck  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Deadly Duck (1982) (20th Century Fox).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1583,7 +1559,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Death Trap  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Death Trap (1983) (Avalon Hill).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1592,7 +1568,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Decathlon  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Decathlon (1983) (Activision).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1601,7 +1577,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Defender  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Defender (1981) (Atari).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1610,7 +1586,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Defender II  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Defender II (1984) (Atari).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1619,7 +1595,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Demolition Herby  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Demolition Herby (1982) (Telesys).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1628,7 +1604,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Demon Attack  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Demon Attack (1983) (Activision).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1637,7 +1613,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Demons to Diamonds ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Demons to Diamonds (1982).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1646,7 +1622,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Demons!")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Demons!.a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1655,7 +1631,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Desert Falcon  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Desert Falcon (1987) (Atari).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1664,7 +1640,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Diagnostic Cartridge")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Diagnostic Cartridge.a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1673,7 +1649,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Dice Puzzle")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Dice Puzzle (Panda) (PAL).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1682,7 +1658,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Dig Dug  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Dig Dug (1983) (Atari).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1691,7 +1667,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Dodge \'em  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Dodge 'em (1980) (Atari).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1700,7 +1676,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Dolphin   ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Dolphin (1983) (Activision) [!].a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1709,7 +1685,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Domino ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Domino (Ishido) (PD).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1718,7 +1694,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Donald Duck\'s Speedboat ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Donald Duck's Speedboat (Atari) (Prototype) (PAL).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1727,7 +1703,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Donkey Kong ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Donkey Kong (198x).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1736,7 +1712,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Donkey Kong Junior ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Donkey Kong Junior (Coleco).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1745,7 +1721,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Doomzerk ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Doomzerk (PD).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1754,7 +1730,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Double Dragon  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Double Dragon (1989) (Activision).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -1763,7 +1739,7 @@ namespace WindowsApplication1
             }
             if (listBox1.SelectedItem.ToString() == "Double Dunk  ")
             {
-                string cmd = @"C:\Arcade\Atari 2600\Roms\2 Pak Special - Dolphin, Pigs 'N' Wolf (1990) (HES) (PAL) [!].a26";
+                string cmd = @"C:\Arcade\Atari 2600\Roms\Double Dunk (1989) (Atari).a26";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -31256,6 +31232,19 @@ namespace WindowsApplication1
                 p.Start();
                 p.WaitForExit();
                 p.Dispose();
+            }
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            richTextBox1.Text = "";
+            foreach (string games in listBox1.Items)
+            {
+                if(games.Contains(textBox1.Text))
+                {
+                    richTextBox1.AppendText(games); // = textBox1.SelectedText.ToString();
+                    richTextBox1.AppendText("\n");
+                }
             }
         }
 
