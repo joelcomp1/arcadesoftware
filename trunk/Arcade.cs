@@ -10,8 +10,16 @@ using System.Diagnostics;
 
 namespace WindowsApplication1
 {
+   
+
     public partial class Arcade : Form
     {
+        List<string> AtariGameList = new List<string>();
+        List<string> NESGameList = new List<string>();
+        List<string> SNESGameList = new List<string>();
+        List<string> SMSGameList = new List<string>();
+        List<string> GensisGameList = new List<string>();
+
         public Arcade()
         {
             InitializeComponent();
@@ -31237,15 +31245,197 @@ namespace WindowsApplication1
 
         private void button6_Click(object sender, EventArgs e)
         {
-            richTextBox1.Text = "";
+            List<string> list = new List<string>();
             foreach (string games in listBox1.Items)
             {
+                AtariGameList.Add(games);
                 if(games.Contains(textBox1.Text))
                 {
-                    richTextBox1.AppendText(games); // = textBox1.SelectedText.ToString();
-                    richTextBox1.AppendText("\n");
+                    list.Add(games);
+
                 }
             }
+            listBox1.Items.Clear();
+
+            for (int i = 0; i < list.Count; ++i)
+            {
+                listBox1.Items.Add(list[i]);
+            }
+            list.Clear();
+        }
+
+        private void listView1_SelectedIndexChanged_2(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            listBox1.Items.Clear();
+            int i = 0;
+            foreach(string game in AtariGameList)
+            {
+            listBox1.Items.Add(AtariGameList[i]);
+                i++;
+            }
+        }
+
+        private void button14_Click(object sender, EventArgs e)
+        {
+            listBox4.Items.Clear();
+            int i = 0;
+            foreach (string game in SNESGameList)
+            {
+                listBox4.Items.Add(SNESGameList[i]);
+                i++;
+            }
+        }
+
+        private void button15_Click(object sender, EventArgs e)
+        {
+            List<string> list = new List<string>();
+            foreach (string games in listBox4.Items)
+            {
+                SNESGameList.Add(games);
+                if (games.Contains(textBox5.Text))
+                {
+                    list.Add(games);
+
+                }
+            }
+            listBox4.Items.Clear();
+
+            for (int i = 0; i < list.Count; ++i)
+            {
+                listBox4.Items.Add(list[i]);
+            }
+            list.Clear();
+        }
+
+        private void textBox5_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            List<string> list = new List<string>();
+            foreach (string games in listBox2.Items)
+            {
+                NESGameList.Add(games);
+                if (games.Contains(textBox2.Text))
+                {
+                    list.Add(games);
+
+                }
+            }
+            listBox2.Items.Clear();
+
+            for (int i = 0; i < list.Count; ++i)
+            {
+                listBox2.Items.Add(list[i]);
+            }
+            list.Clear();
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            listBox2.Items.Clear();
+            int i = 0;
+            foreach (string game in NESGameList)
+            {
+                listBox2.Items.Add(NESGameList[i]);
+                i++;
+            }
+        }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+            List<string> list = new List<string>();
+            foreach (string games in listBox3.Items)
+            {
+                SMSGameList.Add(games);
+                if (games.Contains(textBox3.Text))
+                {
+                    list.Add(games);
+
+                }
+            }
+            listBox3.Items.Clear();
+
+            for (int i = 0; i < list.Count; ++i)
+            {
+                listBox3.Items.Add(list[i]);
+            }
+            list.Clear();
+        }
+
+        private void listBox3_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            listBox3.Items.Clear();
+            int i = 0;
+            foreach (string game in SMSGameList)
+            {
+                listBox3.Items.Add(SMSGameList[i]);
+                i++;
+            }
+        }
+
+        private void button13_Click(object sender, EventArgs e)
+        {
+            List<string> list = new List<string>();
+            foreach (string games in listBox5.Items)
+            {
+                GensisGameList.Add(games);
+                if (games.Contains(textBox4.Text))
+                {
+                    list.Add(games);
+
+                }
+            }
+            listBox5.Items.Clear();
+
+            for (int i = 0; i < list.Count; ++i)
+            {
+                listBox5.Items.Add(list[i]);
+            }
+            list.Clear();
+        }
+
+        private void textBox4_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button12_Click(object sender, EventArgs e)
+        {
+            listBox5.Items.Clear();
+            int i = 0;
+            foreach (string game in GensisGameList)
+            {
+                listBox5.Items.Add(GensisGameList[i]);
+                i++;
+            }
+        }
+
+        private void listBox4_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
 
 

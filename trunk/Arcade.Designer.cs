@@ -45,6 +45,8 @@ namespace WindowsApplication1
             this.listBox2 = new System.Windows.Forms.ListBox();
             this.pictureBox21 = new System.Windows.Forms.PictureBox();
             this.Atari_2600 = new System.Windows.Forms.TabPage();
+            this.button6 = new System.Windows.Forms.Button();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
             this.listBox1 = new System.Windows.Forms.ListBox();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
@@ -55,9 +57,19 @@ namespace WindowsApplication1
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.Main = new System.Windows.Forms.TabControl();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.button6 = new System.Windows.Forms.Button();
-            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
+            this.button7 = new System.Windows.Forms.Button();
+            this.button8 = new System.Windows.Forms.Button();
+            this.button9 = new System.Windows.Forms.Button();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.button10 = new System.Windows.Forms.Button();
+            this.button11 = new System.Windows.Forms.Button();
+            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.button12 = new System.Windows.Forms.Button();
+            this.button13 = new System.Windows.Forms.Button();
+            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.button14 = new System.Windows.Forms.Button();
+            this.button15 = new System.Windows.Forms.Button();
+            this.textBox5 = new System.Windows.Forms.TextBox();
             this.SNES.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
             this.Sega_Genesis.SuspendLayout();
@@ -79,6 +91,9 @@ namespace WindowsApplication1
             // 
             // SNES
             // 
+            this.SNES.Controls.Add(this.button14);
+            this.SNES.Controls.Add(this.button15);
+            this.SNES.Controls.Add(this.textBox5);
             this.SNES.Controls.Add(this.button4);
             this.SNES.Controls.Add(this.listBox4);
             this.SNES.Controls.Add(this.pictureBox7);
@@ -871,6 +886,7 @@ namespace WindowsApplication1
             this.listBox4.Name = "listBox4";
             this.listBox4.Size = new System.Drawing.Size(339, 290);
             this.listBox4.TabIndex = 8;
+            this.listBox4.SelectedIndexChanged += new System.EventHandler(this.listBox4_SelectedIndexChanged);
             // 
             // pictureBox7
             // 
@@ -883,6 +899,9 @@ namespace WindowsApplication1
             // 
             // Sega_Genesis
             // 
+            this.Sega_Genesis.Controls.Add(this.button12);
+            this.Sega_Genesis.Controls.Add(this.button13);
+            this.Sega_Genesis.Controls.Add(this.textBox4);
             this.Sega_Genesis.Controls.Add(this.button5);
             this.Sega_Genesis.Controls.Add(this.listBox5);
             this.Sega_Genesis.Controls.Add(this.pictureBox8);
@@ -1648,6 +1667,9 @@ namespace WindowsApplication1
             // 
             // Sega_Master_System
             // 
+            this.Sega_Master_System.Controls.Add(this.button10);
+            this.Sega_Master_System.Controls.Add(this.button11);
+            this.Sega_Master_System.Controls.Add(this.textBox3);
             this.Sega_Master_System.Controls.Add(this.button3);
             this.Sega_Master_System.Controls.Add(this.listBox3);
             this.Sega_Master_System.Controls.Add(this.pictureBox22);
@@ -2064,6 +2086,7 @@ namespace WindowsApplication1
             this.listBox3.Name = "listBox3";
             this.listBox3.Size = new System.Drawing.Size(339, 290);
             this.listBox3.TabIndex = 6;
+            this.listBox3.SelectedIndexChanged += new System.EventHandler(this.listBox3_SelectedIndexChanged);
             // 
             // pictureBox22
             // 
@@ -2076,6 +2099,9 @@ namespace WindowsApplication1
             // 
             // NES
             // 
+            this.NES.Controls.Add(this.button8);
+            this.NES.Controls.Add(this.button9);
+            this.NES.Controls.Add(this.textBox2);
             this.NES.Controls.Add(this.button2);
             this.NES.Controls.Add(this.listBox2);
             this.NES.Controls.Add(this.pictureBox21);
@@ -2991,7 +3017,7 @@ namespace WindowsApplication1
             // 
             // Atari_2600
             // 
-            this.Atari_2600.Controls.Add(this.richTextBox1);
+            this.Atari_2600.Controls.Add(this.button7);
             this.Atari_2600.Controls.Add(this.button6);
             this.Atari_2600.Controls.Add(this.textBox1);
             this.Atari_2600.Controls.Add(this.button1);
@@ -3005,6 +3031,23 @@ namespace WindowsApplication1
             this.Atari_2600.Text = "Atari 2600";
             this.Atari_2600.UseVisualStyleBackColor = true;
             this.Atari_2600.Click += new System.EventHandler(this.Atari_2600_Click);
+            // 
+            // button6
+            // 
+            this.button6.Location = new System.Drawing.Point(100, 85);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(75, 23);
+            this.button6.TabIndex = 6;
+            this.button6.Text = "Search";
+            this.button6.UseVisualStyleBackColor = true;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(100, 41);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(100, 20);
+            this.textBox1.TabIndex = 5;
             // 
             // button1
             // 
@@ -3827,30 +3870,127 @@ namespace WindowsApplication1
             this.pictureBox1.TabIndex = 2;
             this.pictureBox1.TabStop = false;
             // 
-            // textBox1
+            // button7
             // 
-            this.textBox1.Location = new System.Drawing.Point(100, 36);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
-            this.textBox1.TabIndex = 5;
+            this.button7.Location = new System.Drawing.Point(100, 115);
+            this.button7.Name = "button7";
+            this.button7.Size = new System.Drawing.Size(75, 23);
+            this.button7.TabIndex = 7;
+            this.button7.Text = "Reset List";
+            this.button7.UseVisualStyleBackColor = true;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
-            // button6
+            // button8
             // 
-            this.button6.Location = new System.Drawing.Point(100, 80);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(75, 23);
-            this.button6.TabIndex = 6;
-            this.button6.Text = "Search";
-            this.button6.UseVisualStyleBackColor = true;
-            this.button6.Click += new System.EventHandler(this.button6_Click);
+            this.button8.Location = new System.Drawing.Point(100, 115);
+            this.button8.Name = "button8";
+            this.button8.Size = new System.Drawing.Size(75, 23);
+            this.button8.TabIndex = 10;
+            this.button8.Text = "Reset List";
+            this.button8.UseVisualStyleBackColor = true;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
-            // richTextBox1
+            // button9
             // 
-            this.richTextBox1.Location = new System.Drawing.Point(206, 27);
-            this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(233, 111);
-            this.richTextBox1.TabIndex = 7;
-            this.richTextBox1.Text = "\t              Search Results";
+            this.button9.Location = new System.Drawing.Point(100, 85);
+            this.button9.Name = "button9";
+            this.button9.Size = new System.Drawing.Size(75, 23);
+            this.button9.TabIndex = 9;
+            this.button9.Text = "Search";
+            this.button9.UseVisualStyleBackColor = true;
+            this.button9.Click += new System.EventHandler(this.button9_Click);
+            // 
+            // textBox2
+            // 
+            this.textBox2.Location = new System.Drawing.Point(100, 41);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(100, 20);
+            this.textBox2.TabIndex = 8;
+            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
+            // 
+            // button10
+            // 
+            this.button10.Location = new System.Drawing.Point(100, 115);
+            this.button10.Name = "button10";
+            this.button10.Size = new System.Drawing.Size(75, 23);
+            this.button10.TabIndex = 13;
+            this.button10.Text = "Reset List";
+            this.button10.UseVisualStyleBackColor = true;
+            this.button10.Click += new System.EventHandler(this.button10_Click);
+            // 
+            // button11
+            // 
+            this.button11.Location = new System.Drawing.Point(100, 85);
+            this.button11.Name = "button11";
+            this.button11.Size = new System.Drawing.Size(75, 23);
+            this.button11.TabIndex = 12;
+            this.button11.Text = "Search";
+            this.button11.UseVisualStyleBackColor = true;
+            this.button11.Click += new System.EventHandler(this.button11_Click);
+            // 
+            // textBox3
+            // 
+            this.textBox3.Location = new System.Drawing.Point(100, 41);
+            this.textBox3.Name = "textBox3";
+            this.textBox3.Size = new System.Drawing.Size(100, 20);
+            this.textBox3.TabIndex = 11;
+            this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
+            // 
+            // button12
+            // 
+            this.button12.Location = new System.Drawing.Point(100, 115);
+            this.button12.Name = "button12";
+            this.button12.Size = new System.Drawing.Size(75, 23);
+            this.button12.TabIndex = 14;
+            this.button12.Text = "Reset List";
+            this.button12.UseVisualStyleBackColor = true;
+            this.button12.Click += new System.EventHandler(this.button12_Click);
+            // 
+            // button13
+            // 
+            this.button13.Location = new System.Drawing.Point(100, 85);
+            this.button13.Name = "button13";
+            this.button13.Size = new System.Drawing.Size(75, 23);
+            this.button13.TabIndex = 13;
+            this.button13.Text = "Search";
+            this.button13.UseVisualStyleBackColor = true;
+            this.button13.Click += new System.EventHandler(this.button13_Click);
+            // 
+            // textBox4
+            // 
+            this.textBox4.Location = new System.Drawing.Point(100, 41);
+            this.textBox4.Name = "textBox4";
+            this.textBox4.Size = new System.Drawing.Size(100, 20);
+            this.textBox4.TabIndex = 12;
+            this.textBox4.TextChanged += new System.EventHandler(this.textBox4_TextChanged);
+            // 
+            // button14
+            // 
+            this.button14.Location = new System.Drawing.Point(100, 115);
+            this.button14.Name = "button14";
+            this.button14.Size = new System.Drawing.Size(75, 23);
+            this.button14.TabIndex = 13;
+            this.button14.Text = "Reset List";
+            this.button14.UseVisualStyleBackColor = true;
+            this.button14.Click += new System.EventHandler(this.button14_Click);
+            // 
+            // button15
+            // 
+            this.button15.Location = new System.Drawing.Point(100, 85);
+            this.button15.Name = "button15";
+            this.button15.Size = new System.Drawing.Size(75, 23);
+            this.button15.TabIndex = 12;
+            this.button15.Text = "Search";
+            this.button15.UseVisualStyleBackColor = true;
+            this.button15.Click += new System.EventHandler(this.button15_Click);
+            // 
+            // textBox5
+            // 
+            this.textBox5.Location = new System.Drawing.Point(100, 41);
+            this.textBox5.Name = "textBox5";
+            this.textBox5.Size = new System.Drawing.Size(100, 20);
+            this.textBox5.TabIndex = 11;
+            this.textBox5.TextChanged += new System.EventHandler(this.textBox5_TextChanged);
             // 
             // Arcade
             // 
@@ -3862,12 +4002,16 @@ namespace WindowsApplication1
             this.Name = "Arcade";
             this.Text = "Arcade Classics";
             this.SNES.ResumeLayout(false);
+            this.SNES.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
             this.Sega_Genesis.ResumeLayout(false);
+            this.Sega_Genesis.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
             this.Sega_Master_System.ResumeLayout(false);
+            this.Sega_Master_System.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox22)).EndInit();
             this.NES.ResumeLayout(false);
+            this.NES.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox21)).EndInit();
             this.Atari_2600.ResumeLayout(false);
             this.Atari_2600.PerformLayout();
@@ -3914,7 +4058,19 @@ namespace WindowsApplication1
         private System.Windows.Forms.ListBox listBox5;
         private System.Windows.Forms.Button button6;
         private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.RichTextBox richTextBox1;
+        private System.Windows.Forms.Button button7;
+        private System.Windows.Forms.Button button8;
+        private System.Windows.Forms.Button button9;
+        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.Button button14;
+        private System.Windows.Forms.Button button15;
+        private System.Windows.Forms.TextBox textBox5;
+        private System.Windows.Forms.Button button12;
+        private System.Windows.Forms.Button button13;
+        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.Button button10;
+        private System.Windows.Forms.Button button11;
+        private System.Windows.Forms.TextBox textBox3;
 
 
 
