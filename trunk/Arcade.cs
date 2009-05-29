@@ -12159,7 +12159,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "SCAT - Special Cybernetic Attack Team ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\SCAT - Special Cybernetic Attack Team (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12168,7 +12168,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "SCAT")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\SCAT.NES";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12177,7 +12177,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Secret Scout ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Secret Scout (Unl).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12186,7 +12186,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Section Z ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Section Z (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12195,7 +12195,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Seicross ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Seicross (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12204,7 +12204,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Sesame Street 123 ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Sesame Street 123 (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12213,7 +12213,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Sesame Street ABC ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Sesame Street ABC (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12222,7 +12222,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Sesame Street ABC - 123 ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Sesame Street ABC - 123 (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12231,7 +12231,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Sesame Street Countdown ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Sesame Street Countdown (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12240,7 +12240,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Shadow of the Ninja ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Shadow of the Ninja (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12249,7 +12249,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Shadow Warriors ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Shadow Warriors (E).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12258,7 +12258,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Shadow Warriors Episode II - The Dark Sword of Chaos ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Shadow Warriors Episode II - The Dark Sword of Chaos (E) [!].nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12267,7 +12267,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Shadowgate ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Shadowgate (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12276,7 +12276,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Shatterhand ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Shatterhand (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12285,7 +12285,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Shingen The Ruler ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Shingen The Ruler (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12294,7 +12294,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Shinobi ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Shinobi (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12303,7 +12303,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Shockwave ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Shockwave (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12312,7 +12312,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Shooting Range ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Shooting Range (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12321,7 +12321,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Short Order - Eggsplode ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Short Order - Eggsplode (U) [!].nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12330,7 +12330,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Side Pocket ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Side Pocket (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12339,7 +12339,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Silent Assault ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Silent Assault (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12348,7 +12348,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Silent Service ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Silent Service (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12357,7 +12357,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Silk Worm ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Silk Worm (U).nes"; ;
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12366,34 +12366,34 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Silver Surfer ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+string cmd = @"C:\Arcade\NES\Roms\Silver Surfer (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
                 p.WaitForExit();
                 p.Dispose();
             }
-            if (listBox2.SelectedItem.ToString() == "Simpsons) The - Bart Vs. the Space Mutants ")
+            if (listBox2.SelectedItem.ToString() == "Simpsons, The - Bart Vs. the Space Mutants ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Simpsons, The - Bart Vs. the Space Mutants (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
                 p.WaitForExit();
                 p.Dispose();
             }
-            if (listBox2.SelectedItem.ToString() == "Simpsons) The - Bart Vs. the World ")
+            if (listBox2.SelectedItem.ToString() == "Simpsons, The - Bart Vs. the World ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Simpsons, The - Bart Vs. the World (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
                 p.WaitForExit();
                 p.Dispose();
             }
-            if (listBox2.SelectedItem.ToString() == "Simpsons) The - Bartman Meets Radioactive Man ")
+            if (listBox2.SelectedItem.ToString() == "Simpsons, The - Bartman Meets Radioactive Man ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Simpsons, The - Bartman Meets Radioactive Man (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12402,7 +12402,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Skate or Die 2 - The Search for Double Trouble ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Skate or Die 2 - The Search for Double Trouble (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12411,7 +12411,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Skate or Die! ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Skate or Die! (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12420,7 +12420,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Ski or Die ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Ski or Die (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12429,7 +12429,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Skull & Crossbones ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Skull & Crossbones (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12438,7 +12438,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Sky Kid ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Sky Kid (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12447,7 +12447,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Sky Shark ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Sky Shark (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12456,7 +12456,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Slalom ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Slalom (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12465,16 +12465,16 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Smash T.V. ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Smash T.V. (U) [!].nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
                 p.WaitForExit();
                 p.Dispose();
             }
-            if (listBox2.SelectedItem.ToString() == "Smurfs) The ")
+            if (listBox2.SelectedItem.ToString() == "Smurfs, The ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Smurfs, The (E) [!].nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12483,7 +12483,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Snake Rattle\'n Roll ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Snake Rattle'n Roll (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12492,7 +12492,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Snake\'s Revenge ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Snake's Revenge (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12501,7 +12501,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Snoopy\'s Silly Sports Spectacular ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Snoopy's Silly Sports Spectacular (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12510,7 +12510,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Snow Bros ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Snow Bros (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12519,7 +12519,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Soccer ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Soccer (E) [!].nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12528,7 +12528,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Solar Jetman - Hunt for the Golden Warpship ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Solar Jetman - Hunt for the Golden Warpship (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12537,7 +12537,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Solitaire ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Solitaire (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12546,7 +12546,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Solomon\'s Key ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Solomon's Key (U) [!].nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12555,7 +12555,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Solomon\'s Key 2 ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Solomon's Key 2 (E) [!].nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12564,7 +12564,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Solstice ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Solstice (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12573,7 +12573,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Space Shuttle Project ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Space Shuttle Project (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12582,7 +12582,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Spelunker ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Spelunker (U) [!].nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12591,7 +12591,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Spider-Man - Return of the Sinister Six ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Spider-Man - Return of the Sinister Six (U) [!].nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12600,7 +12600,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Spiritual Warfare ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Spiritual Warfare (U) (V6.1).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12609,7 +12609,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Spot ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Spot (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12618,7 +12618,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Spy Hunter ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Spy Hunter (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12627,7 +12627,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Spy Vs Spy ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Spy Vs Spy (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12636,7 +12636,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Sqoon ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Sqoon (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12645,7 +12645,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Stadium Events ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Stadium Events (U) [!].nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12654,7 +12654,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Stanley - The Search for Dr. Livingston ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Stanley - The Search for Dr. Livingston (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12663,7 +12663,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Star Force ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Star Force (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12672,7 +12672,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Star Soldier ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Star Soldier (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12681,7 +12681,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Star Trek - 25th Anniversary ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Star Trek - 25th Anniversary (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12690,7 +12690,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Star Trek - The Next Generation ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Star Trek - The Next Generation (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12699,7 +12699,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Star Voyager ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Star Voyager (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12708,7 +12708,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Star Wars ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Star Wars (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12717,7 +12717,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Star Wars - The Empire Strikes Back ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Star Wars - The Empire Strikes Back (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12726,7 +12726,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Starship Hector ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Starship Hector (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12735,7 +12735,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Startropics ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Startropics (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12744,7 +12744,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Startropics 2 - Zoda\'s Revenge ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Startropics 2 - Zoda's Revenge (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12753,7 +12753,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Stealth ATF ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Stealth ATF (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12762,7 +12762,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Stinger ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Stinger (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12771,7 +12771,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Street Cop ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Street Cop (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12780,7 +12780,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Street Fighter 2010 ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Street Fighter 2010 (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12789,7 +12789,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Street Fighter 3 ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Street Fighter 3 [p1].nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12798,7 +12798,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Street Fighter 4 ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Street Fighter 4 [p1].nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12807,7 +12807,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Street Fighter Zero 2 ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Street Fighter Zero 2 [p1].nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12816,7 +12816,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Street Gangs ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Street Gangs (E).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12825,7 +12825,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Strider ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Strider (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12834,7 +12834,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Stunt Kids ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Stunt Kids (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12843,7 +12843,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Sunday Funday ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Sunday Funday (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12852,7 +12852,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Super Cars ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Super Cars (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12861,7 +12861,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Super Dodge Ball ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+string cmd = @"C:\Arcade\NES\Roms\Super Dodge Ball (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12870,7 +12870,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Super Donkey Kong 2 ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Super Donkey Kong 2 [p1].nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12879,7 +12879,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Super Donkey Kong ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Super Donkey Kong [p1][!].nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12888,7 +12888,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Super Glove Ball ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Super Glove Ball (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12897,7 +12897,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Super Jeopardy! ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Super Jeopardy! (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12906,7 +12906,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Super Mario Bros. ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Super Mario Bros. (E).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12915,7 +12915,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Super Mario Bros. + Duck Hunt ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Super Mario Bros. + Duck Hunt (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12924,7 +12924,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Super Mario Bros. 2 ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Super Mario Bros. 2 (E) [!].nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12933,7 +12933,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Super Mario Bros. 3 ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Super Mario Bros. 3 (E).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12942,7 +12942,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Super Mario World ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Super Mario World [p1].nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12951,7 +12951,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Super Mary ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Super Mary [p1][!].nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12960,7 +12960,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Super Off-Road ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Super Off-Road (E) [!].nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12969,7 +12969,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Super Pitfall ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Super Pitfall (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12978,7 +12978,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Super Skater ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Super Skater (VS).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12987,7 +12987,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Super Sky Kid ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Super Sky Kid (VS).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -12996,7 +12996,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Super Spike V\'Ball ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Super Spike V'Ball (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13005,7 +13005,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Super Sprint ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Super Sprint (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13014,7 +13014,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Super Spy Hunter ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Super Spy Hunter (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13023,7 +13023,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Super Team Games ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Super Team Games (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13032,7 +13032,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Super Turrican ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Super Turrican (E).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13041,7 +13041,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Super Xevious ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Super Xevious (VS).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13050,7 +13050,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Superman ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Superman (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13059,7 +13059,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Swamp Thing ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Swamp Thing (U) [!].nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13068,7 +13068,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "SWAT")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\SWAT.NES";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13077,7 +13077,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Sword Master ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Sword Master (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13086,7 +13086,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Swords and Serpents ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Swords and Serpents (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13095,7 +13095,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "T&C 2 - Thrilla\'s Surfari ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\T&C 2 - Thrilla's Surfari (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13104,7 +13104,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "T&C Surf Design ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\T&C Surf Design (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13113,7 +13113,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "T2")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\T2.NES";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13122,7 +13122,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Taboo - The Sixth Sense ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Taboo - The Sixth Sense (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13131,7 +13131,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Tag Team Wrestling ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Tag Team Wrestling (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13140,7 +13140,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Tagin\' Dragon ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Tagin' Dragon (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13149,7 +13149,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "TaleSpin ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\TaleSpin (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13158,7 +13158,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Target Renegade ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Target Renegade (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13167,7 +13167,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Tecmo Baseball ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Tecmo Baseball (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13176,7 +13176,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Tecmo Bowl ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Tecmo Bowl (U) (PRG1).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13185,7 +13185,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Tecmo Cup - Soccer Game ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Tecmo Cup - Soccer Game (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13194,7 +13194,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Tecmo NBA Basketball ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Tecmo NBA Basketball (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13203,7 +13203,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Tecmo NFL Dynasties")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Tecmo NFL Dynasties.nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13212,7 +13212,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Tecmo Super Bowl ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Tecmo Super Bowl (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13221,7 +13221,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Tecmo World Wrestling ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Tecmo World Wrestling (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13230,7 +13230,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Teenage Mutant Hero Turtles ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Teenage Mutant Hero Turtles (E).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13239,7 +13239,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Teenage Mutant Hero Turtles II - The Arcade Game ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Teenage Mutant Hero Turtles II - The Arcade Game (E) [!].nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13248,7 +13248,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Teenage Mutant Ninja Turtles - Tournament Fighters ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Teenage Mutant Ninja Turtles - Tournament Fighters (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13257,7 +13257,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Teenage Mutant Ninja Turtles III - The Manhattan Project ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Teenage Mutant Ninja Turtles III - The Manhattan Project (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13266,7 +13266,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Tekken 2 ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Tekken 2 [p1].nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13275,16 +13275,16 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Terminator 2 - Judgment Day ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Terminator 2 - Judgment Day (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
                 p.WaitForExit();
                 p.Dispose();
             }
-            if (listBox2.SelectedItem.ToString() == "Terminator) The ")
+            if (listBox2.SelectedItem.ToString() == "Terminator, The ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Terminator, The (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13293,7 +13293,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Terra Cresta ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Terra Cresta (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13302,7 +13302,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Tetris ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Tetris (Unl).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13311,7 +13311,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Tetris 2 ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Tetris 2 (E).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13320,7 +13320,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Three Stooges ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Three Stooges (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13329,7 +13329,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Thunder & Lightning ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Thunder & Lightning (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13338,7 +13338,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Thunderbirds ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Thunderbirds (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13347,7 +13347,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Thundercade ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+string cmd = @"C:\Arcade\NES\Roms\Thundercade (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13356,7 +13356,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Tiger-Heli ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Tiger-Heli (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13365,7 +13365,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Tiles of Fate ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Tiles of Fate (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13374,7 +13374,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Time Lord ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Time Lord (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13383,7 +13383,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Times of Lore ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Times of Lore (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13392,7 +13392,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Tiny Toon Adventures ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Tiny Toon Adventures (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13401,7 +13401,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Tiny Toon Adventures 2 - Trouble in Wackyland ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Tiny Toon Adventures 2 - Trouble in Wackyland (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13410,7 +13410,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Tiny Toon Adventures Cartoon Workshop ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Tiny Toon Adventures Cartoon Workshop (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13419,7 +13419,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "To The Earth ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\To The Earth (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13428,7 +13428,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Toki ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Toki (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13437,7 +13437,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Tom & Jerry 3 ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Tom & Jerry 3 (Unl).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13446,7 +13446,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Tom & Jerry and Tuffy ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Tom & Jerry and Tuffy (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13455,7 +13455,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Tombs and Treasure ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Tombs and Treasure (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13464,7 +13464,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Toobin\' ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Toobin' (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13473,7 +13473,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Top Gun ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Top Gun (E) [!].nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13482,7 +13482,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Top Gun - The Second Mission ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Top Gun - The Second Mission (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13491,7 +13491,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Top Players\' Tennis - Featuring Chris Evert & Ivan Lendl ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Top Players' Tennis - Featuring Chris Evert & Ivan Lendl (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13500,7 +13500,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Total Recall ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Total Recall (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13509,7 +13509,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Totally Rad ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Totally Rad (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13518,7 +13518,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Touch Down Fever ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Touch Down Fever (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13527,7 +13527,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Toxic Crusaders ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Toxic Crusaders (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13536,7 +13536,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Track & Field ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Track & Field (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13545,7 +13545,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Treasure Master ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Treasure Master (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13554,7 +13554,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Trog ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Trog (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13563,7 +13563,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Trojan ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Trojan (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13572,7 +13572,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Trolls on Treasure Island ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Trolls on Treasure Island (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13581,7 +13581,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Turbo Racing ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Turbo Racing (E).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13590,7 +13590,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Twin Cobra ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Twin Cobra (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13599,7 +13599,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Twin Eagle ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Twin Eagle (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13608,7 +13608,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Ufouria ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Ufouria (E).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13617,7 +13617,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Ultima - Exodus ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Ultima - Exodus (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13626,7 +13626,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Ultima - Quest of the Avatar ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Ultima - Quest of the Avatar (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13635,7 +13635,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Ultima - Warriors of Destiny ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Ultima - Warriors of Destiny (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13644,7 +13644,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Ultimate Air Combat ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Ultimate Air Combat (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13653,7 +13653,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Ultimate Basketball ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Ultimate Basketball (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13662,7 +13662,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Ultimate League Soccer ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Ultimate League Soccer (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13671,7 +13671,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Ultimate Stuntman ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Ultimate Stuntman (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13680,7 +13680,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Uncharted Waters ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Uncharted Waters (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13689,16 +13689,16 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Uninvited ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Uninvited (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
                 p.WaitForExit();
                 p.Dispose();
             }
-            if (listBox2.SelectedItem.ToString() == "Untouchables) The ")
+            if (listBox2.SelectedItem.ToString() == "Untouchables, The ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Untouchables, The (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13707,7 +13707,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Urban Champion ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Urban Champion (JU).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13716,7 +13716,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Vegas Dream ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Vegas Dream (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13725,7 +13725,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Venice Beach Volleyball ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Venice Beach Volleyball (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13734,7 +13734,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Vice - Project Doom ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Vice - Project Doom (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13743,7 +13743,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Videomation ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Videomation (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13752,7 +13752,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Vindicators ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Vindicators (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13761,7 +13761,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Volleyball ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Volleyball (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13770,7 +13770,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "VS Castlevania ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\VS Castlevania (VS).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13779,7 +13779,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "VS Slalom ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\VS Slalom (VS).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13788,7 +13788,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "VS Super Mario Bros. ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\VS Super Mario Bros. (VS).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13797,7 +13797,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "VS TKO Boxing ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\VS TKO Boxing (VS) [!].nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13806,7 +13806,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Wacky Races ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Wacky Races (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13815,7 +13815,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Wall Street Kid ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Wall Street Kid (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13824,7 +13824,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Wally Bear and the No Gang ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Wally Bear and the No Gang (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13833,7 +13833,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Wario\'s Woods ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Wario's Woods (U) [!].nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13842,7 +13842,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Wayne Gretzky Hockey ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Wayne Gretzky Hockey (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13851,7 +13851,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Wayne\'s World ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Wayne's World (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13860,7 +13860,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "WCW World Championship Wrestling ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\WCW World Championship Wrestling (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13869,7 +13869,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Werewolf - The Last Warrior ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Werewolf - The Last Warrior (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13878,7 +13878,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Wheel of Fortune ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Wheel of Fortune (U) (PRG0).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13887,7 +13887,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Wheel of Fortune Family Edition ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Wheel of Fortune Family Edition (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13896,7 +13896,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Wheel of Fortune Junior Edition ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Wheel of Fortune Junior Edition (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13905,7 +13905,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Where in Time is Carmen Sandiego ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Where in Time is Carmen Sandiego (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13914,7 +13914,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Where\'s Waldo ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Where's Waldo (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13923,7 +13923,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Who Framed Roger Rabbit ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Who Framed Roger Rabbit (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13932,7 +13932,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Whomp\'Em ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Whomp'Em (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13941,7 +13941,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Widget ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Widget (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13950,7 +13950,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Wild Gunman ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Wild Gunman (U) (PRG1) [!].nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13959,16 +13959,16 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Willow ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Willow (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
                 p.WaitForExit();
                 p.Dispose();
             }
-            if (listBox2.SelectedItem.ToString() == "Win) Lose or Draw ")
+            if (listBox2.SelectedItem.ToString() == "Win, Lose or Draw ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Win, Lose or Draw (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13977,7 +13977,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Winter Games ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Winter Games (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13986,7 +13986,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Wizardry - Proving Grounds of the Mad Overlord ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Wizardry - Proving Grounds of the Mad Overlord (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -13995,7 +13995,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Wizardry - The Knight of Diamonds ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Wizardry - The Knight of Diamonds (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14004,7 +14004,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Wizards & Warriors ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Wizards & Warriors (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14013,7 +14013,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Wizards & Warriors 3 ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Wizards & Warriors 3 (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14022,7 +14022,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Wolverine ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Wolverine (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14031,7 +14031,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "World Champ ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\World Champ (U) [!].nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14040,7 +14040,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "World Class Track Meet ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\World Class Track Meet (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14049,7 +14049,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "World Games ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\World Games (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14058,7 +14058,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "World Heroes 2 ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\World Heroes 2 [p1].nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14067,7 +14067,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Wrath of the Black Manta ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Wrath of the Black Manta (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14076,7 +14076,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Wrecking Crew")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Wrecking Crew (JUE).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14085,7 +14085,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Wrestlemania Challenge ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Wrestlemania Challenge (E) [!].nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14094,7 +14094,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Wurm ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Wurm (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14103,7 +14103,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "WWF King of the Ring ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\WWF King of the Ring (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14112,7 +14112,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "WWF Steel Cage Challenge ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\WWF Steel Cage Challenge (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14121,7 +14121,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "WWF Wrestlemania ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\WWF Wrestlemania (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14130,7 +14130,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "WWF Wrestlemania Challenge ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\WWF Wrestlemania Challenge (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14139,7 +14139,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Xenophobe ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Xenophobe (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14148,7 +14148,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Xevious ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Xevious (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14157,7 +14157,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Xexyz ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Xexyz (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14166,7 +14166,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Xexyz")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Xexyz.nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14175,7 +14175,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "XMEN")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\XMEN.NES";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14184,7 +14184,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Yo! Noid ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14193,7 +14193,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Yo!Noid")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Yo!Noid.nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14202,7 +14202,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Yoshi ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Yoshi (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14211,7 +14211,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Yoshi\'s Cookie ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Yoshi's Cookie (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14220,7 +14220,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Yoshi")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Yoshi.nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14229,7 +14229,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Young Indiana Jones Chronicles) The ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Young Indiana Jones Chronicles, The (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14238,7 +14238,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Zanac ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Zanac (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14247,7 +14247,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Zelda II - The Adventure of Link ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Zelda II - The Adventure of Link (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14256,7 +14256,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Zelda")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Zelda.nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14265,7 +14265,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Zelda2")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Zelda2.nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14274,7 +14274,7 @@ string cmd = @"C:\Arcade\NES\Roms\Journey to Silius (U).nes";
             }
             if (listBox2.SelectedItem.ToString() == "Zombie Nation ")
             {
-                string cmd = @"C:\Arcade\NES\Roms\10-Yard Fight (U).nes";
+                string cmd = @"C:\Arcade\NES\Roms\Zombie Nation (U).nes";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
