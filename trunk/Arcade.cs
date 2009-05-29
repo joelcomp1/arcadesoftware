@@ -14301,7 +14301,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Ace of Aces ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Ace of Aces (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14310,7 +14310,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Action Fighter ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Action Fighter (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14319,7 +14319,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Addams Family, The ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Addams Family, The (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14328,7 +14328,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Aerial Assault ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Aerial Assault (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14337,7 +14337,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "After Burner ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\After Burner (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14346,7 +14346,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Air Rescue ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Air Rescue (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14355,7 +14355,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Akai Koudan Zillion ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Akai Koudan Zillion (J) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14364,7 +14364,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Aladdin ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Aladdin (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14373,7 +14373,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Aleste ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Aleste (JUE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14382,7 +14382,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Alex Kidd - The Lost Stars ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Alex Kidd - The Lost Stars (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14391,7 +14391,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Alex Kidd BMX Trial ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Alex Kidd BMX Trial (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14400,7 +14400,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Alex Kidd in High Tech World ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Alex Kidd in High Tech World (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14409,7 +14409,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Alex Kidd in Miracle World ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Alex Kidd in Miracle World (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14418,7 +14418,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "ALF ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\ALF (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14427,7 +14427,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Alien 3 ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Alien 3 (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14436,7 +14436,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Alien Storm ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Alien Storm (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14445,7 +14445,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Alien Syndrome ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Alien Syndrome (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14454,7 +14454,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Altered Beast ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Altered Beast (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14463,7 +14463,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "American Baseball ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\American Baseball (JE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14472,7 +14472,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "American Pro Football ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\American Pro Football (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14481,7 +14481,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Andre Agassi Tennis ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Andre Agassi Tennis (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14490,7 +14490,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Anmitsu Hime ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Anmitsu Hime (J) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14499,7 +14499,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Arcade Smash Hits ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Arcade Smash Hits (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14508,7 +14508,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Ashura ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Ashura (J) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14517,7 +14517,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Assault City - Light Phaser Version ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Assault City - Light Phaser Version (U) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14526,7 +14526,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Assault City - Pad Version ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Assault City - Pad Version (E) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14544,7 +14544,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Asterix and the Great Rescue ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Asterix and the Great Rescue (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14553,7 +14553,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Asterix and the Secret Mission ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Asterix and the Secret Mission (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14562,7 +14562,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Astro Flash ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Astro Flash (J) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14571,7 +14571,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Astro Warrior & Pit Pot ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Astro Warrior & Pit Pot (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14580,7 +14580,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Astro Warrior ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Astro Warrior (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14589,7 +14589,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Aztec Adventure - The Golden Road to Paradise ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Aztec Adventure - The Golden Road to Paradise (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14598,7 +14598,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Back to the Future 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Back to the Future 2 (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14607,7 +14607,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Back to the Future 3 ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Back to the Future 3 (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14616,7 +14616,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Baku Baku Animals ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Baku Baku Animals (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14625,7 +14625,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Bank Panic ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Bank Panic (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14634,7 +14634,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Bart vs. the Space Mutants ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Bart vs. the Space Mutants (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14643,7 +14643,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Bart vs. the World ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Bart vs. the World (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14652,7 +14652,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Basket Ball Nightmare ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Basket Ball Nightmare (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14661,7 +14661,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Batman Returns ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Batman Returns (UE).sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14670,7 +14670,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Battle Out Run ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Battle Out Run (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14679,7 +14679,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Battlemaniacs ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Battlemaniacs (Brazil) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14688,7 +14688,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Black Belt ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Black Belt (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14697,7 +14697,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Black Onyx, The ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Black Onyx, The (SG-1000) [!].sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14706,7 +14706,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Blade Eagle 3D ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+string cmd = @"C:\Arcade\Sega Master System\Roms\Blade Eagle 3D (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14715,7 +14715,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Bomb Jack ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Bomb Jack (SG-1000).sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14724,7 +14724,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Bomber Raid ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+string cmd = @"C:\Arcade\Sega Master System\Roms\Bomber Raid (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14733,7 +14733,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Bonanza Bros ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Bonanza Bros (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14742,7 +14742,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Bonkers Wax Up! ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Bonkers Wax Up! (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14751,7 +14751,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Borderline ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Borderline (SG-1000).sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14760,7 +14760,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Borgman ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Borgman (JUE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14769,7 +14769,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Bram Stoker\'s Dracula ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Bram Stoker's Dracula (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14778,7 +14778,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Bubble Bobble ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Bubble Bobble (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14787,7 +14787,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Buggy Run ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Buggy Run (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14796,7 +14796,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "California Games ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\California Games (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14805,7 +14805,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "California Games 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\California Games 2 (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14814,7 +14814,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Captain Silver ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Captain Silver (E) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14823,7 +14823,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Casino Games ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Casino Games (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14832,7 +14832,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Castelo Ra Tin Bum ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Castelo Ra Tin Bum (Brazil) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14841,7 +14841,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Castle, The ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+string cmd = @"C:\Arcade\Sega Master System\Roms\Castle, The (SG-1000).sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14850,7 +14850,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Chack\'n Pop ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Chack'n Pop (SG-1000).sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14859,7 +14859,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Champion Baseball ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Champion Baseball (SG-1000).sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14868,7 +14868,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Champion Billards ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Champion Billards (SG-1000) [!].sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14877,7 +14877,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Champion Pro Wrestling ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Champion Pro Wrestling (SG-1000) [!].sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14886,7 +14886,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Champion Soccer ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Champion Soccer (SG-1000).sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14895,7 +14895,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Champions of Europe ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Champions of Europe (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14904,7 +14904,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Championship Golf ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Championship Golf (SG-1000).sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14913,7 +14913,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Championship Hockey ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Championship Hockey (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14922,7 +14922,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Chapolim x Dracula - Um Duelo Assustador ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Chapolim x Dracula - Um Duelo Assustador (Brazil) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14931,7 +14931,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Cheese Cat-astrophe ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Cheese Cat-astrophe (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14940,7 +14940,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Choplifter ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Choplifter (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14949,7 +14949,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Chuck Rock ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Chuck Rock (U) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14958,7 +14958,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Chuck Rock 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Chuck Rock 2 (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14967,7 +14967,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Circuit, The ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Circuit, The (J) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14976,7 +14976,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Cloud Master")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Cloud Master (JUE).sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14985,7 +14985,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Columns ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Columns (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -14994,7 +14994,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Congo Bongo ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Congo Bongo (SG-1000).sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15003,7 +15003,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Cool Spot ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Cool Spot (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15012,7 +15012,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Cosmic Spacehead ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Cosmic Spacehead (UE) [!].sms"; 
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15021,7 +15021,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Cyber Shinobi ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Cyber Shinobi (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15030,7 +15030,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Cyborg Hunter ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Cyborg Hunter (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15039,7 +15039,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Daffy Duck in Hollywood ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Daffy Duck in Hollywood (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15048,7 +15048,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Danan the Jungle Fighter ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Danan the Jungle Fighter (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15057,7 +15057,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Dead Angle ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Dead Angle (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15066,7 +15066,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Deep Duck Trouble ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Deep Duck Trouble (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15075,7 +15075,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Desert Speedtrap ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Desert Speedtrap (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15084,7 +15084,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Desert Strike ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Desert Strike (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15093,7 +15093,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Dick Tracy ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Dick Tracy (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15102,7 +15102,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Dodgeball King ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+string cmd = @"C:\Arcade\Sega Master System\Roms\Dodgeball King (Korean).sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15111,7 +15111,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Double Dragon ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Double Dragon (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15120,7 +15120,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Double Hawk ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Double Hawk (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15129,7 +15129,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Double Target ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Double Target (J) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15138,7 +15138,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Dr. Robotnik\'s Mean Bean Machine ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Dr. Robotnik's Mean Bean Machine (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15147,7 +15147,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Dragon - The Bruce Lee Story ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Dragon - The Bruce Lee Story (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15156,7 +15156,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Dragon Crystal ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Dragon Crystal (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15165,7 +15165,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Drol ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Drol (SG-1000).sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15174,7 +15174,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Dynamite Duke ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Dynamite Duke (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15183,7 +15183,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Dynamite Dux ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Dynamite Dux (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15192,7 +15192,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "E-SWAT - City Under Siege ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\E-SWAT - City Under Siege (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15201,7 +15201,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Ecco the Dolphin ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Ecco the Dolphin (UE).sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15210,7 +15210,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Ecco the Dolphin - Tides of Time ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Ecco the Dolphin - Tides of Time (Brazil).sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15219,7 +15219,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Elevator Action ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Elevator Action (SG-1000) [!].sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15228,7 +15228,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Enduro Racer ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Enduro Racer (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15237,7 +15237,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "European SMS BIOS (Sonic the Hedgehog) ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\European SMS BIOS (Sonic the Hedgehog) (E) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15246,7 +15246,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Exerion ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Exerion (SG-1000) [!].sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15255,7 +15255,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "F-16 Fighting Falcon ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\F-16 Fighting Falcon (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15264,7 +15264,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "F1 Championship ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\F1 Championship (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15273,7 +15273,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Fantasy Zone ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Fantasy Zone (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15282,7 +15282,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Fantasy Zone 2 - The Tears of Opa-Opa ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Fantasy Zone 2 - The Tears of Opa-Opa (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15291,7 +15291,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Fantasy Zone 3 - The Maze ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Fantasy Zone 3 - The Maze (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15300,7 +15300,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Felipe em Acao ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Felipe em Acao (Brazil).sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15309,7 +15309,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Ferias Frustradas do Picapau ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Ferias Frustradas do Picapau (Brazil).sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15318,7 +15318,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Final Bubble Bobble ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Final Bubble Bobble (J) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15327,7 +15327,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Fire & Forget 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Fire & Forget 2 (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15336,7 +15336,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Flash, The ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Flash, The (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15345,7 +15345,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Flicky ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Flicky (SG-1000).sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15354,7 +15354,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Flintstones, The ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Flintstones, The (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15363,7 +15363,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Forgotten Worlds ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Forgotten Worlds (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15372,7 +15372,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Fushigi no Oshiro Pit Pot ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Fushigi no Oshiro Pit Pot (J) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15381,7 +15381,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "G-Loc Air Battle ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\G-Loc Air Battle (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15390,7 +15390,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Gain Ground ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Gain Ground (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15399,7 +15399,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Galactic Protector ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Galactic Protector (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15408,7 +15408,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Galaxy Force ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Galaxy Force (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15417,7 +15417,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Game Box Esportes Radicais ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Game Box Esportes Radicais (Brazil) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15426,7 +15426,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Gangster Town ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Gangster Town (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15435,7 +15435,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Gauntlet ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Gauntlet (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15444,7 +15444,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "George Foreman\'s KO Boxing ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\George Foreman's KO Boxing (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15453,7 +15453,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Ghost House ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Ghost House (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15462,7 +15462,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Ghostbusters ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Ghostbusters (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15471,7 +15471,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Ghouls \'n Ghosts ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Ghouls 'n Ghosts (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15480,7 +15480,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Girl\'s Garden ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Girl's Garden (SG-1000).sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15489,7 +15489,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Global Defense ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Global Defense (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15498,7 +15498,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Global Gladiators ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Global Gladiators (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15507,7 +15507,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Gokuaku Doumei Dump Matsumoto ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Gokuaku Doumei Dump Matsumoto (J) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15516,7 +15516,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Golden Axe ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Golden Axe (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15525,7 +15525,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Golden Axe Warrior ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Golden Axe Warrior (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15534,7 +15534,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Golf Mania ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Golf Mania (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15543,7 +15543,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Golgo 13 ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Golgo 13 (SG-1000).sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15552,7 +15552,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Golvellius - Valley of Doom ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Golvellius - Valley of Doom (J).sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15561,7 +15561,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "GP Rider ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\GP Rider (U) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15570,7 +15570,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "GP World ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\GP World (SG-1000) [!].sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15579,16 +15579,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Great Baseball ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
-                Process p = new Process();
-                p.StartInfo.FileName = cmd;
-                p.Start();
-                p.WaitForExit();
-                p.Dispose();
-            }
-            if (listBox3.SelectedItem.ToString() == "Great Baseball ")
-            {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Great Baseball (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15597,7 +15588,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Great Basketball ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Great Basketball (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15606,7 +15597,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Great Football ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Great Football (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15615,7 +15606,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Great Golf ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Great Golf (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15624,7 +15615,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Great Ice Hockey ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Great Ice Hockey (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15633,7 +15624,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Great Volleyball ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Great Volleyball (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15642,7 +15633,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Gulkave ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Gulkave (SG-1000) [!].sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15651,7 +15642,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "H.E.R.O. ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\H.E.R.O. (SG-1000).sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15660,7 +15651,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Hang-On & Safari Hunt ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Hang-On & Safari Hunt (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15669,7 +15660,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Hang-On ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Hang-On (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15678,7 +15669,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Hang-On 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Hang-On 2 (SG-1000).sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15687,7 +15678,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Heavyweight Champ ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Heavyweight Champ (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15696,7 +15687,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Heroes of the Lance ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Heroes of the Lance (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15705,7 +15696,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "High School Kimengumi ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\High School Kimengumi (J) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15714,7 +15705,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Hokuto no Ken ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Hokuto no Ken (J) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15723,7 +15714,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Home Alone ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Home Alone (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15732,7 +15723,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Hook ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Hook (UE) (Proto) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15741,7 +15732,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Hoshi wo Sagasite (The Story of Mio) ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Hoshi wo Sagasite (The Story of Mio) (J) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15750,7 +15741,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Hustle Chummy ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Hustle Chummy (SG-1000) [!].sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15759,7 +15750,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Hyper Sports ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Hyper Sports (SG-1000) [!].sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15768,7 +15759,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Impossible Mission ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Impossible Mission (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15777,7 +15768,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Incredible Crash Dummies, The ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Incredible Crash Dummies, The (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15786,7 +15777,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Incredible Hulk, The ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Incredible Hulk, The (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15795,7 +15786,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Indiana Jones and the Last Crusade ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Indiana Jones and the Last Crusade (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15804,7 +15795,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Joe Montana Football ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Joe Montana Football (U) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15813,7 +15804,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Jogos de Verao 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Jogos de Verao 2 (Brazil) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15822,7 +15813,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Jungle Book, The ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Jungle Book, The (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15831,7 +15822,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Jurassic Park ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Jurassic Park (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15840,7 +15831,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Kenseiden ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Kenseiden (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15849,7 +15840,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "King\'s Quest ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\King's Quest (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15858,7 +15849,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Klax ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Klax (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15867,7 +15858,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Krusty\'s Fun House ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Krusty's Fun House (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15876,7 +15867,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Kung Fu Kid ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Kung Fu Kid (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15885,7 +15876,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Laser Ghost ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Laser Ghost (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15894,7 +15885,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Lemmings ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Lemmings (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15903,7 +15894,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Line of Fire ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Line of Fire (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15912,7 +15903,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Lion King, The ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Lion King, The (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15921,7 +15912,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Loderunner ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Loderunner (SG-1000) [!].sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15930,7 +15921,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Loletta no Syouzou ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Loletta no Syouzou (J) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15939,7 +15930,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Lord of the Sword ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Lord of the Sword (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15948,7 +15939,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Lucky Dime Caper Starring Donald Duck, The ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Lucky Dime Caper Starring Donald Duck, The (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15957,7 +15948,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Machine Gun Joe ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Machine Gun Joe (J) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15966,7 +15957,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Mahjong Sengoku Jidai ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Mahjong Sengoku Jidai (J) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15975,7 +15966,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Makai Retsuden ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Makai Retsuden (J) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15984,7 +15975,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Marble Madness ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Marble Madness (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -15993,7 +15984,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Master of Darkness ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Master of Darkness (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16002,7 +15993,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Masters of Combat ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Masters of Combat (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16011,7 +16002,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Maze Hunter 3D ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Maze Hunter 3D (U) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16020,7 +16011,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Maze Walker ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Maze Walker (J) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16029,7 +16020,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Megumi Rescue ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Megumi Rescue (J) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16038,7 +16029,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Mercs ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Mercs (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16047,7 +16038,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Michael Jackson\'s Moonwalker ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Michael Jackson's Moonwalker (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16056,7 +16047,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Mickey Mouse - Castle of Illusion ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Mickey Mouse - Castle of Illusion (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16065,7 +16056,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Mickey Mouse - Land of Illusion ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Mickey Mouse - Land of Illusion (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16074,7 +16065,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Mickey Mouse - Legend of Illusion ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Mickey Mouse - Legend of Illusion (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16083,7 +16074,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Mickey\'s Ultimate Challenge ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Mickey's Ultimate Challenge (Brazil) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16092,7 +16083,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Micro Machines ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Micro Machines (E) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16101,7 +16092,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Miracle Warriors - Seal of the Dark Lord ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Miracle Warriors - Seal of the Dark Lord (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16110,7 +16101,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Missile Defense 3D ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Missile Defense 3D (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16119,7 +16110,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Monaco GP ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Monaco GP (SG-1000).sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16128,7 +16119,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Monica no Castelo do Dragao ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Monica no Castelo do Dragao (Brazil) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16137,7 +16128,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Monopoly ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Monopoly (U) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16146,7 +16137,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Montezuma\'s Revenge ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Montezuma's Revenge (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16155,7 +16146,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Mortal Kombat ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Mortal Kombat (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16164,7 +16155,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Mortal Kombat 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Mortal Kombat 2 (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16173,7 +16164,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Mortal Kombat 3 ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Mortal Kombat 3 (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16182,7 +16173,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Ms. Pac-man ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Ms. Pac-man (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16191,7 +16182,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "My Hero ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\My Hero (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16200,7 +16191,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "N-Sub ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\N-Sub (SG-1000).sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16209,7 +16200,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Nekyuu Kousien ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Nekyuu Kousien (J) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16218,7 +16209,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "New Zealand Story, The ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\New Zealand Story, The (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16227,7 +16218,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Ninja Gaiden ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Ninja Gaiden (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16236,7 +16227,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Ninja Princess ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Ninja Princess (SG-1000).sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16245,7 +16236,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Ninja, The ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Ninja, The (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16254,7 +16245,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Operation Wolf ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Operation Wolf (U) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16263,7 +16254,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Orguss ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Orguss (SG-1000).sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16272,7 +16263,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Ottifants, The ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Ottifants, The (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16281,7 +16272,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "OutRun ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\OutRun (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16290,7 +16281,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "OutRun 3D ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\OutRun 3D (U) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16299,7 +16290,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Pac Mania ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Pac Mania (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16308,7 +16299,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Pacar ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Pacar (SG-1000).sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16317,7 +16308,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Pachinko 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Pachinko 2 (SG-1000) [!].sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16326,7 +16317,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Paperboy ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Paperboy (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16335,7 +16326,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Parlour Games ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Parlour Games (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16344,7 +16335,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Party Games ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Party Games (J) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16353,7 +16344,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Pat Riley Basketball ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Pat Riley Basketball (U) (Proto) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16362,7 +16353,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Penguin Land ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Penguin Land (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16371,7 +16362,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "PGA Tour Golf ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\PGA Tour Golf (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16380,7 +16371,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Phantasy Star ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Phantasy Star (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16389,7 +16380,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Pit Fighter ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Pit Fighter (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16398,7 +16389,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Pitfall II ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Pitfall II (SG-1000) [!].sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16407,7 +16398,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Pop Flamer ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Pop Flamer (SG-1000) [!].sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16416,7 +16407,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Populous ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Populous (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16425,7 +16416,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Poseidon Wars 3D ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Poseidon Wars 3D (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16434,7 +16425,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Power Strike ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Power Strike (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16443,7 +16434,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Power Strike 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Power Strike 2 (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16452,7 +16443,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Predator 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Predator 2 (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16461,7 +16452,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Pro Wrestling ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Pro Wrestling (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16470,7 +16461,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Pro Yakyuu Pennant Race, The ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Pro Yakyuu Pennant Race, The (J) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16479,7 +16470,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Psychic World ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Psychic World (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16488,7 +16479,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Psycho Fox ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Psycho Fox (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16497,7 +16488,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Putt & Putter ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Putt & Putter (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16506,7 +16497,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Quartet ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Quartet (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16515,7 +16506,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "R-Type ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\R-Type (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16524,7 +16515,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "R.C. Grand Prix ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\R.C. Grand Prix (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16533,7 +16524,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Rainbow Islands ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Rainbow Islands (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16542,7 +16533,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Rambo - First Blood Part 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Rambo - First Blood Part 2 (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16551,7 +16542,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Rambo 3 ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Rambo 3 (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16560,7 +16551,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Rampage ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Rampage (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16569,7 +16560,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Rampart ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Rampart (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16578,7 +16569,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Rastan ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Rastan (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16587,7 +16578,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Reggie Jackson Baseball ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Reggie Jackson Baseball (U) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16596,7 +16587,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Ren & Stimpy - Quest for the Shaven Yak, The ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Ren & Stimpy - Quest for the Shaven Yak, The (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16605,7 +16596,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Renegade ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Renegade (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16614,7 +16605,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Rescue Mission ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Rescue Mission (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16623,7 +16614,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Road Rash ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Road Rash (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16632,7 +16623,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Robocop 3 ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Robocop 3 (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16641,7 +16632,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Robocop vs. Terminator ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Robocop vs. Terminator (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16650,7 +16641,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Rock N\' Bolt ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Rock N' Bolt (SG-1000) [!].sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16659,7 +16650,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Rocky ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Rocky (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16668,7 +16659,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Running Battle ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Running Battle (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16677,7 +16668,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Rygar ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Rygar (J) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16686,7 +16677,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Safari Hunt ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Safari Hunt (SG-1000) [!].sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16695,7 +16686,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Safari Race ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Safari Race (SG-1000).sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16704,7 +16695,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Sagaia ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Sagaia (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16713,7 +16704,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Sangokushi 3 ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Sangokushi 3 (Korean).sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16722,7 +16713,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Sapo Xule o Mestre Do Kung Fu ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Sapo Xule o Mestre Do Kung Fu (Brazil) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16731,7 +16722,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Sapo Xule SOS Lagoa Poluida ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Sapo Xule SOS Lagoa Poluida (Brazil) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16740,7 +16731,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Sapo Xule vs. os Invasores do Brejo")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Sapo Xule vs. os Invasores do Brejo (Brazil).sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16749,7 +16740,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Satellite 7 ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Satellite 7 (J) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16758,7 +16749,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Scramble Spirits ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Scramble Spirits (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16767,7 +16758,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "SDI ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\SDI (JUE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16776,7 +16767,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Secret Commando ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Secret Commando (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16785,7 +16776,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Sega Chess ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Sega Chess (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16794,7 +16785,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Sega Galaga ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Sega Galaga (SG-1000) [!].sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16803,7 +16794,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Sega World Tournament Golf ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Sega World Tournament Golf (U) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16812,7 +16803,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Seishyun Scandal ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Seishyun Scandal (J) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16821,7 +16812,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Sensible Soccer ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Sensible Soccer (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16830,7 +16821,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Shadow Dancer ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Shadow Dancer (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16839,7 +16830,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Shadow of the Beast ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Shadow of the Beast (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16848,7 +16839,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Shanghai ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Shanghai (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16857,7 +16848,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Shinobi ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Shinobi (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16866,7 +16857,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Shooting Gallery ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Shooting Gallery (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16875,7 +16866,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Sinbad Mystery ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Sinbad Mystery (SG-1000).sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16884,7 +16875,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Sitio do Picapau Amarelo ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Sitio do Picapau Amarelo (Brazil) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16893,7 +16884,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Slap Shot ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Slap Shot (U) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16902,7 +16893,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Smash TV ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Smash TV (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16911,7 +16902,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Smurfs 2, The (Smurfs Travel the World) ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Smurfs 2, The (Smurfs Travel the World) (E) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16920,7 +16911,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Smurfs, The ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Smurfs, The (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16929,7 +16920,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Solomon no Kagi ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Solomon no Kagi (J) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16938,7 +16929,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Sonic Blast ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Sonic Blast (Brazil) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16947,7 +16938,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Sonic Chaos ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Sonic Chaos (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16956,7 +16947,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Sonic Spinball ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Sonic Spinball (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16965,7 +16956,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Sonic the Hedgehog ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Sonic the Hedgehog (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16974,7 +16965,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Soukoban ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Soukoban (SG-1000) [!].sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16983,7 +16974,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Space Harrier ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Space Harrier (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -16992,7 +16983,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Space Harrier 3D ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Space Harrier 3D (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17001,7 +16992,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Space Invaders ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Space Invaders (SG-1000).sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17010,7 +17001,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Spacegun ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Spacegun (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17019,7 +17010,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Special Criminal Investigation ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Special Criminal Investigation (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17028,7 +17019,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Speedball")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Speedball (UE) (Virgin) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17037,7 +17028,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Speedball 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+string cmd = @"C:\Arcade\Sega Master System\Roms\Speedball 2 (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17046,7 +17037,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Spellcaster ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Spellcaster (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17055,7 +17046,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Sports Pad Soccer ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Sports Pad Soccer (J) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17064,7 +17055,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Spy vs. Spy ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Spy vs. Spy (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17073,7 +17064,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Star Force ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Star Force (SG-1000) [!].sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17082,7 +17073,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Star Jacker ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Star Jacker (SG-1000) [!].sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17091,7 +17082,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Star Wars ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Star Wars (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17100,7 +17091,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Street Fighter 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Street Fighter 2 (Brazil) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17109,7 +17100,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Streets of Rage ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Streets of Rage (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17118,7 +17109,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Streets of Rage 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Streets of Rage 2 (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17127,7 +17118,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Strider ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Strider (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17136,7 +17127,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Strider 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Strider 2 (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17145,7 +17136,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Submarine Attack ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Submarine Attack (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17154,7 +17145,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Sukeban Deka 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Sukeban Deka 2 (J) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17163,7 +17154,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Summer Games ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Summer Games (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17172,7 +17163,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Super Kick Off ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Super Kick Off (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17181,7 +17172,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Super Monaco GP ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Super Monaco GP (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17190,7 +17181,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Super Monaco GP 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Super Monaco GP 2 (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17199,7 +17190,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Super Off-Road ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Super Off-Road (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17208,7 +17199,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Super Racing ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Super Racing (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17217,7 +17208,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Super Space Invaders ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Super Space Invaders (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17226,7 +17217,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Super Tank ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Super Tank (SG-1000) [!].sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17235,7 +17226,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Super Tennis ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Super Tennis (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17244,7 +17235,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Super Tetris ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Super Tetris (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17253,7 +17244,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Superman ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Superman (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17262,7 +17253,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Taz-Mania ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Taz-Mania (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17271,7 +17262,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Teddy Boy ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Teddy Boy (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17280,7 +17271,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Teddy Boy Blues ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Teddy Boy Blues (J) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17289,7 +17280,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Teddy Boy e Geraldinho ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Teddy Boy e Geraldinho (Brazil).sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17298,7 +17289,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Tennis Ace ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Tennis Ace (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17307,7 +17298,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Tensai Bakabon ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Tensai Bakabon (J) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17316,7 +17307,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Terebi Oekaki ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Terebi Oekaki (SG-1000) [!].sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17325,7 +17316,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Terminator 2 - Judgment Day ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Terminator 2 - Judgment Day (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17334,7 +17325,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Terminator 2 - The Arcade Game ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Terminator 2 - The Arcade Game (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17343,7 +17334,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Terminator, The ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Terminator, The (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17352,7 +17343,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Thunder Blade ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Thunder Blade (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17361,7 +17352,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Time Soldiers ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Time Soldiers (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17370,7 +17361,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Tom and Jerry ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Tom and Jerry (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17379,7 +17370,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Tom and Jerry - The Movie ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Tom and Jerry - The Movie (UE).sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17388,7 +17379,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Toto World 3")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Toto World 3 (Korean) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17397,7 +17388,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Trans-Bot ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Trans-Bot (UE).sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17406,7 +17397,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Trap Shooting - Marksman Shooting - Safari Hunt ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Trap Shooting - Marksman Shooting - Safari Hunt (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17415,7 +17406,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Treinamento Do Mymo ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Treinamento Do Mymo (Brazil).sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17424,7 +17415,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Trivial Pursuit ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Trivial Pursuit (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17433,7 +17424,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Turma da Monica em O Resgate ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Turma da Monica em O Resgate (Brazil) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17442,7 +17433,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "TV Colosso")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\TV Colosso (Brazil).sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17451,7 +17442,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Ultima 4 - Quest of the Avatar ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Ultima 4 - Quest of the Avatar (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17460,7 +17451,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Ultimate Soccer ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Ultimate Soccer (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17469,7 +17460,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Vampire ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Vampire (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17478,7 +17469,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Video Flipper ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Video Flipper (SG-1000).sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17487,7 +17478,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Vigilante ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Vigilante (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17496,7 +17487,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Wanted ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Wanted (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17505,7 +17496,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Where in the World is Carmen Sandiego ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Where in the World is Carmen Sandiego (U) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17514,7 +17505,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Wimbledon ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Wimbledon (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17523,7 +17514,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Wimbledon 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Wimbledon 2 (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17532,7 +17523,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Winnie Cooper ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Winnie Cooper (SG-1000) (PD).sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17541,7 +17532,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Winter Olympics \'94 ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Winter Olympics '94 (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17550,7 +17541,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Wolf Child ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Wolf Child (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17559,16 +17550,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Wonder Boy ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
-                Process p = new Process();
-                p.StartInfo.FileName = cmd;
-                p.Start();
-                p.WaitForExit();
-                p.Dispose();
-            }
-            if (listBox3.SelectedItem.ToString() == "Wonder Boy ")
-            {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Wonder Boy (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17577,7 +17559,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Wonder Boy 2 - Wonderboy in Monsterland ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Wonder Boy 2 - Wonderboy in Monsterland (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17586,7 +17568,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Wonder Boy 3 - The Dragon\'s Trap ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Wonder Boy 3 - The Dragon's Trap (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17595,7 +17577,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Wonder Boy 5 - Wonder Boy in Monster World ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Wonder Boy 5 - Wonder Boy in Monster World (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17604,7 +17586,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Woody Pop ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Woody Pop (J) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17613,7 +17595,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "World Class Leaderboard ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\World Class Leaderboard (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17622,7 +17604,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "World Cup \'92 by Tecmo ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '92 by Tecmo (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17631,7 +17613,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "World Cup \'93 by Tecmo ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17640,7 +17622,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "World Cup \'94 ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '94 (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17649,7 +17631,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "World Cup Italia \'90 ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup Italia '90 (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17658,7 +17640,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "World Games ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\World Games (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17667,7 +17649,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "World Grand Prix ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\World Grand Prix (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17676,7 +17658,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "World Soccer ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\World Soccer (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17685,7 +17667,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "X-Men - Mojo World ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\X-Men - Mojo World (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17694,7 +17676,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Xenon 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Xenon 2 (UE) (Virgin) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17703,7 +17685,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Yamato ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Yamato (SG-1000) [!].sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17712,7 +17694,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Ys - The Vanished Omens ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Ys - The Vanished Omens (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17721,7 +17703,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Zaxxon ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Zaxxon (SG-1000).sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17730,7 +17712,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Zaxxon 3D ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Zaxxon 3D (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17739,7 +17721,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Zillion ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Zillion (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17748,7 +17730,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Zillion II - The Tri Formation ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Zillion II - The Tri Formation (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17757,7 +17739,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Zippy Race ")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Zippy Race (SG-1000) [!].sg";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17766,7 +17748,7 @@ string cmd = @"C:\Arcade\NES\Roms\Yo! Noid (U).nes";
             }
             if (listBox3.SelectedItem.ToString() == "Zool")
             {
-                string cmd = @"C:\Arcade\Sega Master System\Roms\20-em-1 (Brazil) [!].sms";
+                string cmd = @"C:\Arcade\Sega Master System\Roms\Zool (UE) [!].sms";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
