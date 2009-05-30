@@ -17761,7 +17761,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
         {
             if (listBox5.SelectedItem.ToString() == "3 Ninjas Kick Back ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen"; 
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17770,7 +17770,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "688 Attack Sub ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\688 Attack Sub (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17779,7 +17779,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "AAAHH!!! Real Monsters ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\AAAHH!!! Real Monsters (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17788,7 +17788,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Action 52")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Action 52 (Unl) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17797,7 +17797,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Action Replay")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Action Replay (Unl) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17806,7 +17806,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Addams Family, The ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Addams Family, The (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17815,7 +17815,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Adventures of Batman and Robin, The ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Adventures of Batman and Robin, The (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17824,7 +17824,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Adventures of Mighty Max, The ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Adventures of Mighty Max, The (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17833,7 +17833,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Aero the Acro-Bat ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Aero the Acro-Bat (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17842,7 +17842,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Aero the Acro-Bat 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Aero the Acro-Bat 2 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17851,7 +17851,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Aerobiz ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Aerobiz (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17860,7 +17860,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Aerobiz Supersonic ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Aerobiz Supersonic (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17869,7 +17869,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "After Burner II ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\After Burner II (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17878,7 +17878,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Air Buster ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Air Buster (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17887,7 +17887,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Air Diver ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Air Diver (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17896,7 +17896,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Aladdin II ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Aladdin II (Unl).gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17905,7 +17905,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Alex Kidd in the Enchanted Castle ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Alex Kidd in the Enchanted Castle (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17914,7 +17914,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Alien 3 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Alien 3 (UE) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17923,7 +17923,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Alien Storm ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Alien Storm (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17932,7 +17932,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Alisia Dragoon ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Alisia Dragoon (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17941,7 +17941,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Altered Beast ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Altered Beast (UE) (REV02) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17950,7 +17950,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "American Gladiators ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\American Gladiators (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17959,7 +17959,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Andre Agassi Tennis ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Andre Agassi Tennis (U) (REV00) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17968,7 +17968,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Animaniacs ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Animaniacs (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17977,7 +17977,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Aquatic Games - Starring James Pond, The ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Aquatic Games - Starring James Pond, The (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17986,7 +17986,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Arcade Classics ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Arcade Classics (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -17995,7 +17995,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Arch Rivals ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Arch Rivals (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18004,7 +18004,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Arcus Odyssey ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Arcus Odyssey (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18013,7 +18013,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Ariel - The Little Mermaid ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Ariel - The Little Mermaid (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18022,7 +18022,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Arnold Palmer Tournament Golf ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Arnold Palmer Tournament Golf (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18031,7 +18031,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Arrow Flash ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Arrow Flash (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18040,7 +18040,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Art Alive! ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Art Alive! (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18049,7 +18049,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Art of Fighting ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Art of Fighting (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18058,7 +18058,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Asterix and the Great Rescue ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Asterix and the Great Rescue (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18067,7 +18067,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Atomic Robo-Kid ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Atomic Robo-Kid (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18076,7 +18076,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Atomic Runner ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Atomic Runner (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18085,7 +18085,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "ATP Tour Championship Tennis ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\ATP Tour Championship Tennis (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18094,7 +18094,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Awesome Possum Kicks Dr. Machino\'s Butt! ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Awesome Possum Kicks Dr. Machino's Butt! (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18103,7 +18103,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "AWS Pro Moves Soccer ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\AWS Pro Moves Soccer (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18112,7 +18112,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Ayrton Senna\'s Super Monaco GP II ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Ayrton Senna's Super Monaco GP II (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18121,7 +18121,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "B.O.B ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\B.O.B (UE) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18130,7 +18130,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Back to the Future Part III ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Back to the Future Part III (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18139,7 +18139,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Ballz ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Ballz (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18148,7 +18148,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Barbie Super Model ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Barbie Super Model (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18157,7 +18157,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Barkley Shut Up and Jam! ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Barkley Shut Up and Jam! (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18166,7 +18166,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Barkley Shut Up and Jam! 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Barkley Shut Up and Jam! 2 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18175,7 +18175,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Barney\'s Hide & Seek Game ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Barney's Hide & Seek Game (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18184,7 +18184,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Bass Masters Classic Pro Edition ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Bass Masters Classic Pro Edition (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18193,7 +18193,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Bass Masters Classics ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Bass Masters Classics (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18202,7 +18202,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Batman ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Batman (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18211,7 +18211,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Batman - Revenge of the Joker ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Batman - Revenge of the Joker (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18220,7 +18220,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Batman Forever ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Batman Forever (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18229,7 +18229,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Batman Returns ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Batman Returns (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18238,7 +18238,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Battle Squadron ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Battle Squadron (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18247,7 +18247,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Battlemaster ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Battlemaster (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18256,7 +18256,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Battletech ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Battletech (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18265,7 +18265,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Battletoads ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Battletoads (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18274,7 +18274,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Battletoads and Double Dragon ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Battletoads and Double Dragon (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18283,7 +18283,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Beast Wrestler ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Beast Wrestler (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18292,7 +18292,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Beauty and the Beast - Belle\'s Quest ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Beauty and the Beast - Belle's Quest (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18301,7 +18301,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Beauty and the Beast - Roar of the Beast ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Beauty and the Beast - Roar of the Beast (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18310,7 +18310,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Beavis and Butt-head ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Beavis and Butt-head (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18319,7 +18319,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Berenstain Bears', The - Camping Adventure ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Berenstain Bears', The - Camping Adventure (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18328,7 +18328,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Best of the Best - Championship Karate ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Best of the Best - Championship Karate (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18337,7 +18337,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Beyond Oasis ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Beyond Oasis (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18346,7 +18346,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Bible Adventures")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Bible Adventures (Unl) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18355,7 +18355,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Bill Walsh College Football \'95 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Bill Walsh College Football '95 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18364,7 +18364,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Bill Walsh College Football  ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Bill Walsh College Football (UE) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18373,7 +18373,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Bimini Run")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Bimini Run (U) (REV02) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18382,7 +18382,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Bio-Hazard Battle ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Bio-Hazard Battle (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18391,7 +18391,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Blades of Vengeance ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Blades of Vengeance (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18400,7 +18400,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Blaster Master 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Blaster Master 2 (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18409,7 +18409,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Block Out")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Block Out (W) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18418,7 +18418,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Blockbuster World Video Game Championship II ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Blockbuster World Video Game Championship II (U).gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18427,7 +18427,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Bonanza Bros. ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Bonanza Bros. (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18436,7 +18436,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Bonkers ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Bonkers (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18445,7 +18445,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Boogerman ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Boogerman (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18454,7 +18454,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Boxing Legends of the Ring ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Boxing Legends of the Ring (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18463,7 +18463,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Bram Stoker\'s Dracula ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Bram Stoker's Dracula (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18472,7 +18472,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Brett Hull Hockey \'95 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Brett Hull Hockey '95 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18481,7 +18481,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Brutal - Paws of Fury ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Brutal - Paws of Fury (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18490,7 +18490,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Bubba N Stix ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Bubba N Stix (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18499,7 +18499,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Bubble and Squeak ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Bubble and Squeak (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18508,7 +18508,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Bubsy II ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Bubsy II (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18517,7 +18517,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Bubsy in Claws Encounters of the Furred Kind ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Bubsy in Claws Encounters of the Furred Kind (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18526,7 +18526,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Buck Rogers - Countdown to Doomsday ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Buck Rogers - Countdown to Doomsday (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18535,7 +18535,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Budokan - The Martial Spirit ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Budokan - The Martial Spirit (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18544,7 +18544,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Bug\'s Life, A")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Bug's Life, A (Unl) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18553,7 +18553,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Bugs Bunny in Double Trouble ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Bugs Bunny in Double Trouble (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18562,7 +18562,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Bulls vs Blazers and the NBA Playoffs ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Bulls vs Blazers and the NBA Playoffs (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18571,7 +18571,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Bulls vs Lakers and the NBA Playoffs ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Bulls vs Lakers and the NBA Playoffs (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18580,7 +18580,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Burning Force ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Burning Force (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18589,7 +18589,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Cadash ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Cadash (JU) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18598,7 +18598,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Caesars Palace ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Caesars Palace (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18607,7 +18607,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Cal Ripken Jr. Baseball ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Cal Ripken Jr. Baseball (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18616,7 +18616,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Caliber Fifty ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Caliber Fifty (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18625,7 +18625,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "California Games ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\California Games (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18634,7 +18634,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Captain America and the Avengers ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Captain America and the Avengers (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18643,7 +18643,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Castle of Illusion Starring Mickey Mouse ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Castle of Illusion Starring Mickey Mouse (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18652,7 +18652,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Castlevania - Bloodlines ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Castlevania - Bloodlines (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18661,7 +18661,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Centurion - Defender of Rome ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Centurion - Defender of Rome (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18670,7 +18670,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Chakan - The Forever Man ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Chakan - The Forever Man (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18679,7 +18679,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Champions World Class Soccer ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Champions World Class Soccer (W) (M4) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18688,7 +18688,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Championship Bowling ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Championship Bowling (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18697,7 +18697,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Championship Pool ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Championship Pool (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18706,7 +18706,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Championship Pro-Am ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Championship Pro-Am (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18715,7 +18715,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Chase HQ II ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Chase HQ II (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18724,7 +18724,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Chavez II ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Chavez II (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18733,7 +18733,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Chester Cheetah ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Chester Cheetah (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18742,7 +18742,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Chester Cheetah 2 - Wild Wild Quest ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Chester Cheetah 2 - Wild Wild Quest (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18751,7 +18751,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Chi Chi\'s Pro Challenge ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Chi Chi's Pro Challenge (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18760,7 +18760,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Chiki Chiki Boys ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Chiki Chiki Boys (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18769,7 +18769,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Chuck II - Son of Chuck ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Chuck II - Son of Chuck (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18778,7 +18778,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Chuck Rock ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Chuck Rock (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18787,7 +18787,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Chuck\'s Excellent Art Tool Animator ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Chuck's Excellent Art Tool Animator (U).gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18796,7 +18796,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Classic Collection ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Classic Collection (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18805,7 +18805,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Clay Fighter ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Clay Fighter (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18814,7 +18814,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Cliffhanger ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Cliffhanger (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18823,7 +18823,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Clue ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Clue (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18832,7 +18832,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Coach K College Basketball ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Coach K College Basketball (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18841,7 +18841,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "College Football USA 96 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\College Football USA 96 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18850,7 +18850,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "College Football USA 97 - The Road to New Orleans ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\College Football USA 97 - The Road to New Orleans (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18859,7 +18859,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "College Football\'s National Championship ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\College Football's National Championship (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18868,7 +18868,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "College Football\'s National Championship II ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\College Football's National Championship II (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18877,7 +18877,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "College Slam ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+string cmd = @"C:\Arcade\Sega Genesis\Roms\College Slam (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18886,7 +18886,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Columns")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Columns (W) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18895,7 +18895,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Columns III - Revenge of Columns ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Columns III - Revenge of Columns (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18904,7 +18904,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Combat Cars ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Combat Cars (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18913,7 +18913,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Comix Zone ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Comix Zone (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18922,7 +18922,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Contra - Hard Corps ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Contra - Hard Corps (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18931,7 +18931,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Cool Spot ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Cool Spot (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18940,7 +18940,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Crack Down ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Crack Down (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18949,7 +18949,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "CrossFire ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\CrossFire (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18958,7 +18958,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Crue Ball ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Crue Ball (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18967,7 +18967,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Crusader of Centy ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Crusader of Centy (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18976,7 +18976,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Crystal\'s Pony Tale ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Crystal's Pony Tale (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18985,7 +18985,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Cutthroat Island ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Cutthroat Island (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -18994,7 +18994,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Cyber-Cop ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Cyber-Cop (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19003,7 +19003,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "CyberBall ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\CyberBall (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19012,7 +19012,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Cyborg Justice ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Cyborg Justice (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19021,7 +19021,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "D&D - Warriors of the Eternal Sun ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\D&D - Warriors of the Eternal Sun (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19030,7 +19030,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Dark Castle ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Dark Castle (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19039,7 +19039,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Dashin\' Desperadoes ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Dashin' Desperadoes (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19048,7 +19048,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "David Crane\'s Amazing Tennis ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\David Crane's Amazing Tennis (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19057,7 +19057,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "David Robinson\'s Supreme Court ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\David Robinson's Supreme Court (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19066,7 +19066,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Davis Cup World Tour Tennis ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Davis Cup World Tour Tennis (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19075,7 +19075,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Deadly Moves ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Deadly Moves (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19084,7 +19084,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Death and Return of Superman, The ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Death and Return of Superman, The (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19093,7 +19093,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Death Duel ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Death Duel (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19102,7 +19102,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Decap Attack ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Decap Attack (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19111,7 +19111,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Demolition Man ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Demolition Man (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19120,7 +19120,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Desert Demolition ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Desert Demolition (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19129,7 +19129,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Desert Strike - Return to the Gulf ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Desert Strike - Return to the Gulf (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19138,7 +19138,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Devilish - The Next Possession ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Devilish - The Next Possession (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19147,7 +19147,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Dick Tracy ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Dick Tracy (W) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19156,7 +19156,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Dick Vitale\'s Awesome Baby! College Hoops ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Dick Vitale's Awesome Baby! College Hoops (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19165,7 +19165,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Dino Land ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Dino Land (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19174,7 +19174,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Dinosaurs for Hire ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Dinosaurs for Hire (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19183,7 +19183,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Disney\'s Aladdin ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Disney's Aladdin (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19192,7 +19192,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "DJ Boy ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\DJ Boy (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19201,7 +19201,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Doom Troopers - The Mutant Chronicles ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Doom Troopers - The Mutant Chronicles (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19210,7 +19210,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Double Dragon ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Double Dragon (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19219,7 +19219,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Double Dragon 3 - The Rosetta Stone ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Double Dragon 3 - The Rosetta Stone (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19228,7 +19228,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Double Dragon V - The Shadow Falls ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Double Dragon V - The Shadow Falls (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19237,7 +19237,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Double Dribble - The Playoff Edition ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Double Dribble - The Playoff Edition (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19246,7 +19246,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Dr. Robotnik\'s Mean Bean Machine ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Dr. Robotnik's Mean Bean Machine (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19255,7 +19255,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Dragon - The Bruce Lee Story ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Dragon - The Bruce Lee Story (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19264,7 +19264,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Dragon\'s Fury ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Dragon's Fury (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19273,7 +19273,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Dragon\'s Revenge ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Dragon's Revenge (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19282,7 +19282,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Dune - The Battle for Arrakis ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Dune - The Battle for Arrakis (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19291,7 +19291,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Dynamite Duke ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Dynamite Duke (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19300,7 +19300,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Dynamite Headdy  ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Dynamite Headdy (UE) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19309,7 +19309,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Earnest Evans ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Earnest Evans (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19318,7 +19318,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Earthworm Jim ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Earthworm Jim (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19327,7 +19327,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Earthworm Jim 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Earthworm Jim 2 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19336,7 +19336,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "ECCO - The Tides of Time ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\ECCO - The Tides of Time (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19345,7 +19345,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "ECCO Jr.")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\ECCO Jr. (U) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19354,7 +19354,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "ECCO The Dolphin ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\ECCO The Dolphin (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19363,7 +19363,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "El Viento ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\El Viento (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19372,7 +19372,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Elemental Master ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Elemental Master (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19381,7 +19381,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Escape From Mars Starring Taz ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Escape From Mars Starring Taz (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19390,7 +19390,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "ESPN Baseball Tonight ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\ESPN Baseball Tonight (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19399,7 +19399,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "ESPN National Hockey Night ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\ESPN National Hockey Night (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19408,7 +19408,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "ESPN SpeedWorld ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\ESPN SpeedWorld (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19417,7 +19417,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "ESPN Sunday Night NFL ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\ESPN Sunday Night NFL (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19426,7 +19426,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "ESWAT Cyber Police - City Under Siege ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\ESWAT Cyber Police - City Under Siege (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19435,7 +19435,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Eternal Champions ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Eternal Champions (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19444,7 +19444,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Evander Holyfield\'s Real Deal Boxing ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Evander Holyfield's Real Deal Boxing (JU) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19453,7 +19453,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Ex-Mutants ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Ex-Mutants (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19462,7 +19462,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Exile ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Exile (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19471,7 +19471,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Exo-Squad ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Exo-Squad (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19480,7 +19480,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "F-117 Night Storm ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\F-117 Night Storm (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19489,7 +19489,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "F-15 Strike Eagle II ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\F-15 Strike Eagle II (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19498,7 +19498,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "F-22 Interceptor  ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\F-22 Interceptor (U) (Jun 1992) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19507,7 +19507,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "F1 World Championship ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\F1 World Championship (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19516,7 +19516,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Faery Tale Adventure, The ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Faery Tale Adventure, The (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19525,7 +19525,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Family Feud ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Family Feud (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19534,7 +19534,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Fantasia ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Fantasia (U) (REV00) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19543,7 +19543,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Fantastic Dizzy ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Fantastic Dizzy (UE) (M5) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19552,7 +19552,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Fatal Fury ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Fatal Fury (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19561,7 +19561,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Fatal Fury 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Fatal Fury 2 (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19570,7 +19570,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Fatal Labyrinth ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Fatal Labyrinth (JU) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19579,7 +19579,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Fatal Rewind ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Fatal Rewind (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19588,7 +19588,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Ferrari Grand Prix Challenge ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Ferrari Grand Prix Challenge (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19597,7 +19597,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "FIFA International Soccer  ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\FIFA International Soccer (UE) (M4) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19606,7 +19606,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "FIFA Soccer 95 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\FIFA Soccer 95 (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19615,7 +19615,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "FIFA Soccer 96 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\FIFA Soccer 96 (UE) (M6) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19624,7 +19624,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "FIFA Soccer 97 Gold Edition ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\FIFA Soccer 97 Gold Edition (UE) (M6) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19633,7 +19633,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Fighting Masters ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Fighting Masters (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19642,7 +19642,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Final Zone ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Final Zone (JU) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19651,7 +19651,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Fire Shark ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Fire Shark (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19660,7 +19660,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Flashback - The Quest for Identity ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Flashback - The Quest for Identity (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19669,7 +19669,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Flicky ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Flicky (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19678,7 +19678,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Flintstones, The ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Flintstones, The (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19687,7 +19687,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Foreman For Real ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Foreman For Real (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19696,7 +19696,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Forgotten Worlds")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Forgotten Worlds (W) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19705,7 +19705,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Frank Thomas Big Hurt Baseball ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Frank Thomas Big Hurt Baseball (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19714,7 +19714,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Frogger ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Frogger (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19723,7 +19723,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Fun-N-Games ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Fun-N-Games (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19732,7 +19732,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "G-LOC Air Battle ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\G-LOC Air Battle (W) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19741,7 +19741,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Gadget Twins, The ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Gadget Twins, The (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19750,7 +19750,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Gaiares ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Gaiares (JU) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19759,7 +19759,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Gain Ground  ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Gain Ground (UE) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19768,7 +19768,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Galaxy Force II")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Galaxy Force II (W) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19777,7 +19777,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Game Genie")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Game Genie (W) (REV01) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19786,7 +19786,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Garfield - Caught in the Act ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Garfield - Caught in the Act (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19795,7 +19795,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Gargoyles ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Gargoyles (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19804,7 +19804,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Gauntlet 4 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Gauntlet 4 (UE) (Aug 1993) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19813,7 +19813,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "GemFire ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\GemFire (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19822,7 +19822,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "General Chaos ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\General Chaos (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19831,7 +19831,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Generations Lost ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Generations Lost (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19840,7 +19840,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Genesis 6-Pak ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Genesis 6-Pak (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19849,7 +19849,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Genesis TMSS BIOS ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Genesis TMSS BIOS (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19858,7 +19858,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Genghis Khan II - Clan of the Gray Wolf ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Genghis Khan II - Clan of the Gray Wolf (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19867,7 +19867,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "George Foreman\'s KO Boxing ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\George Foreman's KO Boxing (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19876,7 +19876,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Ghostbusters")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Ghostbusters (W) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19885,7 +19885,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Ghouls \'N Ghosts ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Ghouls 'N Ghosts (UE) (REV02) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19894,7 +19894,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Gods ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Gods (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19903,7 +19903,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Golden Axe")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Golden Axe (W) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19912,7 +19912,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Golden Axe II ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Golden Axe II (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19921,7 +19921,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Goofy\'s Hysterical History Tour ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Goofy's Hysterical History Tour (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19930,7 +19930,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Granada ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Granada (JU) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19939,7 +19939,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Great Circus Mystery, The - Starring Mickey & Minnie ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Great Circus Mystery, The - Starring Mickey & Minnie (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19948,7 +19948,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Great Waldo Search, The ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Great Waldo Search, The (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19957,7 +19957,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Greatest Heavyweights of the Ring ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Greatest Heavyweights of the Ring (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19966,7 +19966,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Greendog - The Beached Surfer Dude ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Greendog - The Beached Surfer Dude (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19975,7 +19975,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "GRIND Stormer ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\GRIND Stormer (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19984,7 +19984,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Growl ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Growl (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -19993,7 +19993,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Gunstar Heroes ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Gunstar Heroes (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20002,7 +20002,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Hard Drivin\' ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Hard Drivin' (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20011,7 +20011,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "HardBall \'94 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\HardBall '94 (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20020,7 +20020,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "HardBall \'95 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\HardBall '95 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20029,7 +20029,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "HardBall III ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\HardBall III (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20038,7 +20038,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "HardBall! ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\HardBall! (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20047,7 +20047,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Haunting Starring Polterguy ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Haunting Starring Polterguy (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20056,7 +20056,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Head-On Soccer")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Head-On Soccer (U) (M5) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20065,7 +20065,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Heavy Nova ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Heavy Nova (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20074,7 +20074,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Hellfire ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Hellfire (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20083,7 +20083,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Herzog Zwei ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Herzog Zwei (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20092,7 +20092,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "High Seas Havoc ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\High Seas Havoc (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20101,7 +20101,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Hit The Ice ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Hit The Ice (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20110,7 +20110,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Home Alone ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Home Alone (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20119,7 +20119,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Home Alone 2 - Lost in New York ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Home Alone 2 - Lost in New York (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20128,7 +20128,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Hook ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Hook (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20137,7 +20137,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Humans, The ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Humans, The (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20146,7 +20146,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "IMG International Tour Tennis ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\IMG International Tour Tennis (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20155,7 +20155,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Immortal, The ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Immortal, The (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20164,7 +20164,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Incredible Crash Dummies, The  ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Incredible Crash Dummies, The (UE) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20173,7 +20173,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Incredible Hulk, The ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Incredible Hulk, The (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20182,7 +20182,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Indiana Jones and the Last Crusade ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Indiana Jones and the Last Crusade (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20191,7 +20191,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Insector X ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Insector X (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20200,7 +20200,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Ishido - The Way of the Stones ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Ishido - The Way of the Stones (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20209,7 +20209,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Izzy\'s Quest for the Olympic Rings ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Izzy's Quest for the Olympic Rings (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20218,7 +20218,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Jack Nicklaus\' Power Challenge Golf ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Jack Nicklaus' Power Challenge Golf (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20227,7 +20227,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "James Bond 007 - The Duel ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\James Bond 007 - The Duel (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20236,7 +20236,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "James Buster Douglas Knock Out Boxing  ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\James Buster Douglas Knock Out Boxing (UE) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20245,7 +20245,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "James Pond - Underwater Agent ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+string cmd = @"C:\Arcade\Sega Genesis\Roms\James Pond - Underwater Agent (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20254,7 +20254,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "James Pond 3 - Operation Starfish ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\James Pond 3 - Operation Starfish (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20263,7 +20263,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "James Pond II - Codename RoboCod ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\James Pond II - Codename RoboCod (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20272,7 +20272,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Jammit ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Jammit (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20281,7 +20281,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Jennifer Capriati Tennis ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Jennifer Capriati Tennis (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20290,7 +20290,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Jeopardy! ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Jeopardy! (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20299,7 +20299,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Jeopardy! Deluxe ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Jeopardy! Deluxe (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20308,7 +20308,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Jeopardy! Sports Edition ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Jeopardy! Sports Edition (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20317,7 +20317,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Jerry Glanville\'s Pigskin Footbrawl ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Jerry Glanville's Pigskin Footbrawl (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20326,7 +20326,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Jewel Master ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Jewel Master (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20335,7 +20335,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Joe & Mac Caveman Ninja ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Joe & Mac Caveman Ninja (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20344,7 +20344,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Joe Montana Football ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Joe Montana Football (JU) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20353,7 +20353,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Joe Montana Sports Talk Football ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Joe Montana Sports Talk Football (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20362,7 +20362,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Joe Montana Sports Talk Football 2")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Joe Montana Sports Talk Football 2 (W) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20371,7 +20371,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "John Madden Football \'92 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\John Madden Football '92 (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20380,7 +20380,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "John Madden Football \'93  ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\John Madden Football '93 (UE) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20389,7 +20389,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "John Madden Football \'93 - Championship Edition ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\John Madden Football '93 - Championship Edition (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20398,7 +20398,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "John Madden Football ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\John Madden Football (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20407,7 +20407,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "John Madden NFL 94  ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\John Madden NFL 94 (UE) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20416,7 +20416,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Jordan vs Bird - Super One-on-One ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Jordan vs Bird - Super One-on-One (UE) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20425,7 +20425,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Journey From Darkness - Strider Returns ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Journey From Darkness - Strider Returns (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20434,7 +20434,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Judge Dredd - The Movie ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Judge Dredd - The Movie (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20443,7 +20443,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Junction ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Junction (JU) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20452,7 +20452,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Jungle Book, The ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Jungle Book, The (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20461,7 +20461,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Jungle Strike ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Jungle Strike (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20470,7 +20470,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Jurassic Park ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Jurassic Park (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20479,7 +20479,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Jurassic Park - Rampage Edition ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Jurassic Park - Rampage Edition (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20488,7 +20488,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Jurassic Park 2 - The Lost World ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Jurassic Park 2 - The Lost World (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20497,7 +20497,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Justice League Task Force ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Justice League Task Force (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20506,7 +20506,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Ka-Ge-Ki - Fists of Steel ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Ka-Ge-Ki - Fists of Steel (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20515,7 +20515,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Kawasaki Superbike Challenge ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Kawasaki Superbike Challenge (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20524,7 +20524,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Kid Chameleon ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Kid Chameleon (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20533,7 +20533,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "King of the Monsters ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\King of the Monsters (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20542,7 +20542,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "King of the Monsters 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\King of the Monsters 2 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20551,7 +20551,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "King Salmon - The Big Catch ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\King Salmon - The Big Catch (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20560,7 +20560,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "King\'s Bounty ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\King's Bounty (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20569,7 +20569,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Klax ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Klax (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20578,7 +20578,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Krusty\'s Super Funhouse ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Krusty's Super Funhouse (UE) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20587,7 +20587,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Lakers vs Celtics and the NBA Playoffs ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Lakers vs Celtics and the NBA Playoffs (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20596,7 +20596,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Landstalker - The Treasures of King Nole ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Landstalker - The Treasures of King Nole (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20605,7 +20605,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Last Action Hero ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Last Action Hero (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20614,7 +20614,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Last Battle ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Last Battle (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20623,7 +20623,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Lawnmower Man, The ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Lawnmower Man, The (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20632,7 +20632,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Legend of Galahad, The ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Legend of Galahad, The (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20641,7 +20641,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Lemmings ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Lemmings (JU) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20650,7 +20650,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Lemmings 2 - The Tribes ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Lemmings 2 - The Tribes (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20659,7 +20659,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Lethal Enforcers ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Lethal Enforcers (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20668,7 +20668,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Lethal Enforcers II - Gun Fighters ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Lethal Enforcers II - Gun Fighters (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20677,7 +20677,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "LHX Attack Chopper ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\LHX Attack Chopper (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20686,7 +20686,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Liberty or Death ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Liberty or Death (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20695,7 +20695,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Light Crusader ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Light Crusader (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20704,7 +20704,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Lightening Force - Quest for the Darkstar ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Lightening Force - Quest for the Darkstar (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20713,7 +20713,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Lion King, The ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Lion King, The (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20722,7 +20722,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Lost Vikings, The ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Lost Vikings, The (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20731,7 +20731,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Lotus II RECS ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Lotus II RECS (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20740,7 +20740,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Lotus Turbo Challenge ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Lotus Turbo Challenge (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20749,7 +20749,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "M-1 Abrams Battle Tank ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\M-1 Abrams Battle Tank (UE) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20758,7 +20758,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "M.U.S.H.A ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\M.U.S.H.A (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20767,7 +20767,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Madden NFL 95 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Madden NFL 95 (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20776,7 +20776,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Madden NFL 96 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Madden NFL 96 (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20785,7 +20785,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Madden NFL 97 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Madden NFL 97 (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20794,7 +20794,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Madden NFL 98 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Madden NFL 98 (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20803,7 +20803,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Magic School Bus, The ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Magic School Bus, The (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20812,7 +20812,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Marble Madness ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Marble Madness (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20821,7 +20821,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Mario Andretti Racing ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Mario Andretti Racing (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20830,7 +20830,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Mario Lemieux Hockey ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Mario Lemieux Hockey (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20839,7 +20839,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Marko\'s Magic Football ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Marko's Magic Football (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20848,7 +20848,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Marsupilami")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Marsupilami (U) (M5) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20857,7 +20857,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Marvel Land ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Marvel Land (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20866,7 +20866,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Mary Shelley\'s Frankenstein ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Mary Shelley's Frankenstein (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20875,7 +20875,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Master of Monsters ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Master of Monsters (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20884,7 +20884,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Math Blaster - Episode 1 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Math Blaster - Episode 1 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20893,7 +20893,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Mazin Saga ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Mazin Saga (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20902,7 +20902,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "McDonald\'s Treasure Land Adventure ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\McDonald's Treasure Land Adventure (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20911,7 +20911,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Mega Bomberman ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Mega Bomberman (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20920,7 +20920,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Mega Turrican ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Mega Turrican (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20929,7 +20929,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Menacer 6-in-1 Game Pack ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Menacer 6-in-1 Game Pack (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20938,7 +20938,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Mercs ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Mercs (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20947,7 +20947,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Michael Jackson\'s Moonwalker")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Michael Jackson's Moonwalker (W) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20956,7 +20956,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Mick & Mack as the Global Gladiators ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Mick & Mack as the Global Gladiators (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20965,7 +20965,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Mickey Mania - Timeless Adventures of Mickey Mouse ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Mickey Mania - Timeless Adventures of Mickey Mouse (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20974,7 +20974,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Mickey\'s Ultimate Challenge ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Mickey's Ultimate Challenge (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20983,7 +20983,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Micro Machines  ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Micro Machines (UE) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -20992,7 +20992,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Midnight Resistance ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Midnight Resistance (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21001,7 +21001,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Mig-29 Fighter Pilot ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Mig-29 Fighter Pilot (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21010,7 +21010,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Might and Magic - Gates to Another World ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Might and Magic - Gates to Another World (UE) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21019,7 +21019,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Mighty Morphin Power Rangers ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Mighty Morphin Power Rangers (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21028,7 +21028,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Mighty Morphin Power Rangers - The Movie ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Mighty Morphin Power Rangers - The Movie (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21037,7 +21037,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Mike Ditka Power Football ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Mike Ditka Power Football (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21046,7 +21046,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Minnesota Fats Pool Legend ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Minnesota Fats Pool Legend (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21055,7 +21055,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Miracle Piano Teaching System ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Miracle Piano Teaching System (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21064,7 +21064,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "MLBPA Baseball ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\MLBPA Baseball (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21073,7 +21073,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "MLBPA Sports Talk Baseball ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\MLBPA Sports Talk Baseball (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21082,7 +21082,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Monopoly ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Monopoly (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21091,7 +21091,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Mortal Kombat ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Mortal Kombat (UE) (REV01) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21100,7 +21100,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Mortal Kombat 3 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Mortal Kombat 3 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21109,7 +21109,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Mortal Kombat II ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Mortal Kombat II (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21118,7 +21118,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Ms. Pac-Man ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Ms. Pac-Man (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21127,7 +21127,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Muhammad Ali Heavyweight Boxing ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Muhammad Ali Heavyweight Boxing (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21136,7 +21136,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Mutant League Football ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Mutant League Football (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21145,7 +21145,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Mutant League Hockey ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Mutant League Hockey (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21154,7 +21154,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Mystic Defender")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Mystic Defender (W) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21163,7 +21163,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Mystical Fighter ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+string cmd = @"C:\Arcade\Sega Genesis\Roms\Mystical Fighter (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21172,7 +21172,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "NBA Action \'95 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\NBA Action '95 (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21181,7 +21181,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "NBA Action ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+string cmd = @"C:\Arcade\Sega Genesis\Roms\NBA Action (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21190,7 +21190,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "NBA All-Star Challenge ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\NBA All-Star Challenge (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21199,7 +21199,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "NBA Hang Time ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\NBA Hang Time (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21208,7 +21208,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "NBA Jam ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\NBA Jam (UE) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21217,7 +21217,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "NBA Jam Tournament Edition")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\NBA Jam Tournament Edition (W) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21226,7 +21226,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "NBA Live 95 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\NBA Live 95 (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21235,7 +21235,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "NBA Live 96 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\NBA Live 96 (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21244,7 +21244,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "NBA Live 97 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\NBA Live 97 (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21253,7 +21253,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "NBA Live 98 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\NBA Live 98 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21262,7 +21262,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "NBA Showdown 94 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+string cmd = @"C:\Arcade\Sega Genesis\Roms\NBA Showdown 94 (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21271,7 +21271,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "NCAA College Football ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\NCAA College Football (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21280,7 +21280,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "NCAA Final Four College Basketball ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\NCAA Final Four College Basketball (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21289,7 +21289,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Newman-Haas IndyCar Racing ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Newman-Haas IndyCar Racing (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21298,7 +21298,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "NFL \'95 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\NFL '95 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21307,7 +21307,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "NFL 98 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\NFL 98 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21316,7 +21316,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "NFL Football \'94 Starring Joe Montana ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\NFL Football '94 Starring Joe Montana (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21325,7 +21325,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "NFL Prime Time ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\NFL Prime Time (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21334,7 +21334,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "NFL Quarterback Club ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\NFL Quarterback Club (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21343,7 +21343,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "NFL Quarterback Club 96 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\NFL Quarterback Club 96 (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21352,7 +21352,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "NHL 94 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\NHL 94 (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21361,7 +21361,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "NHL 95 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\NHL 95 (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21370,7 +21370,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "NHL 96 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\NHL 96 (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21379,7 +21379,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "NHL 97 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\NHL 97 (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21388,7 +21388,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "NHL 98 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\NHL 98 (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21397,7 +21397,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "NHL All-Star Hockey \'95 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\NHL All-Star Hockey '95 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21406,7 +21406,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "NHL Hockey ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\NHL Hockey (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21415,7 +21415,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "NHLPA Hockey \'93 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\NHLPA Hockey '93 (UE) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21424,7 +21424,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Nigel Mansell\'s World Championship ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Nigel Mansell's World Championship (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21433,7 +21433,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "No Escape ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\No Escape (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21442,7 +21442,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Nobunaga\'s Ambition ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Nobunaga's Ambition (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21451,7 +21451,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Normy\'s Beach Babe-O-Rama ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Normy's Beach Babe-O-Rama (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21460,7 +21460,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Olympic Gold - Barcelona 92 (M8) ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Olympic Gold - Barcelona 92 (U) (M8) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21469,7 +21469,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Olympic Summer Games Atlanta 96 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Olympic Summer Games Atlanta 96 (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21478,7 +21478,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Olympic Winter Games - Lillehammer 94 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Olympic Winter Games - Lillehammer 94 (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21487,7 +21487,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Onslaught ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+string cmd = @"C:\Arcade\Sega Genesis\Roms\Onslaught (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21496,7 +21496,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Ooze, The ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Ooze, The (JU) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21505,7 +21505,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Operation Europe - Path to Victory 1939-1945 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Operation Europe - Path to Victory 1939-1945 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21514,7 +21514,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Out of this World ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Out of this World (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21523,7 +21523,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Outlander ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Outlander (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21532,7 +21532,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "OutRun ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\OutRun (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21541,7 +21541,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "OutRun 2019 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\OutRun 2019 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21550,7 +21550,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "OutRunners ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\OutRunners (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21559,7 +21559,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "P.T.O. Pacific Theater of Operations ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\P.T.O. Pacific Theater of Operations (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21568,7 +21568,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Pac-Attack ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Pac-Attack (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21577,7 +21577,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Pac-Man 2 - The New Adventures ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Pac-Man 2 - The New Adventures (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21586,7 +21586,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Pac-Mania ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Pac-Mania (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21595,7 +21595,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Pagemaster, The ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Pagemaster, The (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21604,7 +21604,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Paperboy ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Paperboy (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21613,7 +21613,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Paperboy II ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Paperboy II (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21622,7 +21622,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Pat Riley Basketball ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Pat Riley Basketball (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21631,7 +21631,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Pebble Beach Golf Links ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Pebble Beach Golf Links (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21640,7 +21640,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Pele! ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Pele! (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21649,7 +21649,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Pele\'s World Tournament Soccer ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Pele's World Tournament Soccer (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21658,7 +21658,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "PGA European Tour ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\PGA European Tour (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21667,7 +21667,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "PGA Tour 96 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+string cmd = @"C:\Arcade\Sega Genesis\Roms\PGA Tour 96 (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21676,7 +21676,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "PGA Tour Golf ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\PGA Tour Golf (UE) (REV02) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21685,7 +21685,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "PGA Tour Golf II ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\PGA Tour Golf II (UE) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21694,7 +21694,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "PGA Tour Golf III ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\PGA Tour Golf III (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21703,7 +21703,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Phantasy Star - The End of the Millenium ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Phantasy Star - The End of the Millenium (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21712,7 +21712,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Phantasy Star II ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Phantasy Star II (UE) (REV02) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21721,7 +21721,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Phantasy Star III - Generations of Doom ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Phantasy Star III - Generations of Doom (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21730,7 +21730,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Phantom 2040 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Phantom 2040 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21739,7 +21739,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Phelios ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Phelios (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21748,7 +21748,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Pink Goes to Hollywood ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Pink Goes to Hollywood (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21757,7 +21757,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Pinocchio ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Pinocchio (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21766,7 +21766,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Pirates of Dark Water, The ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Pirates of Dark Water, The (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21775,7 +21775,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Pirates! Gold ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Pirates! Gold (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21784,7 +21784,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Pit Fighter  ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Pit Fighter (UE) (Jun 1991) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21793,7 +21793,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Pitfall - The Mayan Adventure ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Pitfall - The Mayan Adventure (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21802,7 +21802,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Pocahontas ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Pocahontas (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21811,7 +21811,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Populous ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Populous (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21820,7 +21820,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Power Monger ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Power Monger (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21829,7 +21829,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Powerball ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Powerball (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21838,7 +21838,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Predator 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Predator 2 (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21847,7 +21847,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Primal Rage ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Primal Rage (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21856,7 +21856,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Prince of Persia ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Prince of Persia (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21865,7 +21865,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Pro Quarterback ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Pro Quarterback (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21874,7 +21874,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Puggsy ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Puggsy (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21883,7 +21883,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Punisher, The ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Punisher, The (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21892,7 +21892,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Quack Shot Starring Donald Duck")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Quack Shot Starring Donald Duck (W) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21901,7 +21901,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Quad Challenge ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Quad Challenge (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21910,7 +21910,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Race Drivin\' ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Race Drivin' (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21919,7 +21919,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Radical Rex ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Radical Rex (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21928,7 +21928,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Raiden Trad ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Raiden Trad (JU) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21937,7 +21937,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Rambo III")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Rambo III (W) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21946,7 +21946,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Rampart ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Rampart (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21955,7 +21955,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Ranger-X ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Ranger-X (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21964,7 +21964,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Rastan Saga II ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Rastan Saga II (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21973,7 +21973,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "RBI Baseball 3 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 3 (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21982,7 +21982,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "RBI Baseball 4 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -21991,7 +21991,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "RBI Baseball 93 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 93 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22000,7 +22000,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "RBI Baseball 94 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 94 (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22009,7 +22009,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Red Zone ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Red Zone (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22018,7 +22018,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Ren and Stimpy Show, The - Stimpy\'s Invention ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Ren and Stimpy Show, The - Stimpy's Invention (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22027,7 +22027,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Revenge of Shinobi, The (REV03) ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Revenge of Shinobi, The (W) (REV03) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22036,7 +22036,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Revolution X ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Revolution X (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22045,7 +22045,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Richard Scarry\'s Busytown ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Richard Scarry's Busytown (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22054,7 +22054,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Rings of Power ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Rings of Power (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22063,7 +22063,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Risk ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Risk (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22072,7 +22072,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Risky Woods ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Risky Woods (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22081,7 +22081,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Ristar ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Ristar (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22090,7 +22090,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Road Blasters ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Road Blasters (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22099,7 +22099,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Road Rash  ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Road Rash (UE) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22108,7 +22108,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Road Rash 3 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Road Rash 3 (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22117,7 +22117,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Road Rash II ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Road Rash II (UE) (REV02) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22126,7 +22126,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Robocop 3 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Robocop 3 (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22135,7 +22135,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Robocop Versus The Terminator ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Robocop Versus The Terminator (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22144,7 +22144,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Rock n\' Roll Racing ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Rock n' Roll Racing (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22153,7 +22153,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Rocket Knight Adventures ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Rocket Knight Adventures (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22162,7 +22162,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Rockman X3")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Rockman X3 (Unl) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22171,7 +22171,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Rocky and Bullwinkle, The Adventures of ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Rocky and Bullwinkle, The Adventures of (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22180,7 +22180,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Roger Clemens\' MVP Baseball ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Roger Clemens' MVP Baseball (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22189,7 +22189,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Rolling Thunder 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Rolling Thunder 2 (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22198,7 +22198,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Rolling Thunder 3 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Rolling Thunder 3 (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22207,7 +22207,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Rolo to the Rescue ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Rolo to the Rescue (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22216,7 +22216,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Romance of the Three Kingdoms II ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Romance of the Three Kingdoms II (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22225,7 +22225,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Romance of the Three Kingdoms III ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Romance of the Three Kingdoms III (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22234,7 +22234,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Rugby World Cup 1995  ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Rugby World Cup 1995 (UE) (M3) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22243,7 +22243,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Sagaia ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Sagaia (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22252,7 +22252,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Saint Sword ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Saint Sword (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22261,7 +22261,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Samurai Shodown ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Samurai Shodown (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22270,7 +22270,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Saturday Night Slam Masters ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Saturday Night Slam Masters (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22279,7 +22279,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Scooby Doo Mystery ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Scooby Doo Mystery (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22288,7 +22288,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "SeaQuest DSV ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\SeaQuest DSV (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22297,7 +22297,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Sega Channel ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Sega Channel (U).gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22306,7 +22306,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Sesame Street Counting Cafe ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Sesame Street Counting Cafe (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22315,7 +22315,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Shadow Blasters ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Shadow Blasters (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22324,7 +22324,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Shadow Dancer - The Secret of Shinobi ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Shadow Dancer - The Secret of Shinobi (W) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22333,7 +22333,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Shadow of the Beast ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Shadow of the Beast (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22342,7 +22342,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Shadow of the Beast 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Shadow of the Beast 2 (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22351,7 +22351,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Shadowrun ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Shadowrun (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22360,7 +22360,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Shanghai 2 - Dragon\'s Eye ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Shanghai 2 - Dragon's Eye (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22369,7 +22369,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Shaq Fu ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Shaq Fu (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22378,7 +22378,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Shining Force ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Shining Force (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22387,7 +22387,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Shining Force II ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Shining Force II (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22396,7 +22396,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Shining in the Darkness ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Shining in the Darkness (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22405,7 +22405,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Shinobi III - Return of the Ninja Master ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Shinobi III - Return of the Ninja Master (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22414,7 +22414,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Shove It! - The Warehouse Game ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Shove It! - The Warehouse Game (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22423,7 +22423,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Side Pocket ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Side Pocket (JU) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22432,7 +22432,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Simpsons, The - Bart vs The Space Mutants ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Simpsons, The - Bart vs The Space Mutants (UE) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22441,7 +22441,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Simpsons, The - Bart\'s Nightmare ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Simpsons, The - Bart's Nightmare (UE) (REV02) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22450,7 +22450,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Skeleton Krew ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Skeleton Krew (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22459,7 +22459,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Skitchin\' ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Skitchin' (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22468,7 +22468,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Slaughter Sport ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Slaughter Sport (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22477,7 +22477,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Socket ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Socket (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22486,7 +22486,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Sol-Deace ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Sol-Deace (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22495,7 +22495,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Soldiers of Fortune ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Soldiers of Fortune (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22504,7 +22504,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Sonic 3D Blast ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Sonic 3D Blast (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22513,7 +22513,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Sonic and Knuckles & Sonic 1 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Sonic and Knuckles & Sonic 1 (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22522,7 +22522,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Sonic and Knuckles & Sonic 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Sonic and Knuckles & Sonic 2 (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22531,7 +22531,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Sonic and Knuckles & Sonic 3 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Sonic and Knuckles & Sonic 3 (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22540,7 +22540,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Sonic and Knuckles ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Sonic and Knuckles (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22549,7 +22549,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Sonic Classics")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Sonic Classics (Compilation) (UE) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22558,7 +22558,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Sonic Jam 6")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Sonic Jam 6 (Unl) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22567,7 +22567,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Sonic Spinball ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Sonic Spinball (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22576,7 +22576,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Sonic The Hedgehog")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Sonic The Hedgehog (W) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22585,7 +22585,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Sonic The Hedgehog 2")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Sonic The Hedgehog 2 (W) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22594,7 +22594,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Sonic The Hedgehog 3 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Sonic The Hedgehog 3 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22603,7 +22603,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Sorcerer\'s Kingdom")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Sorcerer's Kingdom (U) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22612,7 +22612,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Soul Blade")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Soul Blade (Unl) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22621,7 +22621,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Space Harrier II ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Space Harrier II (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22630,7 +22630,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Space Invaders 91 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Space Invaders 91 (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22639,7 +22639,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Sparkster ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Sparkster (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22648,7 +22648,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Speed Ball 2 - Brutal Deluxe ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Speed Ball 2 - Brutal Deluxe (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22657,7 +22657,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Spider-Man - The Animated Series ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Spider-Man - The Animated Series (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22666,7 +22666,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Spider-Man and Venom - Maximum Carnage ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Spider-Man and Venom - Maximum Carnage (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22675,7 +22675,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Spider-Man and Venom - Separation Anxiety ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Spider-Man and Venom - Separation Anxiety (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22684,7 +22684,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Spider-Man and X-Men - Arcade\'s Revenge ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Spider-Man and X-Men - Arcade's Revenge (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22693,7 +22693,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Spider-Man vs The Kingpin ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Spider-Man vs The Kingpin (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22702,7 +22702,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Spiritual Warfare")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Spiritual Warfare (Unl) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22711,7 +22711,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Splatterhouse 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Splatterhouse 2 (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22720,7 +22720,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Splatterhouse 3 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Splatterhouse 3 (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22729,7 +22729,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Spot Goes to Hollywood")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Spot Goes to Hollywood (U) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22738,7 +22738,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Star Control ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Star Control (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22747,7 +22747,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Star Trek - Deep Space 9 - Crossroads of Time ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Star Trek - Deep Space 9 - Crossroads of Time (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22756,7 +22756,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Star Trek - The Next Generation")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Star Trek - The Next Generation (U) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22765,7 +22765,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Starflight ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Starflight (UE) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22774,7 +22774,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Stargate ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Stargate (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22783,7 +22783,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Steel Empire, The ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Steel Empire, The (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22792,7 +22792,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Steel Talons ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Steel Talons (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22801,7 +22801,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Stormlord ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Stormlord (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22810,7 +22810,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Street Fighter II\' - Special Champion Edition ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Street Fighter II' - Special Champion Edition (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22819,7 +22819,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Street Smart ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Street Smart (JU) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22828,7 +22828,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Streets of Rage")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Streets of Rage 2 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22846,7 +22846,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Streets of Rage 3 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Streets of Rage 3 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22855,7 +22855,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Strider ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Strider (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22864,7 +22864,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Sub-Terrania ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Sub-Terrania (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22873,7 +22873,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Summer Challenge ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Summer Challenge (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22882,7 +22882,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Sunset Riders ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Sunset Riders (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22891,7 +22891,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Super Baseball 2020 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Super Baseball 2020 (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22900,7 +22900,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Super Battle Tank - War in the Gulf ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Super Battle Tank - War in the Gulf (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22909,7 +22909,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Super Battleship ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Super Battleship (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22918,7 +22918,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Super Bubble Bobble")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Super Bubble Bobble (Unl) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22927,7 +22927,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Super Donkey Kong 99")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Super Donkey Kong 99 (Unl) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22936,7 +22936,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Super Hang-On")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Super Hang-On (W) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22945,7 +22945,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Super High Impact ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Super High Impact (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22954,7 +22954,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Super Hydlide ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Super Hydlide (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22963,7 +22963,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Super King Kong 99")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Super King Kong 99 (Unl) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22972,7 +22972,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Super Mario 2 1998")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Super Mario 2 1998 (Unl) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22981,7 +22981,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Super Mario Bros.")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Super Mario Bros. (Unl) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22990,7 +22990,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Super Mario World")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Super Mario World (Unl) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -22999,7 +22999,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Super Monaco Grand Prix  ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Super Monaco Grand Prix (U) (M2) (REV03) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23008,7 +23008,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Super Off Road ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Super Off Road (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23017,7 +23017,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Super Smash TV ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Super Smash TV (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23026,7 +23026,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Super Street Fighter II - The New Challengers ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Super Street Fighter II - The New Challengers (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23035,7 +23035,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Super Thunder Blade")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Super Thunder Blade (W) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23044,7 +23044,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Super Volleyball ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Super Volleyball (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23053,7 +23053,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Superman ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Superman (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23062,7 +23062,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Sword of Sodan ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Sword of Sodan (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23071,7 +23071,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Sword of Vermilion ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Sword of Vermilion (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23080,7 +23080,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Syd of Valis ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Syd of Valis (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23089,7 +23089,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Sylvester & Tweety in Cagey Capers ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Sylvester & Tweety in Cagey Capers (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23098,7 +23098,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Syndicate ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Syndicate (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23107,7 +23107,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "T2 - The Arcade Game ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\T2 - The Arcade Game (UE) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23116,7 +23116,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Tale Spin ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Tale Spin (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23125,7 +23125,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Target Earth ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Target Earth (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23134,7 +23134,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Task Force Harrier EX ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Task Force Harrier EX (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23143,7 +23143,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Taz-Mania ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Taz-Mania (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23152,7 +23152,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Team USA Basketball  ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Team USA Basketball (UE) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23161,7 +23161,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Techno Clash ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Techno Clash (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23170,7 +23170,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Technocop ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Technocop (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23179,7 +23179,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Tecmo Super Baseball ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Tecmo Super Baseball (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23188,7 +23188,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Tecmo Super Bowl ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Tecmo Super Bowl (U) (Oct 1993) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23197,7 +23197,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Tecmo Super Bowl II SE ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Tecmo Super Bowl II SE (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23206,7 +23206,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Tecmo Super Bowl III Final Edition ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Tecmo Super Bowl III Final Edition (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23215,7 +23215,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Tecmo Super Hockey ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Tecmo Super Hockey (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23224,7 +23224,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Tecmo Super NBA Basketball ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Tecmo Super NBA Basketball (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23233,7 +23233,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Tecmo World Cup \'93 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Tecmo World Cup '93 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23242,7 +23242,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Teenage Mutant Ninja Turtles - The Hyperstone Heist ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Teenage Mutant Ninja Turtles - The Hyperstone Heist (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23251,7 +23251,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Teenage Mutant Ninja Turtles - Tournament Fighters ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Teenage Mutant Ninja Turtles - Tournament Fighters (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23260,7 +23260,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Terminator 2 - Judgment Day ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Terminator 2 - Judgment Day (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23269,7 +23269,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Terminator, The ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Terminator, The (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23278,7 +23278,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Test Drive II - The Duel ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Test Drive II - The Duel (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23287,7 +23287,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Theme Park ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Theme Park (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23296,7 +23296,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Thomas the Tank Engine & Friends ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Thomas the Tank Engine & Friends (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23305,7 +23305,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Thunder Force II ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Thunder Force II (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23314,7 +23314,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Thunder Force III ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Thunder Force III (JU) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23323,7 +23323,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Thunder Fox ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Thunder Fox (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23332,7 +23332,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Tick, The ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Tick, The (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23341,7 +23341,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Time Killers ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Time Killers (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23350,7 +23350,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Tinhead ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Tinhead (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23359,7 +23359,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Tiny Toon Adventures - Acme All-Stars ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Tiny Toon Adventures - Acme All-Stars (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23368,7 +23368,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Tiny Toon Adventures - Buster\'s Hidden Treasure ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Tiny Toon Adventures - Buster's Hidden Treasure (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23377,7 +23377,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "TNN Bass Tournament of Champions")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\TNN Bass Tournament of Champions (U) (REV01) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23386,7 +23386,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "TNN Outdoors Bass Tournament \'96 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\TNN Outdoors Bass Tournament '96 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23395,7 +23395,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Todd\'s Adventures in Slime World ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Todd's Adventures in Slime World (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23404,7 +23404,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Toejam & Earl ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Toejam & Earl (U) (REV00) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23413,7 +23413,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Toejam & Earl in Panic on Funkotron ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Toejam & Earl in Panic on Funkotron (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23422,7 +23422,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Toki - Going Ape Spit  ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Toki - Going Ape Spit (UE) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23431,7 +23431,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Tom and Jerry - Frantic Antics")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Tom and Jerry - Frantic Antics (U) (1994) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23440,7 +23440,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Tommy Lasorda Baseball ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Tommy Lasorda Baseball (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23449,7 +23449,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Tony La Russa Baseball ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Tony La Russa Baseball (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23458,7 +23458,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Tony La Russa Baseball 95 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Tony La Russa Baseball 95 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23467,7 +23467,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Top Fighter 2000 MK VIII")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Top Fighter 2000 MK VIII (Unl) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23476,7 +23476,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Top Gear 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Top Gear 2 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23485,7 +23485,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Toughman Contest ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Toughman Contest (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23494,7 +23494,8 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Toxic Crusaders ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Toxic Crusaders (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23503,7 +23504,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Toy Story ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Toy Story (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23512,7 +23513,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Toys ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Toys (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23521,7 +23522,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Trampoline Terror! ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Trampoline Terror! (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23530,7 +23531,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Traysia ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Traysia (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23539,7 +23540,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Triple Play \'96 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Triple Play '96 (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23548,7 +23549,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Triple Play Gold ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Triple Play Gold (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23557,7 +23558,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Trouble Shooter ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Trouble Shooter (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23566,7 +23567,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Troy Aikman NFL Football ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Troy Aikman NFL Football (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23575,7 +23576,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "True Lies ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\True Lies (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23584,7 +23585,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Truxton ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Truxton (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23593,7 +23594,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Turrican ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Turrican (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23602,7 +23603,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Twin Cobra ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Twin Cobra (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23611,7 +23612,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Twin Hawk ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Twin Hawk (JE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23620,7 +23621,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Two Crude Dudes ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Two Crude Dudes (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23629,7 +23630,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Tyrants - Fight Through Time ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Tyrants - Fight Through Time (U) [!].gen";  
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23638,7 +23639,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Ultimate Mortal Kombat 3 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Ultimate Mortal Kombat 3 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23647,7 +23648,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Ultimate Qix ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Ultimate Qix (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23656,7 +23657,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Uncharted Waters ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Uncharted Waters (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23665,7 +23666,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Uncharted Waters - New Horizons ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Uncharted Waters - New Horizons (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23674,7 +23675,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Universal Soldier ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Universal Soldier (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23683,7 +23684,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Unnecessary Roughness 95 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Unnecessary Roughness 95 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23692,7 +23693,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Urban Strike ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Urban Strike (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23701,7 +23702,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Valis ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Valis (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23710,7 +23711,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Valis III ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Valis III (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23719,7 +23720,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Vapor Trail ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Vapor Trail (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23728,7 +23729,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Vectorman ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Vectorman (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23737,7 +23738,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Vectorman 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Vectorman 2 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23746,7 +23747,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Viewpoint ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Viewpoint (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23755,7 +23756,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Virtua Fighter 2 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Virtua Fighter 2 (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23764,7 +23765,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Virtua Racing ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Virtua Racing (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23773,7 +23774,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Virtual Bart ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Virtual Bart (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23782,7 +23783,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Virtual Pinball ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Virtual Pinball (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23791,7 +23792,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "VR Troopers ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\VR Troopers (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23800,7 +23801,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Wacky Worlds ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Wacky Worlds (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23809,7 +23810,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Wardner ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Wardner (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23818,7 +23819,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Warlock ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Warlock (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23827,7 +23828,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Warpspeed ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Warpspeed (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23836,7 +23837,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Warrior of Rome ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Warrior of Rome (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23845,7 +23846,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Warrior of Rome II ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Warrior of Rome II (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23854,7 +23855,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Warsong ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Warsong (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23863,7 +23864,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Wayne Gretzsky NHLPA All-Stars ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Wayne Gretzsky NHLPA All-Stars (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23872,7 +23873,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Wayne\'s World ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Wayne's World (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23881,7 +23882,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "We\'re Back! - A Dinosaur\'s Tale ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\We're Back! - A Dinosaur's Tale (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23890,7 +23891,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Weaponlord ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Weaponlord (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23899,7 +23900,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Whac-A-Critter")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Whac-A-Critter (Unl) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23908,7 +23909,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Wheel of Fortune ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Wheel of Fortune (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23917,7 +23918,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Where in Time is Carmen Sandiego ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Where in Time is Carmen Sandiego (UE) (M5) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23926,7 +23927,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Whip Rush 2222 AD ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Whip Rush 2222 AD (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23935,7 +23936,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Wild Snake ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Wild Snake (U) (Prototype) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23944,7 +23945,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Williams Arcade\'s Greatest Hits ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Williams Arcade's Greatest Hits (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23953,7 +23954,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Wimbledon Championship Tennis ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Wimbledon Championship Tennis (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23962,7 +23963,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Wings of Wor ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Wings of Wor (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23971,7 +23972,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Winter Challenge ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Winter Challenge (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23980,7 +23981,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Wiz \'n\' Liz - The Frantic Wabbit Wescue ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Wiz 'n' Liz - The Frantic Wabbit Wescue (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23989,7 +23990,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Wolf Child ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Wolf Child (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -23998,7 +23999,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Wolverine Adamantium Rage ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Wolverine Adamantium Rage (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24007,7 +24008,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Wonder Boy III - Monster Lair ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Wonder Boy III - Monster Lair (JE) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24016,7 +24017,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Wonder Boy in Monster World ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Wonder Boy in Monster World (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24025,7 +24026,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "World Championship Soccer ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\World Championship Soccer (JU) (REV03) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24034,7 +24035,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "World Championship Soccer II ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\World Championship Soccer II (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24043,7 +24044,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "World Class Leaderboard Golf ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\World Class Leaderboard Golf (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24052,7 +24053,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "World Cup USA 94 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\World Cup USA 94 (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24061,7 +24062,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "World Heroes ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\World Heroes (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24070,7 +24071,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "World of Illusion Starring Mickey Mouse & Donald Duck ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\World of Illusion Starring Mickey Mouse & Donald Duck (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24079,7 +24080,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "World Series Baseball \'95 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\World Series Baseball '95 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24088,7 +24089,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "World Series Baseball \'96 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\World Series Baseball '96 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24097,7 +24098,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "World Series Baseball \'98 ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\World Series Baseball '98 (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24106,7 +24107,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "World Series Baseball ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\World Series Baseball (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24115,7 +24116,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "World Trophy Soccer ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\World Trophy Soccer (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24124,7 +24125,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "WWF RAW ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\WWF RAW (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24133,7 +24134,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "WWF Royal Rumble ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\WWF Royal Rumble (W) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24142,7 +24143,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "WWF Super Wrestlemania ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\WWF Super Wrestlemania (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24151,7 +24152,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "WWF Wrestlemania Arcade ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\WWF Wrestlemania Arcade (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24160,7 +24161,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "X-Men ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\X-Men (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24169,7 +24170,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "X-Men 2 - Clone Wars ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\X-Men 2 - Clone Wars (UE) [!].gen"; 
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24178,7 +24179,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "X-perts ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\X-perts (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24187,7 +24188,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Young Indiana Jones - Instrument of Chaos ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Young Indiana Jones - Instrument of Chaos (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24196,7 +24197,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Ys III - Wanderers from Ys ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Ys III - Wanderers from Ys (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24205,7 +24206,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Zany Golf  ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Zany Golf (UE) (REV00) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24214,7 +24215,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Zero the Kamikaze Squirrel ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Zero the Kamikaze Squirrel (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24223,7 +24224,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Zero Tolerance ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Zero Tolerance (UE) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24232,7 +24233,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Zombies Ate My Neighbors ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Zombies Ate My Neighbors (U) [c][!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24241,7 +24242,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Zool ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Zool (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24250,7 +24251,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Zoom! ")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Zoom! (JU) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24259,7 +24260,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox5.SelectedItem.ToString() == "Zoop")
             {
-                string cmd = @"C:\Arcade\Sega Genesis\Roms\3 Ninjas Kick Back (U) [!].gen";
+                string cmd = @"C:\Arcade\Sega Genesis\Roms\Zoop (U) [!].gen";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24272,7 +24273,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
         {
             if (listBox4.SelectedItem.ToString() == "2020 Super Baseball ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc"; 
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24281,7 +24282,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox4.SelectedItem.ToString() == "3 Ninjas Kick Back ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\3 Ninjas Kick Back (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24290,7 +24291,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox4.SelectedItem.ToString() == "7th Saga, The ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\7th Saga, The (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24299,7 +24300,7 @@ string cmd = @"C:\Arcade\Sega Master System\Roms\World Cup '93 by Tecmo (JUE) [!
             }
             if (listBox4.SelectedItem.ToString() == "A.S.P. Air Strike Patrol ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\A.S.P. Air Strike Patrol (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
