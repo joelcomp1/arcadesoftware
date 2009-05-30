@@ -52,14 +52,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Aracde.exe" size="2753536">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Aracde.exe" size="2816512">
       <assemblyIdentity name="Aracde" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>eoFgh1t8S3qi1fsf3cDJ8fufduA=</dsig:DigestValue>
+        <dsig:DigestValue>Gdc/J74FcrYNqTxPxo7ACc+y6iM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
