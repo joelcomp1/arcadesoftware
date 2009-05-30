@@ -24309,7 +24309,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "AAAHH!!! Real Monsters ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\AAAHH!!! Real Monsters (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24318,7 +24318,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "ABC Monday Night Football ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\ABC Monday Night Football (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24327,7 +24327,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "ACME Animation Factory ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\ACME Animation Factory (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24336,7 +24336,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "ActRaiser ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\ActRaiser (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24345,7 +24345,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "ActRaiser 2 ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\ActRaiser 2 (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24354,7 +24354,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "AD&D - Eye of the Beholder ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\AD&D - Eye of the Beholder (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24363,7 +24363,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Addams Family Values ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Addams Family Values (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24372,7 +24372,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Addams Family, The ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Addams Family, The (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24381,7 +24381,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Addams Family, The - Pugsley\'s Scavenger Hunt ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Addams Family, The - Pugsley's Scavenger Hunt (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24390,7 +24390,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Adventures of Batman & Robin, The ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Adventures of Batman & Robin, The (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24399,7 +24399,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Adventures of Dr. Franken, The ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Adventures of Dr. Franken, The (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24408,7 +24408,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Adventures of Kid Kleets, The ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Adventures of Kid Kleets, The (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24417,7 +24417,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Adventures of Rocky and Bullwinkle and Friends, The ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Adventures of Rocky and Bullwinkle and Friends, The (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24426,7 +24426,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Aero Fighters ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Aero Fighters (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24435,7 +24435,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Aero the Acro-Bat ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Aero the Acro-Bat (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24444,7 +24444,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Aero the Acro-Bat 2 ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Aero the Acro-Bat 2 (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24453,7 +24453,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Aerobiz ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Aerobiz (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24462,7 +24462,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Aerobiz Supersonic ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Aerobiz Supersonic (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24471,7 +24471,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Air Cavalry ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Air Cavalry (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24480,7 +24480,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Al Unser Jr\'s Road to the Top ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Al Unser Jr's Road to the Top (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24489,7 +24489,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Aladdin ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Aladdin (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24498,7 +24498,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Alien 3 ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Alien 3 (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24507,7 +24507,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Alien vs. Predator ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Alien vs. Predator (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24516,7 +24516,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "American Gladiators ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\American Gladiators (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24525,7 +24525,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "American Tail, An - Fievel Goes West ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\American Tail, An - Fievel Goes West (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24534,7 +24534,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Andre Agassi Tennis ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Andre Agassi Tennis (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24543,7 +24543,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Animaniacs ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Animaniacs (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24552,7 +24552,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Arcade\'s Greatest Hits ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Arcade's Greatest Hits (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24561,7 +24561,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Arcade\'s Greatest Hits - The Atari Collection 1 ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Arcade's Greatest Hits - The Atari Collection 1 (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24570,7 +24570,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Arcana ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Arcana (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24579,7 +24579,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Ardy Lightfoot ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Ardy Lightfoot (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24588,7 +24588,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Arkanoid - Doh It Again ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Arkanoid - Doh It Again (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24597,7 +24597,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Art of Fighting ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Art of Fighting (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24606,7 +24606,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Axelay ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Axelay (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24615,7 +24615,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "B.O.B. ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\B.O.B. (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24624,7 +24624,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Bahamut Lagoon ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Bahamut Lagoon (ENG) # SNES.SMC";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24633,7 +24633,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Ballz 3D ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Ballz 3D (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24642,7 +24642,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Barbie Super Model ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Barbie Super Model (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24651,7 +24651,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Barbie Vacation Adventure ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Barbie Vacation Adventure (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24660,7 +24660,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Barkley Shut Up and Jam! ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Barkley Shut Up and Jam! (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24669,7 +24669,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Bass Masters Classic ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Bass Masters Classic (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24678,7 +24678,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Bass Masters Classic - Pro Edition ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Bass Masters Classic - Pro Edition (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24687,7 +24687,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Bassin\'s Black Bass ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Bassin's Black Bass (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24696,7 +24696,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Batman - Revenge of the Joker ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Batman - Revenge of the Joker (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24705,7 +24705,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Batman Forever ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Batman Forever (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24714,7 +24714,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Batman Returns ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Batman Returns (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24723,7 +24723,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Battle Blaze ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Battle Blaze (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24732,7 +24732,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Battle Cars ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Battle Cars (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24741,7 +24741,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Battle Clash ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Battle Clash (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24750,7 +24750,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Battle Grand Prix ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Battle Grand Prix (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24759,7 +24759,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Battletoads & Double Dragon - The Ultimate Team ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Battletoads & Double Dragon - The Ultimate Team (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24768,7 +24768,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Battletoads in Battlemaniacs ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Battletoads in Battlemaniacs (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24777,7 +24777,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Bazooka Blitzkrieg ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Bazooka Blitzkrieg (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24786,7 +24786,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Beauty and the Beast ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Beauty and the Beast (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24795,7 +24795,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Beavis and Butt-head ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Beavis and Butt-head (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24804,7 +24804,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Bebe\'s Kids ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Bebe's Kids (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24813,7 +24813,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Beethoven\'s 2nd ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Beethoven's 2nd (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24822,7 +24822,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Best of the Best - Championship Karate ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Best of the Best - Championship Karate (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24831,7 +24831,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Big Sky Trooper ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Big Sky Trooper (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24840,7 +24840,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Biker Mice From Mars ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Biker Mice From Mars (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24849,7 +24849,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Bill Laimbeer\'s Combat Basketball ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Bill Laimbeer's Combat Basketball (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24858,7 +24858,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Bill Walsh College Football ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Bill Walsh College Football (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24867,7 +24867,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Bio Metal ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Bio Metal (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24876,7 +24876,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Blackthorne ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Blackthorne (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24885,7 +24885,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Blazeon ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Blazeon (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24894,7 +24894,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Blues Brothers, The ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Blues Brothers, The (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24903,7 +24903,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Bobby\'s World ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Bobby's World (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24912,7 +24912,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Bonkers ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Bonkers (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24921,7 +24921,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Boogerman - A Pick and Flick Adventure ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Boogerman - A Pick and Flick Adventure (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24930,7 +24930,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Boxing Legends of the Ring ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Boxing Legends of the Ring (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24939,7 +24939,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Brain Lord ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Brain Lord (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24948,7 +24948,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Brainies, The ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Brainies, The (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24957,7 +24957,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Bram Stoker\'s Dracula ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Bram Stoker's Dracula (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24966,7 +24966,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Brandish ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Brandish (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24975,7 +24975,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Brawl Brothers ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Brawl Brothers (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24984,7 +24984,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "BreakThru! ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\BreakThru! (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -24993,7 +24993,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Breath of Fire ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Breath of Fire (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25002,7 +25002,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Breath of Fire II ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Breath of Fire II (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25011,7 +25011,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Brett Hull Hockey \'95 ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Brett Hull Hockey '95 (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25020,7 +25020,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Brett Hull Hockey ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Brett Hull Hockey (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25029,7 +25029,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Bronkie Health Hero ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Bronkie Health Hero (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25038,7 +25038,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Brunswick World Tournament of Champions ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Brunswick World Tournament of Champions (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25047,7 +25047,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Brutal - Paws of Fury ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Brutal - Paws of Fury (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25056,16 +25056,15 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Bubsy II ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Bubsy II (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
                 p.WaitForExit();
-                p.Dispose();
             }
             if (listBox4.SelectedItem.ToString() == "Bubsy in Claws Encounters of the Furred Kind ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Bubsy in Claws Encounters of the Furred Kind (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25074,7 +25073,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Bugs Bunny - Rabbit Rampage ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Bugs Bunny - Rabbit Rampage (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25083,7 +25082,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Bulls Vs Blazers and the NBA Playoffs ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Bulls Vs Blazers and the NBA Playoffs (U) (V1.1) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25092,7 +25091,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Bust-A-Move ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Bust-A-Move (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25101,7 +25100,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Cacoma Knight in Bizyland ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Cacoma Knight in Bizyland (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25110,7 +25109,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Cal Ripken Jr. Baseball ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Cal Ripken Jr. Baseball (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25119,7 +25118,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "California Games II ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\California Games II (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25128,7 +25127,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Cannondale Cup ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Cannondale Cup (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25137,7 +25136,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Capcom\'s MVP Football ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Capcom's MVP Football (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25146,7 +25145,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Capcom\'s Soccer Shootout ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Capcom's Soccer Shootout (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25155,7 +25154,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Captain America and The Avengers ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Captain America and The Avengers (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25164,7 +25163,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Captain Commando ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Captain Commando (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25173,7 +25172,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Captain Novolin ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Captain Novolin (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25182,7 +25181,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Carrier Aces ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Carrier Aces (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25191,7 +25190,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Casper ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Casper (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25200,7 +25199,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Castlevania - Dracula X ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Castlevania - Dracula X (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25209,7 +25208,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Champions World Class Soccer ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Champions World Class Soccer (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25218,7 +25217,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Championship Pool ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Championship Pool (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25227,7 +25226,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Championship Soccer \'94 ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Championship Soccer '94 (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25236,7 +25235,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Chavez ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Chavez (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25245,7 +25244,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Chavez II ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Chavez II (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25254,7 +25253,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Chessmaster, The ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Chessmaster, The (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25263,7 +25262,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Chester Cheetah - Too Cool to Fool ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Chester Cheetah - Too Cool to Fool (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25272,7 +25271,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Chester Cheetah - Wild Wild Quest ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Chester Cheetah - Wild Wild Quest (U) (59734).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25281,7 +25280,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Choplifter III ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Choplifter III (U) (54553).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25290,7 +25289,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Chrono Trigger ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Chrono Trigger (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25299,7 +25298,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Chuck Rock ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Chuck Rock (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25308,7 +25307,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Civilization ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Civilization (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25317,7 +25316,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Clay Fighter ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Clay Fighter (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25326,7 +25325,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Clay Fighter - Tournament Edition ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Clay Fighter - Tournament Edition (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25335,7 +25334,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Clay Fighter 2 - Judgment Clay ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Clay Fighter 2 - Judgment Clay (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25344,7 +25343,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Claymates ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Claymates (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25353,7 +25352,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Claymates Demo ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Claymates Demo (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25362,7 +25361,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Cliffhanger ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Cliffhanger (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25371,7 +25370,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Clue ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Clue (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25380,7 +25379,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "College Football USA \'97 - The Road to New Orleans ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\College Football USA '97 - The Road to New Orleans (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25389,7 +25388,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "College Slam Basketball ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\College Slam Basketball (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25398,7 +25397,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Combatribes, The ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Combatribes, The (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25407,7 +25406,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Congo\'s Caper ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Congo's Caper (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25416,7 +25415,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Contra III - The Alien Wars ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Contra III - The Alien Wars (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25425,7 +25424,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Cool Spot ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Cool Spot (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25434,7 +25433,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Cool World ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Cool World (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25443,7 +25442,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Cutthroat Island ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Cutthroat Island (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25452,7 +25451,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Cyber Spin ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Cyber Spin (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25461,7 +25460,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Cybernator ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Cybernator (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25470,7 +25469,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "D-Force ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\D-Force (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25479,7 +25478,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Daffy Duck - The Marvin Missions ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Daffy Duck - The Marvin Missions (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25488,7 +25487,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Dai 3 Ji - Super Robot Taisen ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Dai 3 Ji - Super Robot Taisen (ENG) # SNES.SMC";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25497,7 +25496,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Darius Twin ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Darius Twin (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25506,7 +25505,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "David Crane\'s Amazing Tennis ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\David Crane's Amazing Tennis (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25515,7 +25514,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Death and Return of Superman, The ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Death and Return of Superman, The (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25524,7 +25523,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Demolition Man ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Demolition Man (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25533,7 +25532,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Demon\'s Crest ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Demon's Crest (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25542,7 +25541,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Dennis the Menace ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Dennis the Menace (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25551,7 +25550,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Desert Strike - Return to the Gulf ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Desert Strike - Return to the Gulf (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25560,7 +25559,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Dig & Spike Volleyball ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Dig & Spike Volleyball (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25569,7 +25568,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Dino City ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Dino City (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25578,7 +25577,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Dirt Trax FX ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Dirt Trax FX (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25587,7 +25586,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Donkey Kong Country ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Donkey Kong Country (U) (V1.2) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25596,7 +25595,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Donkey Kong Country - Competition Cartridge ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Donkey Kong Country - Competition Cartridge (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25605,7 +25604,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Donkey Kong Country 2 - Diddy\'s Kong Quest ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Donkey Kong Country 2 - Diddy's Kong Quest (U) (V1.1) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25614,7 +25613,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Donkey Kong Country 3 - Dixie Kong\'s Double Trouble ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Donkey Kong Country 3 - Dixie Kong's Double Trouble (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25623,7 +25622,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Doom ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Doom (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25632,7 +25631,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Doomsday Warrior ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Doomsday Warrior (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25641,7 +25640,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Dossun! Ganseki Battle ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Dossun! Ganseki Battle (ENG) # SNES.SMC";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25650,7 +25649,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Double Dragon V - The Shadow Falls ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Double Dragon V - The Shadow Falls (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25659,7 +25658,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Dragon - The Bruce Lee Story ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Dragon - The Bruce Lee Story (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25668,7 +25667,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Dragon Quest 1 and 2 ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Dragon Quest 1 and 2 (ENG) # SNES.SMC";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25677,7 +25676,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Dragon Quest 5 - Tenkuu no Hanayome ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Dragon Quest 5 - Tenkuu no Hanayome (ENG) # SNES.SMC";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25686,7 +25685,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Dragon Quest 6 - Maboroshi no Daichi ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Dragon Quest 6 - Maboroshi no Daichi (ENG) # SNES.SMC";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25695,7 +25694,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Dragon View ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Dragon View (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25704,7 +25703,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Dragon\'s Lair ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Dragon's Lair (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25713,7 +25712,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Dragon-Ball Z - Hyper Dimension ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Dragon-Ball Z - Hyper Dimension (ENG) # SNES.SMC";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25722,7 +25721,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Dragon-Ball Z - Super Butouden ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Dragon-Ball Z - Super Butouden (ENG) # SNES.SMC";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25731,7 +25730,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Dragon-Ball Z - Super Butouden 3 ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Dragon-Ball Z - Super Butouden 3 (ENG) # SNES.SMC";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25740,7 +25739,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Dragon-Ball Z - Super Gokuden Totsugeki Hen ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Dragon-Ball Z - Super Gokuden Totsugeki Hen (ENG) # SNES.SMC";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25749,7 +25748,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Dragon-Ball Z - Super Saiyan Densetsu ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Dragon-Ball Z - Super Saiyan Densetsu (ENG) # SNES.SMC";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25758,7 +25757,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Dragon-Ball-Z - Super Gokuden 2 ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Dragon-Ball-Z - Super Gokuden 2 (ENG) # SNES.SMC";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25767,7 +25766,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Drakkhen ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Drakkhen (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25776,7 +25775,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Dream TV ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Dream TV (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25785,7 +25784,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Dual Orb 2 ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Dual Orb 2 (ENG) # SNES.SMC";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25794,7 +25793,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Dungeon Master ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Dungeon Master (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25803,7 +25802,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "E.V.O. Search for Eden ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\E.V.O. Search for Eden (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25812,7 +25811,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Earthbound ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Earthbound (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25821,7 +25820,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Earthworm Jim ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Earthworm Jim (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25830,7 +25829,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Earthworm Jim 2 ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Earthworm Jim 2 (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25839,7 +25838,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Eek! The Cat ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Eek! The Cat (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25848,7 +25847,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Elite Soccer ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Elite Soccer (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25857,7 +25856,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Emmitt Smith Football ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Emmitt Smith Football (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25866,7 +25865,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Equinox ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Equinox (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25875,7 +25874,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "ESPN Baseball Tonight")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\ESPN Baseball Tonight (U) (29611).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25884,7 +25883,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "ESPN National Hockey Night ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\ESPN National Hockey Night (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25893,7 +25892,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "ESPN Speedworld ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\ESPN Speedworld (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25902,7 +25901,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "ESPN Sunday Night NFL ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\ESPN Sunday Night NFL (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25911,7 +25910,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Extra Innings ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Extra Innings (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25920,7 +25919,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "F-ZERO ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\F-ZERO (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25929,7 +25928,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "F1 Pole Position ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\F1 Pole Position (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25938,7 +25937,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "F1 ROC - Race of Champions ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\F1 ROC - Race of Champions (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25947,7 +25946,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "F1 ROC II - Race of Champions ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\F1 ROC II - Race of Champions (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25956,7 +25955,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Faceball 2000 ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Faceball 2000 (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25965,7 +25964,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Family Dog ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Family Dog (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25974,7 +25973,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Family Feud ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Family Feud (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25983,7 +25982,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Fatal Fury ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Fatal Fury (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -25992,7 +25991,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Fatal Fury 2 ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Fatal Fury 2 (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26001,7 +26000,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Fatal Fury Special ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Fatal Fury Special (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26010,7 +26009,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Feda - the Emblem of Justice ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Feda - the Emblem of Justice (ENG) # SNES.SMC";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26019,7 +26018,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "FIFA 97 - Gold Edition ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\FIFA 97 - Gold Edition (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26028,7 +26027,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "FIFA International Soccer ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\FIFA International Soccer (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26037,7 +26036,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "FIFA Soccer 96 ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\FIFA Soccer 96 (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26046,7 +26045,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Fighter\'s History ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Fighter's History (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26055,7 +26054,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Final Fantasy - Mystic Quest ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Final Fantasy - Mystic Quest (U) (V1.1).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26064,7 +26063,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Final Fantasy 4 - 10th Anniversary Edition ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Final Fantasy 4 - 10th Anniversary Edition (ENG) # SNES.SMC";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26073,7 +26072,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Final Fantasy 6 ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Final Fantasy 6 (ENG) # SNES.SMC";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26082,7 +26081,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Final Fantasy II")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Final Fantasy II (U) (V1.1).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26091,7 +26090,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Final Fantasy III ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Final Fantasy III (U) (V1.1) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26100,7 +26099,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Final Fight ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Final Fight (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26109,7 +26108,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Final Fight 2 ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Final Fight 2 (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26118,7 +26117,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Final Fight 3 ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Final Fight 3 (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26127,7 +26126,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Final Fight Guy ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Final Fight Guy (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26136,7 +26135,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Fire Striker ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Fire Striker (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26145,7 +26144,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Firepower 2000 ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Firepower 2000 (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26154,7 +26153,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "First Samurai ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\First Samurai (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26163,7 +26162,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Flashback - The Quest for Identity ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Flashback - The Quest for Identity (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26172,7 +26171,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Flintstones, The ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Flintstones, The (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26181,7 +26180,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Flintstones, The - The Treasure of Sierra Madrock ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Flintstones, The - The Treasure of Sierra Madrock (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26190,7 +26189,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Football Fury ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Football Fury (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26199,7 +26198,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Foreman For Real ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Foreman For Real (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26208,7 +26207,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Frank Thomas\' Big Hurt Baseball ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Frank Thomas' Big Hurt Baseball (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26217,7 +26216,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Frantic Flea ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Frantic Flea (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26226,7 +26225,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Frogger ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Frogger (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26235,7 +26234,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Front Mission - Gun Hazard ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Front Mission - Gun Hazard (ENG) # SNES.SMC";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26244,7 +26243,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Full Throttle Racing ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Full Throttle Racing (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26253,7 +26252,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Fun \'N Games ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Fun 'N Games (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26262,7 +26261,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Gamars Puzzle ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Gamars Puzzle (Unl).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26271,7 +26270,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Gemfire ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Gemfire (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26280,7 +26279,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Genghis Khan II - Clan of the Gray Wolf ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Genghis Khan II - Clan of the Gray Wolf (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26289,7 +26288,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "George Foreman\'s KO Boxing ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\George Foreman's KO Boxing (U) (V1.1).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26298,7 +26297,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Ghoul Patrol ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Ghoul Patrol (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26307,7 +26306,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Gods ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Gods (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26316,7 +26315,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Goof Troop ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Goof Troop (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26325,7 +26324,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "GP-1 ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\GP-1 (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26334,7 +26333,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "GP-1 Part II ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\GP-1 Part II (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26343,7 +26342,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Gradius III ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Gradius III (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26352,7 +26351,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Great Circus Mystery Starring Mickey & Minnie, The ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Great Circus Mystery Starring Mickey & Minnie, The (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26361,7 +26360,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Great Waldo Search, The ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Great Waldo Search, The (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26370,7 +26369,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Gunforce - Battle Fire Engulfed Terror Island ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Gunforce - Battle Fire Engulfed Terror Island (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26379,7 +26378,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Hagane ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Hagane (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26388,7 +26387,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "HAL\'s Hole in One Golf ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\HAL's Hole in One Golf (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26397,7 +26396,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Hammerlock Wrestling ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Hammerlock Wrestling (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26406,7 +26405,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Hardball III ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Hardball III (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26415,7 +26414,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Harley\'s Humongous Adventure ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Harley's Humongous Adventure (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26424,7 +26423,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Harvest Moon ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Harvest Moon (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26433,7 +26432,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Head-On Soccer ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Head-On Soccer (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26442,7 +26441,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Hit the Ice ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Hit the Ice (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26451,7 +26450,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Home Alone ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Home Alone (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26460,7 +26459,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Home Alone 2 - Lost in New York ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Home Alone 2 - Lost in New York (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26469,7 +26468,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Home Improvement ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Home Improvement (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26478,7 +26477,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Hook ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Hook (U) (29252).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26487,7 +26486,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Hunt for Red October, The ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Hunt for Red October, The (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26496,7 +26495,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Hurricanes, The ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Hurricanes, The (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26505,7 +26504,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Hyper V-Ball ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Hyper V-Ball (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26514,7 +26513,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "HyperZone ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\HyperZone (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26523,7 +26522,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Ignition Factor, The ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Ignition Factor, The (U).smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
@@ -26532,7 +26531,7 @@ string cmd = @"C:\Arcade\Sega Genesis\Roms\RBI Baseball 4 (U) [!].gen";
             }
             if (listBox4.SelectedItem.ToString() == "Illusion of Gaia ")
             {
-                string cmd = @"C:\Arcade\Super Nintendo\Roms\2020 Super Baseball (U).smc";
+                string cmd = @"C:\Arcade\Super Nintendo\Roms\Illusion of Gaia (U) [!].smc";
                 Process p = new Process();
                 p.StartInfo.FileName = cmd;
                 p.Start();
