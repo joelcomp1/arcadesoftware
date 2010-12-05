@@ -20,6 +20,7 @@ namespace WindowsApplication1
             base.Dispose(disposing);
         }
 
+
         #region Windows Form Designer generated code
 
         /// <summary>
@@ -64,12 +65,66 @@ namespace WindowsApplication1
             this.listBox1 = new System.Windows.Forms.ListBox();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.Home = new System.Windows.Forms.TabPage();
+            this.textBox11 = new System.Windows.Forms.TextBox();
+            this.button17 = new System.Windows.Forms.Button();
+            this.textBox10 = new System.Windows.Forms.TextBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.textBox9 = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.textBox8 = new System.Windows.Forms.TextBox();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.button16 = new System.Windows.Forms.Button();
+            this.textBox7 = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.textBox6 = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
             this.pictureBox6 = new System.Windows.Forms.PictureBox();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.Main = new System.Windows.Forms.TabControl();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.label8 = new System.Windows.Forms.Label();
+            this.listBox6 = new System.Windows.Forms.ListBox();
+            this.label9 = new System.Windows.Forms.Label();
+            this.button18 = new System.Windows.Forms.Button();
+            this.listBox7 = new System.Windows.Forms.ListBox();
+            this.listBox8 = new System.Windows.Forms.ListBox();
+            this.button19 = new System.Windows.Forms.Button();
+            this.button20 = new System.Windows.Forms.Button();
+            this.textBox12 = new System.Windows.Forms.TextBox();
+            this.button21 = new System.Windows.Forms.Button();
+            this.listBox9 = new System.Windows.Forms.ListBox();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
+            this.listBox10 = new System.Windows.Forms.ListBox();
+            this.button22 = new System.Windows.Forms.Button();
+            this.button23 = new System.Windows.Forms.Button();
+            this.textBox13 = new System.Windows.Forms.TextBox();
+            this.button24 = new System.Windows.Forms.Button();
+            this.listBox11 = new System.Windows.Forms.ListBox();
+            this.pictureBox9 = new System.Windows.Forms.PictureBox();
+            this.label10 = new System.Windows.Forms.Label();
+            this.listBox12 = new System.Windows.Forms.ListBox();
+            this.label11 = new System.Windows.Forms.Label();
+            this.listBox13 = new System.Windows.Forms.ListBox();
+            this.label12 = new System.Windows.Forms.Label();
+            this.listBox14 = new System.Windows.Forms.ListBox();
+            this.label13 = new System.Windows.Forms.Label();
+            this.button25 = new System.Windows.Forms.Button();
+            this.button26 = new System.Windows.Forms.Button();
+            this.button27 = new System.Windows.Forms.Button();
+            this.button28 = new System.Windows.Forms.Button();
+            this.button29 = new System.Windows.Forms.Button();
+            this.button30 = new System.Windows.Forms.Button();
+            this.button31 = new System.Windows.Forms.Button();
+            this.button32 = new System.Windows.Forms.Button();
+            this.button33 = new System.Windows.Forms.Button();
+            this.button34 = new System.Windows.Forms.Button();
+            this.button35 = new System.Windows.Forms.Button();
+            this.button36 = new System.Windows.Forms.Button();
+            this.button37 = new System.Windows.Forms.Button();
+            this.button38 = new System.Windows.Forms.Button();
             this.SNES.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
             this.Sega_Genesis.SuspendLayout();
@@ -84,13 +139,19 @@ namespace WindowsApplication1
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             this.Main.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
             this.SuspendLayout();
             // 
             // SNES
             // 
+            this.SNES.Controls.Add(this.button34);
+            this.SNES.Controls.Add(this.button33);
+            this.SNES.Controls.Add(this.button28);
+            this.SNES.Controls.Add(this.label13);
+            this.SNES.Controls.Add(this.listBox14);
             this.SNES.Controls.Add(this.button14);
             this.SNES.Controls.Add(this.button15);
             this.SNES.Controls.Add(this.textBox5);
@@ -100,7 +161,7 @@ namespace WindowsApplication1
             this.SNES.Location = new System.Drawing.Point(4, 22);
             this.SNES.Name = "SNES";
             this.SNES.Padding = new System.Windows.Forms.Padding(3);
-            this.SNES.Size = new System.Drawing.Size(948, 622);
+            this.SNES.Size = new System.Drawing.Size(948, 615);
             this.SNES.TabIndex = 4;
             this.SNES.Text = "SNES";
             this.SNES.UseVisualStyleBackColor = true;
@@ -135,7 +196,7 @@ namespace WindowsApplication1
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(168, 460);
+            this.button4.Location = new System.Drawing.Point(168, 471);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(228, 27);
             this.button4.TabIndex = 9;
@@ -919,14 +980,19 @@ namespace WindowsApplication1
             // pictureBox7
             // 
             this.pictureBox7.Image = global::WindowsApplication1.Properties.Resources.Super_Nintendo_Entertainment_System_USA;
-            this.pictureBox7.Location = new System.Drawing.Point(459, 110);
+            this.pictureBox7.Location = new System.Drawing.Point(449, 143);
             this.pictureBox7.Name = "pictureBox7";
-            this.pictureBox7.Size = new System.Drawing.Size(565, 401);
+            this.pictureBox7.Size = new System.Drawing.Size(565, 396);
             this.pictureBox7.TabIndex = 1;
             this.pictureBox7.TabStop = false;
             // 
             // Sega_Genesis
             // 
+            this.Sega_Genesis.Controls.Add(this.button35);
+            this.Sega_Genesis.Controls.Add(this.button32);
+            this.Sega_Genesis.Controls.Add(this.button27);
+            this.Sega_Genesis.Controls.Add(this.label12);
+            this.Sega_Genesis.Controls.Add(this.listBox13);
             this.Sega_Genesis.Controls.Add(this.button12);
             this.Sega_Genesis.Controls.Add(this.button13);
             this.Sega_Genesis.Controls.Add(this.textBox4);
@@ -936,7 +1002,7 @@ namespace WindowsApplication1
             this.Sega_Genesis.Location = new System.Drawing.Point(4, 22);
             this.Sega_Genesis.Name = "Sega_Genesis";
             this.Sega_Genesis.Padding = new System.Windows.Forms.Padding(3);
-            this.Sega_Genesis.Size = new System.Drawing.Size(948, 622);
+            this.Sega_Genesis.Size = new System.Drawing.Size(948, 615);
             this.Sega_Genesis.TabIndex = 5;
             this.Sega_Genesis.Text = "Sega Genesis";
             this.Sega_Genesis.UseVisualStyleBackColor = true;
@@ -971,7 +1037,7 @@ namespace WindowsApplication1
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(168, 460);
+            this.button5.Location = new System.Drawing.Point(168, 471);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(228, 27);
             this.button5.TabIndex = 11;
@@ -1723,6 +1789,11 @@ namespace WindowsApplication1
             // 
             // Sega_Master_System
             // 
+            this.Sega_Master_System.Controls.Add(this.button36);
+            this.Sega_Master_System.Controls.Add(this.button31);
+            this.Sega_Master_System.Controls.Add(this.button26);
+            this.Sega_Master_System.Controls.Add(this.label11);
+            this.Sega_Master_System.Controls.Add(this.listBox12);
             this.Sega_Master_System.Controls.Add(this.button10);
             this.Sega_Master_System.Controls.Add(this.button11);
             this.Sega_Master_System.Controls.Add(this.textBox3);
@@ -1732,7 +1803,7 @@ namespace WindowsApplication1
             this.Sega_Master_System.Location = new System.Drawing.Point(4, 22);
             this.Sega_Master_System.Name = "Sega_Master_System";
             this.Sega_Master_System.Padding = new System.Windows.Forms.Padding(3);
-            this.Sega_Master_System.Size = new System.Drawing.Size(948, 622);
+            this.Sega_Master_System.Size = new System.Drawing.Size(948, 615);
             this.Sega_Master_System.TabIndex = 3;
             this.Sega_Master_System.Text = "Sega Master System";
             this.Sega_Master_System.UseVisualStyleBackColor = true;
@@ -1767,7 +1838,7 @@ namespace WindowsApplication1
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(168, 460);
+            this.button3.Location = new System.Drawing.Point(168, 471);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(228, 27);
             this.button3.TabIndex = 7;
@@ -2173,14 +2244,19 @@ namespace WindowsApplication1
             // pictureBox22
             // 
             this.pictureBox22.Image = global::WindowsApplication1.Properties.Resources.SEGA_SYSTEM;
-            this.pictureBox22.Location = new System.Drawing.Point(491, 140);
+            this.pictureBox22.Location = new System.Drawing.Point(498, 152);
             this.pictureBox22.Name = "pictureBox22";
-            this.pictureBox22.Size = new System.Drawing.Size(449, 325);
+            this.pictureBox22.Size = new System.Drawing.Size(442, 313);
             this.pictureBox22.TabIndex = 1;
             this.pictureBox22.TabStop = false;
             // 
             // NES
             // 
+            this.NES.Controls.Add(this.button37);
+            this.NES.Controls.Add(this.button30);
+            this.NES.Controls.Add(this.button25);
+            this.NES.Controls.Add(this.label10);
+            this.NES.Controls.Add(this.listBox7);
             this.NES.Controls.Add(this.button8);
             this.NES.Controls.Add(this.button9);
             this.NES.Controls.Add(this.textBox2);
@@ -2190,7 +2266,7 @@ namespace WindowsApplication1
             this.NES.Location = new System.Drawing.Point(4, 22);
             this.NES.Name = "NES";
             this.NES.Padding = new System.Windows.Forms.Padding(3);
-            this.NES.Size = new System.Drawing.Size(948, 622);
+            this.NES.Size = new System.Drawing.Size(948, 615);
             this.NES.TabIndex = 2;
             this.NES.Text = "NES";
             this.NES.UseVisualStyleBackColor = true;
@@ -2225,7 +2301,7 @@ namespace WindowsApplication1
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(168, 460);
+            this.button2.Location = new System.Drawing.Point(168, 471);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(228, 27);
             this.button2.TabIndex = 5;
@@ -3118,14 +3194,19 @@ namespace WindowsApplication1
             // pictureBox21
             // 
             this.pictureBox21.Image = global::WindowsApplication1.Properties.Resources.NES1;
-            this.pictureBox21.Location = new System.Drawing.Point(466, 144);
+            this.pictureBox21.Location = new System.Drawing.Point(491, 161);
             this.pictureBox21.Name = "pictureBox21";
-            this.pictureBox21.Size = new System.Drawing.Size(474, 343);
+            this.pictureBox21.Size = new System.Drawing.Size(449, 326);
             this.pictureBox21.TabIndex = 1;
             this.pictureBox21.TabStop = false;
             // 
             // Atari_2600
             // 
+            this.Atari_2600.Controls.Add(this.button38);
+            this.Atari_2600.Controls.Add(this.button29);
+            this.Atari_2600.Controls.Add(this.button18);
+            this.Atari_2600.Controls.Add(this.label9);
+            this.Atari_2600.Controls.Add(this.listBox6);
             this.Atari_2600.Controls.Add(this.button7);
             this.Atari_2600.Controls.Add(this.button6);
             this.Atari_2600.Controls.Add(this.textBox1);
@@ -3135,7 +3216,7 @@ namespace WindowsApplication1
             this.Atari_2600.Location = new System.Drawing.Point(4, 22);
             this.Atari_2600.Name = "Atari_2600";
             this.Atari_2600.Padding = new System.Windows.Forms.Padding(3);
-            this.Atari_2600.Size = new System.Drawing.Size(948, 622);
+            this.Atari_2600.Size = new System.Drawing.Size(948, 615);
             this.Atari_2600.TabIndex = 1;
             this.Atari_2600.Text = "Atari 2600";
             this.Atari_2600.UseVisualStyleBackColor = true;
@@ -3170,7 +3251,7 @@ namespace WindowsApplication1
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(168, 460);
+            this.button1.Location = new System.Drawing.Point(168, 471);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(228, 27);
             this.button1.TabIndex = 4;
@@ -3901,19 +3982,163 @@ namespace WindowsApplication1
             // Home
             // 
             this.Home.BackColor = System.Drawing.Color.White;
+            this.Home.Controls.Add(this.textBox11);
+            this.Home.Controls.Add(this.button17);
+            this.Home.Controls.Add(this.textBox10);
+            this.Home.Controls.Add(this.label7);
+            this.Home.Controls.Add(this.textBox9);
+            this.Home.Controls.Add(this.label6);
+            this.Home.Controls.Add(this.textBox8);
+            this.Home.Controls.Add(this.label5);
+            this.Home.Controls.Add(this.label4);
+            this.Home.Controls.Add(this.button16);
+            this.Home.Controls.Add(this.textBox7);
+            this.Home.Controls.Add(this.label3);
+            this.Home.Controls.Add(this.label2);
+            this.Home.Controls.Add(this.textBox6);
+            this.Home.Controls.Add(this.label1);
             this.Home.Controls.Add(this.pictureBox6);
             this.Home.Controls.Add(this.pictureBox5);
             this.Home.Controls.Add(this.pictureBox2);
-            this.Home.Controls.Add(this.pictureBox4);
             this.Home.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Home.Location = new System.Drawing.Point(4, 22);
             this.Home.Name = "Home";
             this.Home.Padding = new System.Windows.Forms.Padding(3);
-            this.Home.Size = new System.Drawing.Size(948, 622);
+            this.Home.Size = new System.Drawing.Size(948, 615);
             this.Home.TabIndex = 0;
             this.Home.Text = "Main";
             this.Home.UseVisualStyleBackColor = true;
             this.Home.Click += new System.EventHandler(this.tabPage1_Click);
+            // 
+            // textBox11
+            // 
+            this.textBox11.Location = new System.Drawing.Point(807, 276);
+            this.textBox11.Multiline = true;
+            this.textBox11.Name = "textBox11";
+            this.textBox11.Size = new System.Drawing.Size(138, 141);
+            this.textBox11.TabIndex = 18;
+            this.textBox11.Text = "Status Box";
+            this.textBox11.TextChanged += new System.EventHandler(this.textBox11_TextChanged);
+            // 
+            // button17
+            // 
+            this.button17.Location = new System.Drawing.Point(572, 423);
+            this.button17.Name = "button17";
+            this.button17.Size = new System.Drawing.Size(103, 32);
+            this.button17.TabIndex = 17;
+            this.button17.Text = "Register";
+            this.button17.UseVisualStyleBackColor = true;
+            this.button17.Click += new System.EventHandler(this.button17_Click);
+            // 
+            // textBox10
+            // 
+            this.textBox10.Location = new System.Drawing.Point(572, 391);
+            this.textBox10.Name = "textBox10";
+            this.textBox10.Size = new System.Drawing.Size(223, 26);
+            this.textBox10.TabIndex = 16;
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(568, 368);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(153, 20);
+            this.label7.TabIndex = 15;
+            this.label7.Text = "Confirm Password";
+            // 
+            // textBox9
+            // 
+            this.textBox9.Location = new System.Drawing.Point(572, 339);
+            this.textBox9.Name = "textBox9";
+            this.textBox9.Size = new System.Drawing.Size(223, 26);
+            this.textBox9.TabIndex = 14;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(568, 316);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(86, 20);
+            this.label6.TabIndex = 13;
+            this.label6.Text = "Password";
+            // 
+            // textBox8
+            // 
+            this.textBox8.Location = new System.Drawing.Point(572, 283);
+            this.textBox8.Name = "textBox8";
+            this.textBox8.Size = new System.Drawing.Size(223, 26);
+            this.textBox8.TabIndex = 12;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(568, 260);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(158, 20);
+            this.label5.TabIndex = 11;
+            this.label5.Text = "Desired Username";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(568, 230);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(112, 20);
+            this.label4.TabIndex = 10;
+            this.label4.Text = "Create Login";
+            this.label4.Click += new System.EventHandler(this.label4_Click);
+            // 
+            // button16
+            // 
+            this.button16.Location = new System.Drawing.Point(814, 126);
+            this.button16.Name = "button16";
+            this.button16.Size = new System.Drawing.Size(75, 32);
+            this.button16.TabIndex = 9;
+            this.button16.Text = "Login";
+            this.button16.UseVisualStyleBackColor = true;
+            this.button16.Click += new System.EventHandler(this.button16_Click);
+            // 
+            // textBox7
+            // 
+            this.textBox7.Location = new System.Drawing.Point(572, 132);
+            this.textBox7.Name = "textBox7";
+            this.textBox7.Size = new System.Drawing.Size(223, 26);
+            this.textBox7.TabIndex = 8;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(568, 109);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(86, 20);
+            this.label3.TabIndex = 7;
+            this.label3.Text = "Password";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(568, 57);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(91, 20);
+            this.label2.TabIndex = 6;
+            this.label2.Text = "Username";
+            // 
+            // textBox6
+            // 
+            this.textBox6.Location = new System.Drawing.Point(572, 80);
+            this.textBox6.Name = "textBox6";
+            this.textBox6.Size = new System.Drawing.Size(223, 26);
+            this.textBox6.TabIndex = 5;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(568, 27);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(53, 20);
+            this.label1.TabIndex = 4;
+            this.label1.Text = "Login";
+            this.label1.Click += new System.EventHandler(this.label1_Click_2);
             // 
             // pictureBox6
             // 
@@ -3942,15 +4167,6 @@ namespace WindowsApplication1
             this.pictureBox2.TabIndex = 1;
             this.pictureBox2.TabStop = false;
             // 
-            // pictureBox4
-            // 
-            this.pictureBox4.Image = global::WindowsApplication1.Properties.Resources.sticks;
-            this.pictureBox4.Location = new System.Drawing.Point(504, 142);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(438, 357);
-            this.pictureBox4.TabIndex = 0;
-            this.pictureBox4.TabStop = false;
-            // 
             // Main
             // 
             this.Main.AccessibleDescription = "Main";
@@ -3961,10 +4177,10 @@ namespace WindowsApplication1
             this.Main.Controls.Add(this.Sega_Master_System);
             this.Main.Controls.Add(this.Sega_Genesis);
             this.Main.Controls.Add(this.SNES);
-            this.Main.Location = new System.Drawing.Point(2, 168);
+            this.Main.Location = new System.Drawing.Point(2, 175);
             this.Main.Name = "Main";
             this.Main.SelectedIndex = 0;
-            this.Main.Size = new System.Drawing.Size(956, 648);
+            this.Main.Size = new System.Drawing.Size(956, 641);
             this.Main.TabIndex = 1;
             this.Main.Tag = "";
             // 
@@ -3973,15 +4189,2128 @@ namespace WindowsApplication1
             this.pictureBox1.Image = global::WindowsApplication1.Properties.Resources.collage_bla2;
             this.pictureBox1.Location = new System.Drawing.Point(2, -2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(956, 171);
+            this.pictureBox1.Size = new System.Drawing.Size(956, 157);
             this.pictureBox1.TabIndex = 2;
             this.pictureBox1.TabStop = false;
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.Location = new System.Drawing.Point(817, 159);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(88, 13);
+            this.label8.TabIndex = 3;
+            this.label8.Text = "Not Logged In";
+            this.label8.Click += new System.EventHandler(this.label8_Click);
+            // 
+            // listBox6
+            // 
+            this.listBox6.FormattingEnabled = true;
+            this.listBox6.Location = new System.Drawing.Point(530, 43);
+            this.listBox6.Name = "listBox6";
+            this.listBox6.Size = new System.Drawing.Size(335, 95);
+            this.listBox6.TabIndex = 8;
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Location = new System.Drawing.Point(527, 18);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(50, 13);
+            this.label9.TabIndex = 9;
+            this.label9.Text = "Favorites";
+            // 
+            // button18
+            // 
+            this.button18.Location = new System.Drawing.Point(233, 442);
+            this.button18.Name = "button18";
+            this.button18.Size = new System.Drawing.Size(96, 23);
+            this.button18.TabIndex = 10;
+            this.button18.Text = "Add to Favorites";
+            this.button18.UseVisualStyleBackColor = true;
+            this.button18.Click += new System.EventHandler(this.button18_Click);
+            // 
+            // listBox7
+            // 
+            this.listBox7.FormattingEnabled = true;
+            this.listBox7.Location = new System.Drawing.Point(530, 43);
+            this.listBox7.Name = "listBox7";
+            this.listBox7.Size = new System.Drawing.Size(335, 95);
+            this.listBox7.TabIndex = 11;
+            // 
+            // listBox8
+            // 
+            this.listBox8.FormattingEnabled = true;
+            this.listBox8.Location = new System.Drawing.Point(466, 41);
+            this.listBox8.Name = "listBox8";
+            this.listBox8.Size = new System.Drawing.Size(335, 95);
+            this.listBox8.TabIndex = 11;
+            // 
+            // button19
+            // 
+            this.button19.Location = new System.Drawing.Point(100, 115);
+            this.button19.Name = "button19";
+            this.button19.Size = new System.Drawing.Size(75, 23);
+            this.button19.TabIndex = 10;
+            this.button19.Text = "Reset List";
+            this.button19.UseVisualStyleBackColor = true;
+            // 
+            // button20
+            // 
+            this.button20.Location = new System.Drawing.Point(100, 85);
+            this.button20.Name = "button20";
+            this.button20.Size = new System.Drawing.Size(75, 23);
+            this.button20.TabIndex = 9;
+            this.button20.Text = "Search";
+            this.button20.UseVisualStyleBackColor = true;
+            // 
+            // textBox12
+            // 
+            this.textBox12.Location = new System.Drawing.Point(100, 41);
+            this.textBox12.Name = "textBox12";
+            this.textBox12.Size = new System.Drawing.Size(100, 20);
+            this.textBox12.TabIndex = 8;
+            // 
+            // button21
+            // 
+            this.button21.Location = new System.Drawing.Point(168, 460);
+            this.button21.Name = "button21";
+            this.button21.Size = new System.Drawing.Size(228, 27);
+            this.button21.TabIndex = 5;
+            this.button21.Text = "Play Game";
+            this.button21.UseVisualStyleBackColor = true;
+            // 
+            // listBox9
+            // 
+            this.listBox9.FormattingEnabled = true;
+            this.listBox9.Items.AddRange(new object[] {
+            "10-Yard Fight ",
+            "100-in-1 Contra Function 16 ",
+            "110-in-1 ",
+            "150-in-1 ",
+            "1942",
+            "1943 - The Battle of Midway ",
+            "1944",
+            "1999",
+            "3-D Battles of World Runner, The ",
+            "3D Block ",
+            "52 Games ",
+            "76-in-1 ",
+            "8 Eyes ",
+            "Abadox",
+            "Action 52 ",
+            "Action in New York ",
+            "Addams Family, The ",
+            "Addams Family, The - Pugsley\'s Scavenger Hunt ",
+            "Advanced Dungeons & Dragons - Dragon Strike ",
+            "Advanced Dungeons & Dragons - Heroes of the Lance ",
+            "Advanced Dungeons & Dragons - Hillsfar ",
+            "Advanced Dungeons & Dragons - Pool of Radiance ",
+            "Adventures in the Magic Kingdom ",
+            "Adventures of Bayou Billy, The ",
+            "Adventures of Captain Comic, The ",
+            "Adventures of Dino Riki, The ",
+            "Adventures of Lolo ",
+            "Adventures of Lolo 2 ",
+            "Adventures of Lolo 3 ",
+            "Adventures of Rad Gravity, The ",
+            "Adventures of Rocky and Bullwinkle and Friends, The ",
+            "Adventures of Tom Sawyer ",
+            "After Burner ",
+            "Air Fortress",
+            "Airwolf",
+            "Al Unser Jr. Turbo Racing ",
+            "Aladdin ",
+            "Aladdin 2 ",
+            "Aladdin 3 ",
+            "Alfred Chicken ",
+            "Alien 3 ",
+            "Alien Syndrome ",
+            "All-Pro Basketball ",
+            "Alpha Mission ",
+            "Amagon ",
+            "American Gladiators ",
+            "Anticipation ",
+            "Arch Rivals - A Basket Brawl! ",
+            "Archon ",
+            "Arkanoid ",
+            "Arkista\'s Ring ",
+            "Asterix ",
+            "Astyanax ",
+            "Atari RBI Baseball",
+            "Athena ",
+            "Athletic World ",
+            "Attack of the Killer Tomatoes ",
+            "Aussie Rules Footy ",
+            "Baby Boomer ",
+            "Back to the Future ",
+            "Back to the Future II & III ",
+            "Bad Dudes ",
+            "Bad Dudes vs Dragon Ninja ",
+            "Bad News Baseball ",
+            "Bad Street Brawler ",
+            "Balloon Fight ",
+            "Bandai Golf - Challenge Pebble Beach ",
+            "Bandit Kings of Ancient China ",
+            "Bard\'s Tale, The - Tales of the Unknown ",
+            "Barker Bill\'s Trick Shooting ",
+            "Base Wars ",
+            "Baseball Simulator 1.000 ",
+            "Baseball Stars ",
+            "Baseball Stars II ",
+            "Bases Loaded ",
+            "Bases Loaded 3 ",
+            "Bases Loaded 4 ",
+            "Bases Loaded II ",
+            "Batman - Return of the Joker ",
+            "Batman 3 ",
+            "Batman Returns ",
+            "Batman",
+            "Battle Chess ",
+            "Battle City ",
+            "Battle of Olympus, The ",
+            "Battle Tank ",
+            "Battleship ",
+            "Battletoads & Double Dragon - The Ultimate Team ",
+            "Battletoads ",
+            "Beauty and the Beast ",
+            "Beetlejuice ",
+            "Best of the Best - Championship Karate ",
+            "Bible Adventures",
+            "Bible Buffet ",
+            "Big Bird\'s Hide & Speak ",
+            "Big Nose the Caveman ",
+            "Bigfoot ",
+            "Bill & Ted\'s Excellent Video Game Adventure ",
+            "Bill Elliott\'s NASCAR Challenge ",
+            "Bio Hazard ",
+            "Bionic Commando ",
+            "Black Bass USA, The ",
+            "Blackjack ",
+            "Blades of Steel ",
+            "Blaster Master ",
+            "Blue Marlin, The ",
+            "Blue Shadow ",
+            "Blues Brothers, The ",
+            "Bo Jackson Baseball ",
+            "Bomberman ",
+            "Bomberman Collection ",
+            "Bomberman II ",
+            "Bonk\'s Adventure ",
+            "Boulder Dash ",
+            "Boy and His Blob, A - Trouble on Blobolonia ",
+            "Bram Stoker\'s Dracula ",
+            "Break Time - The National Pool Tour ",
+            "BreakThru ",
+            "Brush Roller ",
+            "Bubble Bath Babes ",
+            "Bubble Bobble ",
+            "Bubble Bobble Part 2 ",
+            "Bucky O\'Hare ",
+            "Bugs Bunny Birthday Blowout, The ",
+            "Bugs Bunny Crazy Castle, The ",
+            "BugsBday",
+            "Bump & Jump",
+            "Burai Fighter ",
+            "Burger Time ",
+            "Cabal",
+            "Caesars Palace ",
+            "California Games ",
+            "California Raisins - The Grape Escape ",
+            "CAPSILVE",
+            "Captain America and the Avengers ",
+            "Captain Planet and The Planeteers ",
+            "Captain Skyhawk ",
+            "Casino Kid ",
+            "Casino Kid 2 ",
+            "Casino",
+            "Castelia",
+            "Castelian",
+            "Castle of Deceit ",
+            "Castle of Dragon ",
+            "Castlequest",
+            "Castlevania II - Simon\'s Quest ",
+            "Castlevania III - Dracula\'s Curse ",
+            "Castlevania",
+            "Caveman Games ",
+            "Caveman Ninja ",
+            "Challenge of the Dragon ",
+            "Championship Bowling ",
+            "Championship Pool ",
+            "Championship Rally ",
+            "Cheetah Men II ",
+            "Chessmaster, The ",
+            "Chiller ",
+            "Chip \'n Dale Rescue Rangers ",
+            "Chip \'n Dale Rescue Rangers 2 ",
+            "Chubby Cherub ",
+            "Circus Caper ",
+            "City Connection ",
+            "Clash at Demonhead ",
+            "Classic Concentration ",
+            "Cliffhanger ",
+            "Clu Clu Land ",
+            "Cobra Command ",
+            "Cobra Triangle ",
+            "Code Name - Viper ",
+            "Color A Dinosaur ",
+            "Commando ",
+            "Conan ",
+            "Conflict ",
+            "Conquest of the Crystal Palace ",
+            "Contra ",
+            "Contra Force ",
+            "Cool World ",
+            "Corvette ZR-1 Challenge ",
+            "Cowboy Kid ",
+            "Crackout ",
+            "Crash \'n the Boys - Street Challenge ",
+            "Crystal Mines ",
+            "Crystalis ",
+            "Cyberball ",
+            "Cybernoid - The Fighting Machine ",
+            "Danny Sullivan\'s Indy Heat ",
+            "Darkman ",
+            "Darkseed ",
+            "Darkwing Duck ",
+            "Dash Galaxy in the Alien Asylum ",
+            "Day Dreamin\' Davey ",
+            "Days of Thunder ",
+            "Deadly Towers ",
+            "Death Race ",
+            "Deathbots ",
+            "Defender II ",
+            "Defender of the Crown ",
+            "Defenders of Dynatron City ",
+            "Deja Vu ",
+            "Demogorgon Monk ",
+            "Demon Sword ",
+            "Desert Commander ",
+            "Destination Earthstar ",
+            "Destiny of an Emperor ",
+            "Devil World ",
+            "Dick Tracy ",
+            "Die Hard ",
+            "Dig Dug II ",
+            "Digger - The Legend of the Lost City ",
+            "Digger T. Rock - The Legend of the Lost City ",
+            "Dirty Harry ",
+            "Dizzy The Adventurer ",
+            "Donald Magic ",
+            "Donkey Kong ",
+            "Donkey Kong 3 ",
+            "Donkey Kong Classics ",
+            "Donkey Kong Country 4 ",
+            "Donkey Kong Jr. (JU)",
+            "Donkey Kong Jr. Math ",
+            "Double Dare ",
+            "Double Dragon ",
+            "Double Dragon 4 ",
+            "Double Dragon II - The Revenge ",
+            "Double Dragon III - The Sacred Stones ",
+            "Double Dribble ",
+            "Double Strike ",
+            "Dr. Chaos ",
+            "Dr. Jekyll and Mr. Hyde ",
+            "Dr. Mario ",
+            "Dragon Ball Z - Super Butoden 2 ",
+            "Dragon Fighter ",
+            "Dragon Power ",
+            "Dragon Quest ",
+            "Dragon Spirit - The New Legend ",
+            "Dragon Warrior ",
+            "Dragon Warrior II ",
+            "Dragon Warrior III ",
+            "Dragon Warrior IV ",
+            "Dragon\'s Lair ",
+            "Dragon, The ",
+            "Drop Zone ",
+            "Duck Hunt ",
+            "Duck Tales ",
+            "Duck Tales 2 ",
+            "Dudes With Attitude ",
+            "Dungeon Magic - Sword of the Elements ",
+            "Dusty Diamond\'s All-Star Softball ",
+            "Dynablaster ",
+            "Dynowarz - Destruction of Spondylus ",
+            "Earth Worm Jim 2 ",
+            "Earthbound (Prototype)",
+            "Elevator Action ",
+            "Eliminator Boat Duel ",
+            "Elite ",
+            "Excitebike ",
+            "Exodus",
+            "F-117A Stealth Fighter ",
+            "F-15 City War ",
+            "F-15 Strike Eagle ",
+            "Family Feud ",
+            "Fantastic Adventures of Dizzy, The ",
+            "Fantasy Zone ",
+            "Faria - A World of Mystery and Danger! ",
+            "Fatal Fury 2 ",
+            "Felix the Cat ",
+            "Ferrari - Grand Prix Challenge ",
+            "Fester\'s Quest ",
+            "Fighting Hero ",
+            "Final Fantasy ",
+            "Final Fantasy II (Prototype)",
+            "Final Fantasy V ",
+            "Final Fight 3 ",
+            "Fire \'n Ice ",
+            "Fire Dragon ",
+            "Fire Emblem ",
+            "Fire Hawk ",
+            "Firehouse Rescue ",
+            "Fist of the North Star ",
+            "Flight of the Intruder ",
+            "Flintstones, The - The Rescue of Dino & Hoppy ",
+            "Flintstones, The - The Surprise at Dinosaur Peak! ",
+            "Flying Dragon - The Secret Scroll ",
+            "Flying Warriors ",
+            "Formula 1 Sensation ",
+            "Formula One - Built To Win ",
+            "Four Players Tennis ",
+            "Frankenstein - The Monster Returns ",
+            "Free Fall ",
+            "Freedom Force ",
+            "Friday the 13th ",
+            "Fun House ",
+            "G.I. Joe ",
+            "G.I. Joe - The Atlantis Factor ",
+            "Galactic Crusader ",
+            "Galaga ",
+            "Galaxy 5000 ",
+            "Game Genie ",
+            "Gargoyle\'s Quest II - The Demon Darkness ",
+            "Gauntlet ",
+            "Gauntlet II ",
+            "Gemfire ",
+            "Genghis Khan ",
+            "George Foreman\'s KO Boxing ",
+            "Ghostbusters ",
+            "Ghostbusters 2 ",
+            "Ghosts\'n Goblins ",
+            "Ghoul School ",
+            "Gilligan\'s Island ",
+            "Goal! ",
+            "Goal! 2 ",
+            "Godzilla - Monster of Monsters! ",
+            "Godzilla 2 - War of the Monsters ",
+            "Gold Medal Challenge \'92 ",
+            "Golf ",
+            "Golf Grand Slam ",
+            "Golgo 13 - Top Secret Episode ",
+            "Goonies II, The",
+            "Goonies, The  ",
+            "Gotcha! - The Sport! ",
+            "Gradius ",
+            "Great Waldo Search, The ",
+            "Greg Norman\'s Golf Power ",
+            "Gremlins 2 - The New Batch ",
+            "Guardian Legend, The ",
+            "Guerrilla War ",
+            "Gumshoe ",
+            "Gun Nac ",
+            "Gun.Smoke ",
+            "Gyromite ",
+            "Gyruss ",
+            "Harlem Globetrotters ",
+            "Hatris ",
+            "Heavy Barrel ",
+            "Heavy Shreddin\' ",
+            "Hi-Game 1999 - Rayban the Third ",
+            "Hi-Game 1999 - Super Donkey Kong 2 ",
+            "High Speed ",
+            "Hogan\'s Alley ",
+            "Hollywood Squares ",
+            "Home Alone ",
+            "Home Alone 2 - Lost in New York ",
+            "Hook ",
+            "Hoops ",
+            "Hot Slot",
+            "Hudson Hawk ",
+            "Hudson\'s Adventure Island ",
+            "Hudson\'s Adventure Island II ",
+            "Hudson\'s Adventure Island III ",
+            "Hunt for Red October, The ",
+            "Hydlide ",
+            "I Can Remember ",
+            "Ice Climber ",
+            "Ice Hockey ",
+            "Ikari III - The Rescue ",
+            "Ikari Warriors ",
+            "Ikari Warriors II - Victory Road ",
+            "Image Fight ",
+            "Immortal, The ",
+            "Impossible Mission II ",
+            "Incredible Crash Dummies, The ",
+            "Indiana Jones and the Last Crusade ",
+            "Indiana Jones and the Temple of Doom ",
+            "Infiltrator ",
+            "International Cricket ",
+            "Iron Tank ",
+            "Ironsword - Wizards & Warriors II ",
+            "Isolated Warrior ",
+            "Ivan Ironman Stewart\'s Super Off-Road ",
+            "Jack Nicklaus\' Greatest 18 Holes of Major Championship Golf ",
+            "Jackal ",
+            "Jackie Chan\'s Action Kung Fu ",
+            "James Bond Jr ",
+            "Jaws ",
+            "Jeopardy! ",
+            "Jeopardy! 25th Anniversary Edition ",
+            "Jeopardy! Junior Edition ",
+            "Jetsons, The - Cogswell\'s Caper! ",
+            "Jimmy Connor\'s Tennis ",
+            "Joe & Mac ",
+            "John Elway\'s Quarterback ",
+            "Jordan Vs Bird - One On One ",
+            "Journey to Silius ",
+            "Joust ",
+            "Jovial Race ",
+            "Jungle Book, The ",
+            "Jurassic Park ",
+            "Kabuki - Quantum Fighter ",
+            "Karate Champ ",
+            "Karate Kid, The ",
+            "Karnov ",
+            "Kart Fighter ",
+            "Kick Master ",
+            "Kick Off ",
+            "Kickle Cubicle ",
+            "Kid Icarus ",
+            "Kid Klown ",
+            "Kid Kool ",
+            "Kid Niki - Radical Ninja ",
+            "King Neptune\'s Adventure ",
+            "King of Fighters 96 ",
+            "King of Fighters 99 ",
+            "King of Kings, The ",
+            "King\'s Knight ",
+            "King\'s Quest V ",
+            "Kings of the Beach ",
+            "Kirby\'s Adventure ",
+            "Kiwi Kraze ",
+            "Klash Ball ",
+            "Klax ",
+            "Knight Rider ",
+            "Konami Hyper Soccer ",
+            "Krazy Kreatures ",
+            "Krion Conquest, The ",
+            "Krusty\'s Fun House ",
+            "Kung Fu ",
+            "Kung-Fu Heroes ",
+            "L\'Empereur ",
+            "Laser Invasion ",
+            "Last Action Hero ",
+            "Last Ninja, The ",
+            "Last Starfighter, The ",
+            "Lee Trevino\'s Fighting Golf ",
+            "Legacy of the Wizard ",
+            "Legend of Kage, The ",
+            "Legend of Prince Valiant, The ",
+            "Legend of the Ghost Lion ",
+            "Legend of Zelda, The ",
+            "Legendary Wings ",
+            "Legends of the Diamond ",
+            "Lemmings ",
+            "Lethal Weapon ",
+            "Lifeforce ",
+            "Lion King 3, The - Simon and Pumba ",
+            "Lion King, The ",
+            "Little League Baseball - Championship Series ",
+            "Little Mermaid, The ",
+            "Little Nemo - The Dream Master ",
+            "Little Ninja Brothers ",
+            "Little Samson ",
+            "Lode Runner ",
+            "Lone Ranger, The ",
+            "Loopz ",
+            "Low G Man ",
+            "Lunar Pool ",
+            "M.C. Kids ",
+            "M.U.L.E. ",
+            "M.U.S.C.L.E. ",
+            "Mach Rider ",
+            "Mad Max ",
+            "Mafat Conspiracy - Golgo 13 ",
+            "Magic Block ",
+            "Magic Darts ",
+            "Magic Dragon ",
+            "Magic Johnson\'s Fast Break ",
+            "Magic of Scheherazade, The ",
+            "Magician",
+            "Magmax",
+            "Mahjong  ",
+            "Major League Baseball ",
+            "Maniac Mansion ",
+            "Maniac",
+            "Mappy-Land ",
+            "Marble Madness",
+            "Mario & Yoshi ",
+            "Mario Bros. ",
+            "Mario is Missing! ",
+            "Mario Open Golf ",
+            "Mario\'s Time Machine! ",
+            "Marvel\'s X-Men ",
+            "Master Chu & The Drunkard Hu ",
+            "Master Fighter 2 ",
+            "Mechanized Attack ",
+            "Mega Man ",
+            "Mega Man 2 ",
+            "Mega Man 3 ",
+            "Mega Man 4 ",
+            "Mega Man 5 ",
+            "Mega Man 6 ",
+            "Mega Man 7 ",
+            "Menace Beach ",
+            "Mendel Palace ",
+            "Mermaids of Atlantis ",
+            "Metal Fighter ",
+            "Metal Gear ",
+            "Metal Mech ",
+            "Metal Storm ",
+            "Metroid ",
+            "Michael Andretti\'s World Grand Prix ",
+            "Mickey Mousecapade ",
+            "Mickey\'s Adventures in Numberland ",
+            "Mickey\'s Safari in Letterland ",
+            "Mickey",
+            "Micro Machines ",
+            "MiG 29 - Soviet Fighter ",
+            "Might and Magic ",
+            "Mighty Bomb Jack ",
+            "Mighty Final Fight ",
+            "Mike Tyson\'s Punch-Out!! ",
+            "Millipede ",
+            "Milon\'s Secret Castle ",
+            "Miracle Piano Teaching System, The ",
+            "Mission Cobra ",
+            "Mission Impossible ",
+            "Monopoly",
+            "Monster In My Pocket ",
+            "Monster Party ",
+            "Monster Truck Rally ",
+            "Moon Ranger ",
+            "Mortal Kombat 2 ",
+            "Mortal Kombat 3 ",
+            "Mortal Kombat 4 ",
+            "Mortal Kombat Trilogy ",
+            "Motor City Patrol ",
+            "Mr. Gimmick ",
+            "Ms. Pac-Man",
+            "Muppet Adventure - Chaos at the Carnival ",
+            "Mutant Virus, The ",
+            "Mystery Quest ",
+            "Napoleon\'s War ",
+            "NES Open Tournament Golf ",
+            "NES Play Action Football ",
+            "New Zealand Story ",
+            "NFL Football ",
+            "Nigel Mansell\'s World Championship Challenge ",
+            "Nightmare on Elm Street, A ",
+            "Nightshade ",
+            "Ninja Crusaders ",
+            "Ninja Gaiden ",
+            "Ninja Gaiden 2 - The Dark Sword of Chaos ",
+            "Ninja Gaiden 3 - The Ancient Ship of Doom ",
+            "Ninja Kid ",
+            "Nintendo World Championships 1990 ",
+            "Nintendo World Cup ",
+            "Noah\'s Ark ",
+            "Nobunaga\'s Ambition ",
+            "Nobunaga\'s Ambition 2 ",
+            "North & South ",
+            "Operation Secret Storm ",
+            "Operation Wolf ",
+            "Over Horizon ",
+            "Overlord ",
+            "P\'radikus Conflict, The ",
+            "Pac-Man ",
+            "Pac-Mania ",
+            "Palamedes ",
+            "Panic Restaurant ",
+            "Paperboy ",
+            "Paperboy 2 ",
+            "Parodius ",
+            "Peek-A-Boo Poker ",
+            "Perfect Fit ",
+            "Pesterminator - The Western Exterminator ",
+            "Peter Pan & The Pirates ",
+            "Phantom Fighter ",
+            "Pictionary ",
+            "Pikachu Y2K ",
+            "Pinball ",
+            "Pinball Quest ",
+            "Pinbot ",
+            "Pipe Block ",
+            "Pipe Dream ",
+            "Pirates! ",
+            "Pitfall",
+            "Platoon ",
+            "Pokemon Blue ",
+            "Pokemon Golden ",
+            "Pokemon Green ",
+            "Pokemon Yellow ",
+            "Popeye ",
+            "POW - Prisoners of War ",
+            "Power Blade ",
+            "Power Blade 2 ",
+            "Power Punch 2 ",
+            "Predator ",
+            "Prince of Persia ",
+            "Princess Tomato in Salad Kingdom ",
+            "Pro Action Replay ",
+            "Pro Sport Hockey ",
+            "Pro Wrestling ",
+            "Probotector ",
+            "Probotector II - Return of the Evil Forces ",
+            "Punch-Out!! ",
+            "Punisher, The ",
+            "Puss \'n Boots - Pero\'s Great Adventure ",
+            "Puzznic ",
+            "Pyramid ",
+            "Q-bert ",
+            "Qix ",
+            "Quattro Adventure ",
+            "Quattro Arcade ",
+            "Quattro Sports ",
+            "R.B.I. Baseball ",
+            "R.B.I. Baseball 2 ",
+            "R.B.I. Baseball 3 ",
+            "R.C. Pro-Am ",
+            "R.C. Pro-Am 2 ",
+            "Race America ",
+            "Racket Attack ",
+            "Rackets & Rivals ",
+            "Rad Racer ",
+            "Rad Racer 2 ",
+            "Rad Racket - Deluxe Tennis II ",
+            "Raid 2020 ",
+            "Raid on Bungeling Bay ",
+            "Rainbow Islands - The Story of Bubble Bobble 2 ",
+            "Rally Bike ",
+            "Rambo ",
+            "Rampage ",
+            "Rampart ",
+            "Ren & Stimpy Show, The ",
+            "Renegade ",
+            "Rescue - The Embassy Mission ",
+            "Ring King ",
+            "River City Ransom ",
+            "Road Runner ",
+            "RoadBlasters ",
+            "Robin Hood - Prince of Thieves ",
+            "Robo Warrior ",
+            "Robocop ",
+            "Robocop 2 ",
+            "Robocop 3 ",
+            "Robodemons ",
+            "Rock \'n\' Ball ",
+            "Rocketeer, The ",
+            "Rockin\' Kats ",
+            "Rocman X ",
+            "Roger Clemens MVP Baseball ",
+            "Rollerball ",
+            "Rollerblade Racer ",
+            "Rollergames ",
+            "Rolling Thunder ",
+            "Romance of the Three Kingdoms ",
+            "Romance of the Three Kingdoms II ",
+            "Roundball - 2-on-2 Challenge ",
+            "Rush\'n Attack ",
+            "Rygar ",
+            "SCAT - Special Cybernetic Attack Team ",
+            "SCAT",
+            "Secret Scout ",
+            "Section Z ",
+            "Seicross ",
+            "Sesame Street 123 ",
+            "Sesame Street ABC ",
+            "Sesame Street ABC - 123 ",
+            "Sesame Street Countdown ",
+            "Shadow of the Ninja ",
+            "Shadow Warriors ",
+            "Shadow Warriors Episode II - The Dark Sword of Chaos ",
+            "Shadowgate ",
+            "Shatterhand ",
+            "Shingen The Ruler ",
+            "Shinobi ",
+            "Shockwave ",
+            "Shooting Range ",
+            "Short Order - Eggsplode ",
+            "Side Pocket ",
+            "Silent Assault ",
+            "Silent Service ",
+            "Silk Worm ",
+            "Silver Surfer ",
+            "Simpsons, The - Bart Vs. the Space Mutants ",
+            "Simpsons, The - Bart Vs. the World ",
+            "Simpsons, The - Bartman Meets Radioactive Man ",
+            "Skate or Die 2 - The Search for Double Trouble ",
+            "Skate or Die! ",
+            "Ski or Die ",
+            "Skull & Crossbones ",
+            "Sky Kid ",
+            "Sky Shark ",
+            "Slalom ",
+            "Smash T.V. ",
+            "Smurfs, The ",
+            "Snake Rattle\'n Roll ",
+            "Snake\'s Revenge ",
+            "Snoopy\'s Silly Sports Spectacular ",
+            "Snow Bros ",
+            "Soccer ",
+            "Solar Jetman - Hunt for the Golden Warpship ",
+            "Solitaire ",
+            "Solomon\'s Key ",
+            "Solomon\'s Key 2 ",
+            "Solstice ",
+            "Space Shuttle Project ",
+            "Spelunker ",
+            "Spider-Man - Return of the Sinister Six ",
+            "Spiritual Warfare ",
+            "Spot ",
+            "Spy Hunter ",
+            "Spy Vs Spy ",
+            "Sqoon ",
+            "Stadium Events ",
+            "Stanley - The Search for Dr. Livingston ",
+            "Star Force ",
+            "Star Soldier ",
+            "Star Trek - 25th Anniversary ",
+            "Star Trek - The Next Generation ",
+            "Star Voyager ",
+            "Star Wars ",
+            "Star Wars - The Empire Strikes Back ",
+            "Starship Hector ",
+            "Startropics ",
+            "Startropics 2 - Zoda\'s Revenge ",
+            "Stealth ATF ",
+            "Stinger ",
+            "Street Cop ",
+            "Street Fighter 2010 ",
+            "Street Fighter 3 ",
+            "Street Fighter 4 ",
+            "Street Fighter Zero 2 ",
+            "Street Gangs ",
+            "Strider ",
+            "Stunt Kids ",
+            "Sunday Funday ",
+            "Super Cars ",
+            "Super Dodge Ball ",
+            "Super Donkey Kong 2 ",
+            "Super Donkey Kong ",
+            "Super Glove Ball ",
+            "Super Jeopardy! ",
+            "Super Mario Bros. ",
+            "Super Mario Bros. + Duck Hunt ",
+            "Super Mario Bros. 2 ",
+            "Super Mario Bros. 3 ",
+            "Super Mario World ",
+            "Super Mary ",
+            "Super Off-Road ",
+            "Super Pitfall ",
+            "Super Skater ",
+            "Super Sky Kid ",
+            "Super Spike V\'Ball ",
+            "Super Sprint ",
+            "Super Spy Hunter ",
+            "Super Team Games ",
+            "Super Turrican ",
+            "Super Xevious ",
+            "Superman ",
+            "Swamp Thing ",
+            "SWAT",
+            "Sword Master ",
+            "Swords and Serpents ",
+            "T&C 2 - Thrilla\'s Surfari ",
+            "T&C Surf Design ",
+            "T2",
+            "Taboo - The Sixth Sense ",
+            "Tag Team Wrestling ",
+            "Tagin\' Dragon ",
+            "TaleSpin ",
+            "Target Renegade ",
+            "Tecmo Baseball ",
+            "Tecmo Bowl ",
+            "Tecmo Cup - Soccer Game ",
+            "Tecmo NBA Basketball ",
+            "Tecmo NFL Dynasties",
+            "Tecmo Super Bowl ",
+            "Tecmo World Wrestling ",
+            "Teenage Mutant Hero Turtles ",
+            "Teenage Mutant Hero Turtles II - The Arcade Game ",
+            "Teenage Mutant Ninja Turtles - Tournament Fighters ",
+            "Teenage Mutant Ninja Turtles III - The Manhattan Project ",
+            "Tekken 2 ",
+            "Terminator 2 - Judgment Day ",
+            "Terminator, The ",
+            "Terra Cresta ",
+            "Tetris ",
+            "Tetris 2 ",
+            "Three Stooges ",
+            "Thunder & Lightning ",
+            "Thunderbirds ",
+            "Thundercade ",
+            "Tiger-Heli ",
+            "Tiles of Fate ",
+            "Time Lord ",
+            "Times of Lore ",
+            "Tiny Toon Adventures ",
+            "Tiny Toon Adventures 2 - Trouble in Wackyland ",
+            "Tiny Toon Adventures Cartoon Workshop ",
+            "To The Earth ",
+            "Toki ",
+            "Tom & Jerry 3 ",
+            "Tom & Jerry and Tuffy ",
+            "Tombs and Treasure ",
+            "Toobin\' ",
+            "Top Gun ",
+            "Top Gun - The Second Mission ",
+            "Top Players\' Tennis - Featuring Chris Evert & Ivan Lendl ",
+            "Total Recall ",
+            "Totally Rad ",
+            "Touch Down Fever ",
+            "Toxic Crusaders ",
+            "Track & Field ",
+            "Treasure Master ",
+            "Trog ",
+            "Trojan ",
+            "Trolls on Treasure Island ",
+            "Turbo Racing ",
+            "Twin Cobra ",
+            "Twin Eagle ",
+            "Ufouria ",
+            "Ultima - Exodus ",
+            "Ultima - Quest of the Avatar ",
+            "Ultima - Warriors of Destiny ",
+            "Ultimate Air Combat ",
+            "Ultimate Basketball ",
+            "Ultimate League Soccer ",
+            "Ultimate Stuntman ",
+            "Uncharted Waters ",
+            "Uninvited ",
+            "Untouchables, The ",
+            "Urban Champion ",
+            "Vegas Dream ",
+            "Venice Beach Volleyball ",
+            "Vice - Project Doom ",
+            "Videomation ",
+            "Vindicators ",
+            "Volleyball ",
+            "VS Castlevania ",
+            "VS Slalom ",
+            "VS Super Mario Bros. ",
+            "VS TKO Boxing ",
+            "Wacky Races ",
+            "Wall Street Kid ",
+            "Wally Bear and the No Gang ",
+            "Wario\'s Woods ",
+            "Wayne Gretzky Hockey ",
+            "Wayne\'s World ",
+            "WCW World Championship Wrestling ",
+            "Werewolf - The Last Warrior ",
+            "Wheel of Fortune ",
+            "Wheel of Fortune Family Edition ",
+            "Wheel of Fortune Junior Edition ",
+            "Where in Time is Carmen Sandiego ",
+            "Where\'s Waldo ",
+            "Who Framed Roger Rabbit ",
+            "Whomp\'Em ",
+            "Widget ",
+            "Wild Gunman ",
+            "Willow ",
+            "Win, Lose or Draw ",
+            "Winter Games ",
+            "Wizardry - Proving Grounds of the Mad Overlord ",
+            "Wizardry - The Knight of Diamonds ",
+            "Wizards & Warriors ",
+            "Wizards & Warriors 3 ",
+            "Wolverine ",
+            "World Champ ",
+            "World Class Track Meet ",
+            "World Games ",
+            "World Heroes 2 ",
+            "Wrath of the Black Manta ",
+            "Wrecking Crew",
+            "Wrestlemania Challenge ",
+            "Wurm ",
+            "WWF King of the Ring ",
+            "WWF Steel Cage Challenge ",
+            "WWF Wrestlemania ",
+            "WWF Wrestlemania Challenge ",
+            "Xenophobe ",
+            "Xevious ",
+            "Xexyz ",
+            "Xexyz",
+            "XMEN",
+            "Yo! Noid ",
+            "Yo!Noid",
+            "Yoshi ",
+            "Yoshi\'s Cookie ",
+            "Yoshi",
+            "Young Indiana Jones Chronicles, The ",
+            "Zanac ",
+            "Zelda II - The Adventure of Link ",
+            "Zelda",
+            "Zelda2",
+            "Zombie Nation "});
+            this.listBox9.Location = new System.Drawing.Point(100, 144);
+            this.listBox9.Name = "listBox9";
+            this.listBox9.Size = new System.Drawing.Size(339, 290);
+            this.listBox9.TabIndex = 4;
+            // 
+            // pictureBox4
+            // 
+            this.pictureBox4.Image = global::WindowsApplication1.Properties.Resources.NES1;
+            this.pictureBox4.Location = new System.Drawing.Point(466, 144);
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.Size = new System.Drawing.Size(474, 343);
+            this.pictureBox4.TabIndex = 1;
+            this.pictureBox4.TabStop = false;
+            // 
+            // listBox10
+            // 
+            this.listBox10.FormattingEnabled = true;
+            this.listBox10.Location = new System.Drawing.Point(466, 41);
+            this.listBox10.Name = "listBox10";
+            this.listBox10.Size = new System.Drawing.Size(335, 95);
+            this.listBox10.TabIndex = 11;
+            // 
+            // button22
+            // 
+            this.button22.Location = new System.Drawing.Point(100, 115);
+            this.button22.Name = "button22";
+            this.button22.Size = new System.Drawing.Size(75, 23);
+            this.button22.TabIndex = 10;
+            this.button22.Text = "Reset List";
+            this.button22.UseVisualStyleBackColor = true;
+            // 
+            // button23
+            // 
+            this.button23.Location = new System.Drawing.Point(100, 85);
+            this.button23.Name = "button23";
+            this.button23.Size = new System.Drawing.Size(75, 23);
+            this.button23.TabIndex = 9;
+            this.button23.Text = "Search";
+            this.button23.UseVisualStyleBackColor = true;
+            // 
+            // textBox13
+            // 
+            this.textBox13.Location = new System.Drawing.Point(100, 41);
+            this.textBox13.Name = "textBox13";
+            this.textBox13.Size = new System.Drawing.Size(100, 20);
+            this.textBox13.TabIndex = 8;
+            // 
+            // button24
+            // 
+            this.button24.Location = new System.Drawing.Point(168, 460);
+            this.button24.Name = "button24";
+            this.button24.Size = new System.Drawing.Size(228, 27);
+            this.button24.TabIndex = 5;
+            this.button24.Text = "Play Game";
+            this.button24.UseVisualStyleBackColor = true;
+            // 
+            // listBox11
+            // 
+            this.listBox11.FormattingEnabled = true;
+            this.listBox11.Items.AddRange(new object[] {
+            "10-Yard Fight ",
+            "100-in-1 Contra Function 16 ",
+            "110-in-1 ",
+            "150-in-1 ",
+            "1942",
+            "1943 - The Battle of Midway ",
+            "1944",
+            "1999",
+            "3-D Battles of World Runner, The ",
+            "3D Block ",
+            "52 Games ",
+            "76-in-1 ",
+            "8 Eyes ",
+            "Abadox",
+            "Action 52 ",
+            "Action in New York ",
+            "Addams Family, The ",
+            "Addams Family, The - Pugsley\'s Scavenger Hunt ",
+            "Advanced Dungeons & Dragons - Dragon Strike ",
+            "Advanced Dungeons & Dragons - Heroes of the Lance ",
+            "Advanced Dungeons & Dragons - Hillsfar ",
+            "Advanced Dungeons & Dragons - Pool of Radiance ",
+            "Adventures in the Magic Kingdom ",
+            "Adventures of Bayou Billy, The ",
+            "Adventures of Captain Comic, The ",
+            "Adventures of Dino Riki, The ",
+            "Adventures of Lolo ",
+            "Adventures of Lolo 2 ",
+            "Adventures of Lolo 3 ",
+            "Adventures of Rad Gravity, The ",
+            "Adventures of Rocky and Bullwinkle and Friends, The ",
+            "Adventures of Tom Sawyer ",
+            "After Burner ",
+            "Air Fortress",
+            "Airwolf",
+            "Al Unser Jr. Turbo Racing ",
+            "Aladdin ",
+            "Aladdin 2 ",
+            "Aladdin 3 ",
+            "Alfred Chicken ",
+            "Alien 3 ",
+            "Alien Syndrome ",
+            "All-Pro Basketball ",
+            "Alpha Mission ",
+            "Amagon ",
+            "American Gladiators ",
+            "Anticipation ",
+            "Arch Rivals - A Basket Brawl! ",
+            "Archon ",
+            "Arkanoid ",
+            "Arkista\'s Ring ",
+            "Asterix ",
+            "Astyanax ",
+            "Atari RBI Baseball",
+            "Athena ",
+            "Athletic World ",
+            "Attack of the Killer Tomatoes ",
+            "Aussie Rules Footy ",
+            "Baby Boomer ",
+            "Back to the Future ",
+            "Back to the Future II & III ",
+            "Bad Dudes ",
+            "Bad Dudes vs Dragon Ninja ",
+            "Bad News Baseball ",
+            "Bad Street Brawler ",
+            "Balloon Fight ",
+            "Bandai Golf - Challenge Pebble Beach ",
+            "Bandit Kings of Ancient China ",
+            "Bard\'s Tale, The - Tales of the Unknown ",
+            "Barker Bill\'s Trick Shooting ",
+            "Base Wars ",
+            "Baseball Simulator 1.000 ",
+            "Baseball Stars ",
+            "Baseball Stars II ",
+            "Bases Loaded ",
+            "Bases Loaded 3 ",
+            "Bases Loaded 4 ",
+            "Bases Loaded II ",
+            "Batman - Return of the Joker ",
+            "Batman 3 ",
+            "Batman Returns ",
+            "Batman",
+            "Battle Chess ",
+            "Battle City ",
+            "Battle of Olympus, The ",
+            "Battle Tank ",
+            "Battleship ",
+            "Battletoads & Double Dragon - The Ultimate Team ",
+            "Battletoads ",
+            "Beauty and the Beast ",
+            "Beetlejuice ",
+            "Best of the Best - Championship Karate ",
+            "Bible Adventures",
+            "Bible Buffet ",
+            "Big Bird\'s Hide & Speak ",
+            "Big Nose the Caveman ",
+            "Bigfoot ",
+            "Bill & Ted\'s Excellent Video Game Adventure ",
+            "Bill Elliott\'s NASCAR Challenge ",
+            "Bio Hazard ",
+            "Bionic Commando ",
+            "Black Bass USA, The ",
+            "Blackjack ",
+            "Blades of Steel ",
+            "Blaster Master ",
+            "Blue Marlin, The ",
+            "Blue Shadow ",
+            "Blues Brothers, The ",
+            "Bo Jackson Baseball ",
+            "Bomberman ",
+            "Bomberman Collection ",
+            "Bomberman II ",
+            "Bonk\'s Adventure ",
+            "Boulder Dash ",
+            "Boy and His Blob, A - Trouble on Blobolonia ",
+            "Bram Stoker\'s Dracula ",
+            "Break Time - The National Pool Tour ",
+            "BreakThru ",
+            "Brush Roller ",
+            "Bubble Bath Babes ",
+            "Bubble Bobble ",
+            "Bubble Bobble Part 2 ",
+            "Bucky O\'Hare ",
+            "Bugs Bunny Birthday Blowout, The ",
+            "Bugs Bunny Crazy Castle, The ",
+            "BugsBday",
+            "Bump & Jump",
+            "Burai Fighter ",
+            "Burger Time ",
+            "Cabal",
+            "Caesars Palace ",
+            "California Games ",
+            "California Raisins - The Grape Escape ",
+            "CAPSILVE",
+            "Captain America and the Avengers ",
+            "Captain Planet and The Planeteers ",
+            "Captain Skyhawk ",
+            "Casino Kid ",
+            "Casino Kid 2 ",
+            "Casino",
+            "Castelia",
+            "Castelian",
+            "Castle of Deceit ",
+            "Castle of Dragon ",
+            "Castlequest",
+            "Castlevania II - Simon\'s Quest ",
+            "Castlevania III - Dracula\'s Curse ",
+            "Castlevania",
+            "Caveman Games ",
+            "Caveman Ninja ",
+            "Challenge of the Dragon ",
+            "Championship Bowling ",
+            "Championship Pool ",
+            "Championship Rally ",
+            "Cheetah Men II ",
+            "Chessmaster, The ",
+            "Chiller ",
+            "Chip \'n Dale Rescue Rangers ",
+            "Chip \'n Dale Rescue Rangers 2 ",
+            "Chubby Cherub ",
+            "Circus Caper ",
+            "City Connection ",
+            "Clash at Demonhead ",
+            "Classic Concentration ",
+            "Cliffhanger ",
+            "Clu Clu Land ",
+            "Cobra Command ",
+            "Cobra Triangle ",
+            "Code Name - Viper ",
+            "Color A Dinosaur ",
+            "Commando ",
+            "Conan ",
+            "Conflict ",
+            "Conquest of the Crystal Palace ",
+            "Contra ",
+            "Contra Force ",
+            "Cool World ",
+            "Corvette ZR-1 Challenge ",
+            "Cowboy Kid ",
+            "Crackout ",
+            "Crash \'n the Boys - Street Challenge ",
+            "Crystal Mines ",
+            "Crystalis ",
+            "Cyberball ",
+            "Cybernoid - The Fighting Machine ",
+            "Danny Sullivan\'s Indy Heat ",
+            "Darkman ",
+            "Darkseed ",
+            "Darkwing Duck ",
+            "Dash Galaxy in the Alien Asylum ",
+            "Day Dreamin\' Davey ",
+            "Days of Thunder ",
+            "Deadly Towers ",
+            "Death Race ",
+            "Deathbots ",
+            "Defender II ",
+            "Defender of the Crown ",
+            "Defenders of Dynatron City ",
+            "Deja Vu ",
+            "Demogorgon Monk ",
+            "Demon Sword ",
+            "Desert Commander ",
+            "Destination Earthstar ",
+            "Destiny of an Emperor ",
+            "Devil World ",
+            "Dick Tracy ",
+            "Die Hard ",
+            "Dig Dug II ",
+            "Digger - The Legend of the Lost City ",
+            "Digger T. Rock - The Legend of the Lost City ",
+            "Dirty Harry ",
+            "Dizzy The Adventurer ",
+            "Donald Magic ",
+            "Donkey Kong ",
+            "Donkey Kong 3 ",
+            "Donkey Kong Classics ",
+            "Donkey Kong Country 4 ",
+            "Donkey Kong Jr. (JU)",
+            "Donkey Kong Jr. Math ",
+            "Double Dare ",
+            "Double Dragon ",
+            "Double Dragon 4 ",
+            "Double Dragon II - The Revenge ",
+            "Double Dragon III - The Sacred Stones ",
+            "Double Dribble ",
+            "Double Strike ",
+            "Dr. Chaos ",
+            "Dr. Jekyll and Mr. Hyde ",
+            "Dr. Mario ",
+            "Dragon Ball Z - Super Butoden 2 ",
+            "Dragon Fighter ",
+            "Dragon Power ",
+            "Dragon Quest ",
+            "Dragon Spirit - The New Legend ",
+            "Dragon Warrior ",
+            "Dragon Warrior II ",
+            "Dragon Warrior III ",
+            "Dragon Warrior IV ",
+            "Dragon\'s Lair ",
+            "Dragon, The ",
+            "Drop Zone ",
+            "Duck Hunt ",
+            "Duck Tales ",
+            "Duck Tales 2 ",
+            "Dudes With Attitude ",
+            "Dungeon Magic - Sword of the Elements ",
+            "Dusty Diamond\'s All-Star Softball ",
+            "Dynablaster ",
+            "Dynowarz - Destruction of Spondylus ",
+            "Earth Worm Jim 2 ",
+            "Earthbound (Prototype)",
+            "Elevator Action ",
+            "Eliminator Boat Duel ",
+            "Elite ",
+            "Excitebike ",
+            "Exodus",
+            "F-117A Stealth Fighter ",
+            "F-15 City War ",
+            "F-15 Strike Eagle ",
+            "Family Feud ",
+            "Fantastic Adventures of Dizzy, The ",
+            "Fantasy Zone ",
+            "Faria - A World of Mystery and Danger! ",
+            "Fatal Fury 2 ",
+            "Felix the Cat ",
+            "Ferrari - Grand Prix Challenge ",
+            "Fester\'s Quest ",
+            "Fighting Hero ",
+            "Final Fantasy ",
+            "Final Fantasy II (Prototype)",
+            "Final Fantasy V ",
+            "Final Fight 3 ",
+            "Fire \'n Ice ",
+            "Fire Dragon ",
+            "Fire Emblem ",
+            "Fire Hawk ",
+            "Firehouse Rescue ",
+            "Fist of the North Star ",
+            "Flight of the Intruder ",
+            "Flintstones, The - The Rescue of Dino & Hoppy ",
+            "Flintstones, The - The Surprise at Dinosaur Peak! ",
+            "Flying Dragon - The Secret Scroll ",
+            "Flying Warriors ",
+            "Formula 1 Sensation ",
+            "Formula One - Built To Win ",
+            "Four Players Tennis ",
+            "Frankenstein - The Monster Returns ",
+            "Free Fall ",
+            "Freedom Force ",
+            "Friday the 13th ",
+            "Fun House ",
+            "G.I. Joe ",
+            "G.I. Joe - The Atlantis Factor ",
+            "Galactic Crusader ",
+            "Galaga ",
+            "Galaxy 5000 ",
+            "Game Genie ",
+            "Gargoyle\'s Quest II - The Demon Darkness ",
+            "Gauntlet ",
+            "Gauntlet II ",
+            "Gemfire ",
+            "Genghis Khan ",
+            "George Foreman\'s KO Boxing ",
+            "Ghostbusters ",
+            "Ghostbusters 2 ",
+            "Ghosts\'n Goblins ",
+            "Ghoul School ",
+            "Gilligan\'s Island ",
+            "Goal! ",
+            "Goal! 2 ",
+            "Godzilla - Monster of Monsters! ",
+            "Godzilla 2 - War of the Monsters ",
+            "Gold Medal Challenge \'92 ",
+            "Golf ",
+            "Golf Grand Slam ",
+            "Golgo 13 - Top Secret Episode ",
+            "Goonies II, The",
+            "Goonies, The  ",
+            "Gotcha! - The Sport! ",
+            "Gradius ",
+            "Great Waldo Search, The ",
+            "Greg Norman\'s Golf Power ",
+            "Gremlins 2 - The New Batch ",
+            "Guardian Legend, The ",
+            "Guerrilla War ",
+            "Gumshoe ",
+            "Gun Nac ",
+            "Gun.Smoke ",
+            "Gyromite ",
+            "Gyruss ",
+            "Harlem Globetrotters ",
+            "Hatris ",
+            "Heavy Barrel ",
+            "Heavy Shreddin\' ",
+            "Hi-Game 1999 - Rayban the Third ",
+            "Hi-Game 1999 - Super Donkey Kong 2 ",
+            "High Speed ",
+            "Hogan\'s Alley ",
+            "Hollywood Squares ",
+            "Home Alone ",
+            "Home Alone 2 - Lost in New York ",
+            "Hook ",
+            "Hoops ",
+            "Hot Slot",
+            "Hudson Hawk ",
+            "Hudson\'s Adventure Island ",
+            "Hudson\'s Adventure Island II ",
+            "Hudson\'s Adventure Island III ",
+            "Hunt for Red October, The ",
+            "Hydlide ",
+            "I Can Remember ",
+            "Ice Climber ",
+            "Ice Hockey ",
+            "Ikari III - The Rescue ",
+            "Ikari Warriors ",
+            "Ikari Warriors II - Victory Road ",
+            "Image Fight ",
+            "Immortal, The ",
+            "Impossible Mission II ",
+            "Incredible Crash Dummies, The ",
+            "Indiana Jones and the Last Crusade ",
+            "Indiana Jones and the Temple of Doom ",
+            "Infiltrator ",
+            "International Cricket ",
+            "Iron Tank ",
+            "Ironsword - Wizards & Warriors II ",
+            "Isolated Warrior ",
+            "Ivan Ironman Stewart\'s Super Off-Road ",
+            "Jack Nicklaus\' Greatest 18 Holes of Major Championship Golf ",
+            "Jackal ",
+            "Jackie Chan\'s Action Kung Fu ",
+            "James Bond Jr ",
+            "Jaws ",
+            "Jeopardy! ",
+            "Jeopardy! 25th Anniversary Edition ",
+            "Jeopardy! Junior Edition ",
+            "Jetsons, The - Cogswell\'s Caper! ",
+            "Jimmy Connor\'s Tennis ",
+            "Joe & Mac ",
+            "John Elway\'s Quarterback ",
+            "Jordan Vs Bird - One On One ",
+            "Journey to Silius ",
+            "Joust ",
+            "Jovial Race ",
+            "Jungle Book, The ",
+            "Jurassic Park ",
+            "Kabuki - Quantum Fighter ",
+            "Karate Champ ",
+            "Karate Kid, The ",
+            "Karnov ",
+            "Kart Fighter ",
+            "Kick Master ",
+            "Kick Off ",
+            "Kickle Cubicle ",
+            "Kid Icarus ",
+            "Kid Klown ",
+            "Kid Kool ",
+            "Kid Niki - Radical Ninja ",
+            "King Neptune\'s Adventure ",
+            "King of Fighters 96 ",
+            "King of Fighters 99 ",
+            "King of Kings, The ",
+            "King\'s Knight ",
+            "King\'s Quest V ",
+            "Kings of the Beach ",
+            "Kirby\'s Adventure ",
+            "Kiwi Kraze ",
+            "Klash Ball ",
+            "Klax ",
+            "Knight Rider ",
+            "Konami Hyper Soccer ",
+            "Krazy Kreatures ",
+            "Krion Conquest, The ",
+            "Krusty\'s Fun House ",
+            "Kung Fu ",
+            "Kung-Fu Heroes ",
+            "L\'Empereur ",
+            "Laser Invasion ",
+            "Last Action Hero ",
+            "Last Ninja, The ",
+            "Last Starfighter, The ",
+            "Lee Trevino\'s Fighting Golf ",
+            "Legacy of the Wizard ",
+            "Legend of Kage, The ",
+            "Legend of Prince Valiant, The ",
+            "Legend of the Ghost Lion ",
+            "Legend of Zelda, The ",
+            "Legendary Wings ",
+            "Legends of the Diamond ",
+            "Lemmings ",
+            "Lethal Weapon ",
+            "Lifeforce ",
+            "Lion King 3, The - Simon and Pumba ",
+            "Lion King, The ",
+            "Little League Baseball - Championship Series ",
+            "Little Mermaid, The ",
+            "Little Nemo - The Dream Master ",
+            "Little Ninja Brothers ",
+            "Little Samson ",
+            "Lode Runner ",
+            "Lone Ranger, The ",
+            "Loopz ",
+            "Low G Man ",
+            "Lunar Pool ",
+            "M.C. Kids ",
+            "M.U.L.E. ",
+            "M.U.S.C.L.E. ",
+            "Mach Rider ",
+            "Mad Max ",
+            "Mafat Conspiracy - Golgo 13 ",
+            "Magic Block ",
+            "Magic Darts ",
+            "Magic Dragon ",
+            "Magic Johnson\'s Fast Break ",
+            "Magic of Scheherazade, The ",
+            "Magician",
+            "Magmax",
+            "Mahjong  ",
+            "Major League Baseball ",
+            "Maniac Mansion ",
+            "Maniac",
+            "Mappy-Land ",
+            "Marble Madness",
+            "Mario & Yoshi ",
+            "Mario Bros. ",
+            "Mario is Missing! ",
+            "Mario Open Golf ",
+            "Mario\'s Time Machine! ",
+            "Marvel\'s X-Men ",
+            "Master Chu & The Drunkard Hu ",
+            "Master Fighter 2 ",
+            "Mechanized Attack ",
+            "Mega Man ",
+            "Mega Man 2 ",
+            "Mega Man 3 ",
+            "Mega Man 4 ",
+            "Mega Man 5 ",
+            "Mega Man 6 ",
+            "Mega Man 7 ",
+            "Menace Beach ",
+            "Mendel Palace ",
+            "Mermaids of Atlantis ",
+            "Metal Fighter ",
+            "Metal Gear ",
+            "Metal Mech ",
+            "Metal Storm ",
+            "Metroid ",
+            "Michael Andretti\'s World Grand Prix ",
+            "Mickey Mousecapade ",
+            "Mickey\'s Adventures in Numberland ",
+            "Mickey\'s Safari in Letterland ",
+            "Mickey",
+            "Micro Machines ",
+            "MiG 29 - Soviet Fighter ",
+            "Might and Magic ",
+            "Mighty Bomb Jack ",
+            "Mighty Final Fight ",
+            "Mike Tyson\'s Punch-Out!! ",
+            "Millipede ",
+            "Milon\'s Secret Castle ",
+            "Miracle Piano Teaching System, The ",
+            "Mission Cobra ",
+            "Mission Impossible ",
+            "Monopoly",
+            "Monster In My Pocket ",
+            "Monster Party ",
+            "Monster Truck Rally ",
+            "Moon Ranger ",
+            "Mortal Kombat 2 ",
+            "Mortal Kombat 3 ",
+            "Mortal Kombat 4 ",
+            "Mortal Kombat Trilogy ",
+            "Motor City Patrol ",
+            "Mr. Gimmick ",
+            "Ms. Pac-Man",
+            "Muppet Adventure - Chaos at the Carnival ",
+            "Mutant Virus, The ",
+            "Mystery Quest ",
+            "Napoleon\'s War ",
+            "NES Open Tournament Golf ",
+            "NES Play Action Football ",
+            "New Zealand Story ",
+            "NFL Football ",
+            "Nigel Mansell\'s World Championship Challenge ",
+            "Nightmare on Elm Street, A ",
+            "Nightshade ",
+            "Ninja Crusaders ",
+            "Ninja Gaiden ",
+            "Ninja Gaiden 2 - The Dark Sword of Chaos ",
+            "Ninja Gaiden 3 - The Ancient Ship of Doom ",
+            "Ninja Kid ",
+            "Nintendo World Championships 1990 ",
+            "Nintendo World Cup ",
+            "Noah\'s Ark ",
+            "Nobunaga\'s Ambition ",
+            "Nobunaga\'s Ambition 2 ",
+            "North & South ",
+            "Operation Secret Storm ",
+            "Operation Wolf ",
+            "Over Horizon ",
+            "Overlord ",
+            "P\'radikus Conflict, The ",
+            "Pac-Man ",
+            "Pac-Mania ",
+            "Palamedes ",
+            "Panic Restaurant ",
+            "Paperboy ",
+            "Paperboy 2 ",
+            "Parodius ",
+            "Peek-A-Boo Poker ",
+            "Perfect Fit ",
+            "Pesterminator - The Western Exterminator ",
+            "Peter Pan & The Pirates ",
+            "Phantom Fighter ",
+            "Pictionary ",
+            "Pikachu Y2K ",
+            "Pinball ",
+            "Pinball Quest ",
+            "Pinbot ",
+            "Pipe Block ",
+            "Pipe Dream ",
+            "Pirates! ",
+            "Pitfall",
+            "Platoon ",
+            "Pokemon Blue ",
+            "Pokemon Golden ",
+            "Pokemon Green ",
+            "Pokemon Yellow ",
+            "Popeye ",
+            "POW - Prisoners of War ",
+            "Power Blade ",
+            "Power Blade 2 ",
+            "Power Punch 2 ",
+            "Predator ",
+            "Prince of Persia ",
+            "Princess Tomato in Salad Kingdom ",
+            "Pro Action Replay ",
+            "Pro Sport Hockey ",
+            "Pro Wrestling ",
+            "Probotector ",
+            "Probotector II - Return of the Evil Forces ",
+            "Punch-Out!! ",
+            "Punisher, The ",
+            "Puss \'n Boots - Pero\'s Great Adventure ",
+            "Puzznic ",
+            "Pyramid ",
+            "Q-bert ",
+            "Qix ",
+            "Quattro Adventure ",
+            "Quattro Arcade ",
+            "Quattro Sports ",
+            "R.B.I. Baseball ",
+            "R.B.I. Baseball 2 ",
+            "R.B.I. Baseball 3 ",
+            "R.C. Pro-Am ",
+            "R.C. Pro-Am 2 ",
+            "Race America ",
+            "Racket Attack ",
+            "Rackets & Rivals ",
+            "Rad Racer ",
+            "Rad Racer 2 ",
+            "Rad Racket - Deluxe Tennis II ",
+            "Raid 2020 ",
+            "Raid on Bungeling Bay ",
+            "Rainbow Islands - The Story of Bubble Bobble 2 ",
+            "Rally Bike ",
+            "Rambo ",
+            "Rampage ",
+            "Rampart ",
+            "Ren & Stimpy Show, The ",
+            "Renegade ",
+            "Rescue - The Embassy Mission ",
+            "Ring King ",
+            "River City Ransom ",
+            "Road Runner ",
+            "RoadBlasters ",
+            "Robin Hood - Prince of Thieves ",
+            "Robo Warrior ",
+            "Robocop ",
+            "Robocop 2 ",
+            "Robocop 3 ",
+            "Robodemons ",
+            "Rock \'n\' Ball ",
+            "Rocketeer, The ",
+            "Rockin\' Kats ",
+            "Rocman X ",
+            "Roger Clemens MVP Baseball ",
+            "Rollerball ",
+            "Rollerblade Racer ",
+            "Rollergames ",
+            "Rolling Thunder ",
+            "Romance of the Three Kingdoms ",
+            "Romance of the Three Kingdoms II ",
+            "Roundball - 2-on-2 Challenge ",
+            "Rush\'n Attack ",
+            "Rygar ",
+            "SCAT - Special Cybernetic Attack Team ",
+            "SCAT",
+            "Secret Scout ",
+            "Section Z ",
+            "Seicross ",
+            "Sesame Street 123 ",
+            "Sesame Street ABC ",
+            "Sesame Street ABC - 123 ",
+            "Sesame Street Countdown ",
+            "Shadow of the Ninja ",
+            "Shadow Warriors ",
+            "Shadow Warriors Episode II - The Dark Sword of Chaos ",
+            "Shadowgate ",
+            "Shatterhand ",
+            "Shingen The Ruler ",
+            "Shinobi ",
+            "Shockwave ",
+            "Shooting Range ",
+            "Short Order - Eggsplode ",
+            "Side Pocket ",
+            "Silent Assault ",
+            "Silent Service ",
+            "Silk Worm ",
+            "Silver Surfer ",
+            "Simpsons, The - Bart Vs. the Space Mutants ",
+            "Simpsons, The - Bart Vs. the World ",
+            "Simpsons, The - Bartman Meets Radioactive Man ",
+            "Skate or Die 2 - The Search for Double Trouble ",
+            "Skate or Die! ",
+            "Ski or Die ",
+            "Skull & Crossbones ",
+            "Sky Kid ",
+            "Sky Shark ",
+            "Slalom ",
+            "Smash T.V. ",
+            "Smurfs, The ",
+            "Snake Rattle\'n Roll ",
+            "Snake\'s Revenge ",
+            "Snoopy\'s Silly Sports Spectacular ",
+            "Snow Bros ",
+            "Soccer ",
+            "Solar Jetman - Hunt for the Golden Warpship ",
+            "Solitaire ",
+            "Solomon\'s Key ",
+            "Solomon\'s Key 2 ",
+            "Solstice ",
+            "Space Shuttle Project ",
+            "Spelunker ",
+            "Spider-Man - Return of the Sinister Six ",
+            "Spiritual Warfare ",
+            "Spot ",
+            "Spy Hunter ",
+            "Spy Vs Spy ",
+            "Sqoon ",
+            "Stadium Events ",
+            "Stanley - The Search for Dr. Livingston ",
+            "Star Force ",
+            "Star Soldier ",
+            "Star Trek - 25th Anniversary ",
+            "Star Trek - The Next Generation ",
+            "Star Voyager ",
+            "Star Wars ",
+            "Star Wars - The Empire Strikes Back ",
+            "Starship Hector ",
+            "Startropics ",
+            "Startropics 2 - Zoda\'s Revenge ",
+            "Stealth ATF ",
+            "Stinger ",
+            "Street Cop ",
+            "Street Fighter 2010 ",
+            "Street Fighter 3 ",
+            "Street Fighter 4 ",
+            "Street Fighter Zero 2 ",
+            "Street Gangs ",
+            "Strider ",
+            "Stunt Kids ",
+            "Sunday Funday ",
+            "Super Cars ",
+            "Super Dodge Ball ",
+            "Super Donkey Kong 2 ",
+            "Super Donkey Kong ",
+            "Super Glove Ball ",
+            "Super Jeopardy! ",
+            "Super Mario Bros. ",
+            "Super Mario Bros. + Duck Hunt ",
+            "Super Mario Bros. 2 ",
+            "Super Mario Bros. 3 ",
+            "Super Mario World ",
+            "Super Mary ",
+            "Super Off-Road ",
+            "Super Pitfall ",
+            "Super Skater ",
+            "Super Sky Kid ",
+            "Super Spike V\'Ball ",
+            "Super Sprint ",
+            "Super Spy Hunter ",
+            "Super Team Games ",
+            "Super Turrican ",
+            "Super Xevious ",
+            "Superman ",
+            "Swamp Thing ",
+            "SWAT",
+            "Sword Master ",
+            "Swords and Serpents ",
+            "T&C 2 - Thrilla\'s Surfari ",
+            "T&C Surf Design ",
+            "T2",
+            "Taboo - The Sixth Sense ",
+            "Tag Team Wrestling ",
+            "Tagin\' Dragon ",
+            "TaleSpin ",
+            "Target Renegade ",
+            "Tecmo Baseball ",
+            "Tecmo Bowl ",
+            "Tecmo Cup - Soccer Game ",
+            "Tecmo NBA Basketball ",
+            "Tecmo NFL Dynasties",
+            "Tecmo Super Bowl ",
+            "Tecmo World Wrestling ",
+            "Teenage Mutant Hero Turtles ",
+            "Teenage Mutant Hero Turtles II - The Arcade Game ",
+            "Teenage Mutant Ninja Turtles - Tournament Fighters ",
+            "Teenage Mutant Ninja Turtles III - The Manhattan Project ",
+            "Tekken 2 ",
+            "Terminator 2 - Judgment Day ",
+            "Terminator, The ",
+            "Terra Cresta ",
+            "Tetris ",
+            "Tetris 2 ",
+            "Three Stooges ",
+            "Thunder & Lightning ",
+            "Thunderbirds ",
+            "Thundercade ",
+            "Tiger-Heli ",
+            "Tiles of Fate ",
+            "Time Lord ",
+            "Times of Lore ",
+            "Tiny Toon Adventures ",
+            "Tiny Toon Adventures 2 - Trouble in Wackyland ",
+            "Tiny Toon Adventures Cartoon Workshop ",
+            "To The Earth ",
+            "Toki ",
+            "Tom & Jerry 3 ",
+            "Tom & Jerry and Tuffy ",
+            "Tombs and Treasure ",
+            "Toobin\' ",
+            "Top Gun ",
+            "Top Gun - The Second Mission ",
+            "Top Players\' Tennis - Featuring Chris Evert & Ivan Lendl ",
+            "Total Recall ",
+            "Totally Rad ",
+            "Touch Down Fever ",
+            "Toxic Crusaders ",
+            "Track & Field ",
+            "Treasure Master ",
+            "Trog ",
+            "Trojan ",
+            "Trolls on Treasure Island ",
+            "Turbo Racing ",
+            "Twin Cobra ",
+            "Twin Eagle ",
+            "Ufouria ",
+            "Ultima - Exodus ",
+            "Ultima - Quest of the Avatar ",
+            "Ultima - Warriors of Destiny ",
+            "Ultimate Air Combat ",
+            "Ultimate Basketball ",
+            "Ultimate League Soccer ",
+            "Ultimate Stuntman ",
+            "Uncharted Waters ",
+            "Uninvited ",
+            "Untouchables, The ",
+            "Urban Champion ",
+            "Vegas Dream ",
+            "Venice Beach Volleyball ",
+            "Vice - Project Doom ",
+            "Videomation ",
+            "Vindicators ",
+            "Volleyball ",
+            "VS Castlevania ",
+            "VS Slalom ",
+            "VS Super Mario Bros. ",
+            "VS TKO Boxing ",
+            "Wacky Races ",
+            "Wall Street Kid ",
+            "Wally Bear and the No Gang ",
+            "Wario\'s Woods ",
+            "Wayne Gretzky Hockey ",
+            "Wayne\'s World ",
+            "WCW World Championship Wrestling ",
+            "Werewolf - The Last Warrior ",
+            "Wheel of Fortune ",
+            "Wheel of Fortune Family Edition ",
+            "Wheel of Fortune Junior Edition ",
+            "Where in Time is Carmen Sandiego ",
+            "Where\'s Waldo ",
+            "Who Framed Roger Rabbit ",
+            "Whomp\'Em ",
+            "Widget ",
+            "Wild Gunman ",
+            "Willow ",
+            "Win, Lose or Draw ",
+            "Winter Games ",
+            "Wizardry - Proving Grounds of the Mad Overlord ",
+            "Wizardry - The Knight of Diamonds ",
+            "Wizards & Warriors ",
+            "Wizards & Warriors 3 ",
+            "Wolverine ",
+            "World Champ ",
+            "World Class Track Meet ",
+            "World Games ",
+            "World Heroes 2 ",
+            "Wrath of the Black Manta ",
+            "Wrecking Crew",
+            "Wrestlemania Challenge ",
+            "Wurm ",
+            "WWF King of the Ring ",
+            "WWF Steel Cage Challenge ",
+            "WWF Wrestlemania ",
+            "WWF Wrestlemania Challenge ",
+            "Xenophobe ",
+            "Xevious ",
+            "Xexyz ",
+            "Xexyz",
+            "XMEN",
+            "Yo! Noid ",
+            "Yo!Noid",
+            "Yoshi ",
+            "Yoshi\'s Cookie ",
+            "Yoshi",
+            "Young Indiana Jones Chronicles, The ",
+            "Zanac ",
+            "Zelda II - The Adventure of Link ",
+            "Zelda",
+            "Zelda2",
+            "Zombie Nation "});
+            this.listBox11.Location = new System.Drawing.Point(100, 144);
+            this.listBox11.Name = "listBox11";
+            this.listBox11.Size = new System.Drawing.Size(339, 290);
+            this.listBox11.TabIndex = 4;
+            // 
+            // pictureBox9
+            // 
+            this.pictureBox9.Image = global::WindowsApplication1.Properties.Resources.NES1;
+            this.pictureBox9.Location = new System.Drawing.Point(466, 144);
+            this.pictureBox9.Name = "pictureBox9";
+            this.pictureBox9.Size = new System.Drawing.Size(474, 343);
+            this.pictureBox9.TabIndex = 1;
+            this.pictureBox9.TabStop = false;
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Location = new System.Drawing.Point(527, 18);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(50, 13);
+            this.label10.TabIndex = 12;
+            this.label10.Text = "Favorites";
+            // 
+            // listBox12
+            // 
+            this.listBox12.FormattingEnabled = true;
+            this.listBox12.Location = new System.Drawing.Point(530, 43);
+            this.listBox12.Name = "listBox12";
+            this.listBox12.Size = new System.Drawing.Size(335, 95);
+            this.listBox12.TabIndex = 14;
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Location = new System.Drawing.Point(527, 18);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(50, 13);
+            this.label11.TabIndex = 15;
+            this.label11.Text = "Favorites";
+            // 
+            // listBox13
+            // 
+            this.listBox13.FormattingEnabled = true;
+            this.listBox13.Location = new System.Drawing.Point(530, 43);
+            this.listBox13.Name = "listBox13";
+            this.listBox13.Size = new System.Drawing.Size(335, 95);
+            this.listBox13.TabIndex = 15;
+            this.listBox13.SelectedIndexChanged += new System.EventHandler(this.listBox13_SelectedIndexChanged);
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.Location = new System.Drawing.Point(527, 18);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(50, 13);
+            this.label12.TabIndex = 16;
+            this.label12.Text = "Favorites";
+            // 
+            // listBox14
+            // 
+            this.listBox14.FormattingEnabled = true;
+            this.listBox14.Location = new System.Drawing.Point(530, 43);
+            this.listBox14.Name = "listBox14";
+            this.listBox14.Size = new System.Drawing.Size(335, 95);
+            this.listBox14.TabIndex = 16;
+            this.listBox14.SelectedIndexChanged += new System.EventHandler(this.listBox14_SelectedIndexChanged);
+            // 
+            // label13
+            // 
+            this.label13.AutoSize = true;
+            this.label13.Location = new System.Drawing.Point(527, 18);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(50, 13);
+            this.label13.TabIndex = 17;
+            this.label13.Text = "Favorites";
+            // 
+            // button25
+            // 
+            this.button25.Location = new System.Drawing.Point(233, 442);
+            this.button25.Name = "button25";
+            this.button25.Size = new System.Drawing.Size(96, 23);
+            this.button25.TabIndex = 13;
+            this.button25.Text = "Add to Favorites";
+            this.button25.UseVisualStyleBackColor = true;
+            this.button25.Click += new System.EventHandler(this.button25_Click);
+            // 
+            // button26
+            // 
+            this.button26.Location = new System.Drawing.Point(233, 442);
+            this.button26.Name = "button26";
+            this.button26.Size = new System.Drawing.Size(96, 23);
+            this.button26.TabIndex = 16;
+            this.button26.Text = "Add to Favorites";
+            this.button26.UseVisualStyleBackColor = true;
+            this.button26.Click += new System.EventHandler(this.button26_Click);
+            // 
+            // button27
+            // 
+            this.button27.Location = new System.Drawing.Point(233, 442);
+            this.button27.Name = "button27";
+            this.button27.Size = new System.Drawing.Size(96, 23);
+            this.button27.TabIndex = 17;
+            this.button27.Text = "Add to Favorites";
+            this.button27.UseVisualStyleBackColor = true;
+            this.button27.Click += new System.EventHandler(this.button27_Click);
+            // 
+            // button28
+            // 
+            this.button28.Location = new System.Drawing.Point(233, 442);
+            this.button28.Name = "button28";
+            this.button28.Size = new System.Drawing.Size(96, 23);
+            this.button28.TabIndex = 18;
+            this.button28.Text = "Add to Favorites";
+            this.button28.UseVisualStyleBackColor = true;
+            this.button28.Click += new System.EventHandler(this.button28_Click);
+            // 
+            // button29
+            // 
+            this.button29.Location = new System.Drawing.Point(869, 43);
+            this.button29.Name = "button29";
+            this.button29.Size = new System.Drawing.Size(75, 23);
+            this.button29.TabIndex = 11;
+            this.button29.Text = "Remove";
+            this.button29.UseVisualStyleBackColor = true;
+            this.button29.Click += new System.EventHandler(this.button29_Click);
+            // 
+            // button30
+            // 
+            this.button30.Location = new System.Drawing.Point(869, 43);
+            this.button30.Name = "button30";
+            this.button30.Size = new System.Drawing.Size(75, 23);
+            this.button30.TabIndex = 14;
+            this.button30.Text = "Remove";
+            this.button30.UseVisualStyleBackColor = true;
+            this.button30.Click += new System.EventHandler(this.button30_Click);
+            // 
+            // button31
+            // 
+            this.button31.Location = new System.Drawing.Point(869, 43);
+            this.button31.Name = "button31";
+            this.button31.Size = new System.Drawing.Size(75, 23);
+            this.button31.TabIndex = 17;
+            this.button31.Text = "Remove";
+            this.button31.UseVisualStyleBackColor = true;
+            this.button31.Click += new System.EventHandler(this.button31_Click);
+            // 
+            // button32
+            // 
+            this.button32.Location = new System.Drawing.Point(869, 43);
+            this.button32.Name = "button32";
+            this.button32.Size = new System.Drawing.Size(75, 23);
+            this.button32.TabIndex = 18;
+            this.button32.Text = "Remove";
+            this.button32.UseVisualStyleBackColor = true;
+            this.button32.Click += new System.EventHandler(this.button32_Click);
+            // 
+            // button33
+            // 
+            this.button33.Location = new System.Drawing.Point(869, 43);
+            this.button33.Name = "button33";
+            this.button33.Size = new System.Drawing.Size(75, 23);
+            this.button33.TabIndex = 19;
+            this.button33.Text = "Remove";
+            this.button33.UseVisualStyleBackColor = true;
+            this.button33.Click += new System.EventHandler(this.button33_Click);
+            // 
+            // button34
+            // 
+            this.button34.Location = new System.Drawing.Point(869, 73);
+            this.button34.Name = "button34";
+            this.button34.Size = new System.Drawing.Size(75, 23);
+            this.button34.TabIndex = 20;
+            this.button34.Text = "Play Game";
+            this.button34.UseVisualStyleBackColor = true;
+            this.button34.Click += new System.EventHandler(this.button34_Click);
+            // 
+            // button35
+            // 
+            this.button35.Location = new System.Drawing.Point(869, 73);
+            this.button35.Name = "button35";
+            this.button35.Size = new System.Drawing.Size(75, 23);
+            this.button35.TabIndex = 21;
+            this.button35.Text = "Play Game";
+            this.button35.UseVisualStyleBackColor = true;
+            this.button35.Click += new System.EventHandler(this.button35_Click);
+            // 
+            // button36
+            // 
+            this.button36.Location = new System.Drawing.Point(869, 73);
+            this.button36.Name = "button36";
+            this.button36.Size = new System.Drawing.Size(75, 23);
+            this.button36.TabIndex = 21;
+            this.button36.Text = "Play Game";
+            this.button36.UseVisualStyleBackColor = true;
+            this.button36.Click += new System.EventHandler(this.button36_Click);
+            // 
+            // button37
+            // 
+            this.button37.Location = new System.Drawing.Point(869, 73);
+            this.button37.Name = "button37";
+            this.button37.Size = new System.Drawing.Size(75, 23);
+            this.button37.TabIndex = 21;
+            this.button37.Text = "Play Game";
+            this.button37.UseVisualStyleBackColor = true;
+            this.button37.Click += new System.EventHandler(this.button37_Click);
+            // 
+            // button38
+            // 
+            this.button38.Location = new System.Drawing.Point(869, 73);
+            this.button38.Name = "button38";
+            this.button38.Size = new System.Drawing.Size(75, 23);
+            this.button38.TabIndex = 21;
+            this.button38.Text = "Play Game";
+            this.button38.UseVisualStyleBackColor = true;
+            this.button38.Click += new System.EventHandler(this.button38_Click);
             // 
             // Arcade
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(958, 815);
+            this.ClientSize = new System.Drawing.Size(958, 778);
+            this.Controls.Add(this.label8);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.Main);
             this.Name = "Arcade";
@@ -4002,13 +6331,16 @@ namespace WindowsApplication1
             this.Atari_2600.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             this.Home.ResumeLayout(false);
+            this.Home.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             this.Main.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -4028,7 +6360,6 @@ namespace WindowsApplication1
         private System.Windows.Forms.TabPage Home;
         private System.Windows.Forms.TabControl Main;
         private System.Windows.Forms.PictureBox pictureBox1;
-        private System.Windows.Forms.PictureBox pictureBox4;
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.PictureBox pictureBox6;
         private System.Windows.Forms.PictureBox pictureBox5;
@@ -4056,6 +6387,61 @@ namespace WindowsApplication1
         private System.Windows.Forms.Button button10;
         private System.Windows.Forms.Button button11;
         private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox textBox6;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.TextBox textBox9;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.TextBox textBox8;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Button button16;
+        private System.Windows.Forms.TextBox textBox7;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Button button17;
+        private System.Windows.Forms.TextBox textBox10;
+        private System.Windows.Forms.TextBox textBox11;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.ListBox listBox6;
+        private System.Windows.Forms.Button button18;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.ListBox listBox7;
+        private System.Windows.Forms.ListBox listBox8;
+        private System.Windows.Forms.Button button19;
+        private System.Windows.Forms.Button button20;
+        private System.Windows.Forms.TextBox textBox12;
+        private System.Windows.Forms.Button button21;
+        private System.Windows.Forms.ListBox listBox9;
+        private System.Windows.Forms.PictureBox pictureBox4;
+        private System.Windows.Forms.ListBox listBox10;
+        private System.Windows.Forms.Button button22;
+        private System.Windows.Forms.Button button23;
+        private System.Windows.Forms.TextBox textBox13;
+        private System.Windows.Forms.Button button24;
+        private System.Windows.Forms.ListBox listBox11;
+        private System.Windows.Forms.PictureBox pictureBox9;
+        private System.Windows.Forms.ListBox listBox13;
+        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.ListBox listBox12;
+        private System.Windows.Forms.Label label12;
+        private System.Windows.Forms.Label label13;
+        private System.Windows.Forms.ListBox listBox14;
+        private System.Windows.Forms.Button button27;
+        private System.Windows.Forms.Button button26;
+        private System.Windows.Forms.Button button25;
+        private System.Windows.Forms.Button button28;
+        private System.Windows.Forms.Button button33;
+        private System.Windows.Forms.Button button32;
+        private System.Windows.Forms.Button button31;
+        private System.Windows.Forms.Button button30;
+        private System.Windows.Forms.Button button29;
+        private System.Windows.Forms.Button button34;
+        private System.Windows.Forms.Button button35;
+        private System.Windows.Forms.Button button36;
+        private System.Windows.Forms.Button button37;
+        private System.Windows.Forms.Button button38;
 
 
 
