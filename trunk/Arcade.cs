@@ -7,6 +7,9 @@ using System.Text;
 using System.Windows.Forms;
 using System.Diagnostics;
 using System.Data.SqlClient;
+using MySql;
+using MySql.Data.MySqlClient;
+
 
 
 
@@ -134,7 +137,21 @@ namespace WindowsApplication1
                 osk = new Process();
                 osk.StartInfo.FileName = @"C:\Windows\system32\osk.exe";
                 osk.Start();
-            
+
+
+
+
+                //MySqlConnection connection = 
+                  //  new MySqlConnection("Data Source=serverName;UserId=rootOrOtherAdminAccount;PWD=topSecretPassword;");
+
+               // SqlCommand myCommand = 
+                 //   new SqlCommand("CREATE DATABASE Arc", connection);
+
+           // connection.Open();
+            /*
+                cmdDatabase.ExecuteNonQuery();
+                myConnection.Close();
+            */
         }
 
         private void nESToolStripMenuItem_Click(object sender, EventArgs e)
