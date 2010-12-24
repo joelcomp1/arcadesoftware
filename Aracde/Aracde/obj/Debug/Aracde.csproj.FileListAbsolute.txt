@@ -1,0 +1,54 @@
+C:\Arcade\Main Program\Aracde\Aracde\obj\Debug\Aracde.exe
+C:\Arcade\Main Program\Aracde\Aracde\obj\Debug\Aracde.pdb
+C:\Arcade\Main Program\Aracde\Aracde\bin\Debug\Aracde.exe.manifest
+C:\Arcade\Main Program\Aracde\Aracde\bin\Debug\Aracde.application
+C:\Arcade\Main Program\Aracde\Aracde\bin\Debug\Aracde.exe
+C:\Arcade\Main Program\Aracde\Aracde\bin\Debug\Aracde.pdb
+C:\Arcade\Main Program\Aracde\Aracde\obj\Debug\ResolveAssemblyReference.cache
+C:\Arcade\Main Program\Aracde\Aracde\obj\Debug\WindowsApplication1.Arcade.resources
+C:\Arcade\Main Program\Aracde\Aracde\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Arcade\Main Program\Aracde\Aracde\obj\Debug\Aracde.exe.manifest
+C:\Arcade\Main Program\Aracde\Aracde\obj\Debug\Aracde.application
+C:\SVN\arcadesoftware\Aracde\Aracde\obj\Debug\Aracde.exe
+C:\SVN\arcadesoftware\Aracde\Aracde\obj\Debug\Aracde.pdb
+C:\SVN\arcadesoftware\Aracde\Aracde\bin\Debug\Aracde.exe.manifest
+C:\SVN\arcadesoftware\Aracde\Aracde\bin\Debug\Aracde.application
+C:\SVN\arcadesoftware\Aracde\Aracde\bin\Debug\Aracde.exe
+C:\SVN\arcadesoftware\Aracde\Aracde\bin\Debug\Aracde.pdb
+C:\SVN\arcadesoftware\Aracde\Aracde\obj\Debug\ResolveAssemblyReference.cache
+C:\SVN\arcadesoftware\Aracde\Aracde\obj\Debug\WindowsApplication1.Arcade.resources
+C:\SVN\arcadesoftware\Aracde\Aracde\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\SVN\arcadesoftware\Aracde\Aracde\obj\Debug\Aracde.csproj.GenerateResource.Cache
+C:\SVN\arcadesoftware\Aracde\Aracde\obj\Debug\Aracde.exe.manifest
+C:\SVN\arcadesoftware\Aracde\Aracde\obj\Debug\Aracde.application
+C:\Users\Joel Millage\Desktop\Arcade\Aracde\Aracde\obj\Debug\Aracde.exe
+C:\Users\Joel Millage\Desktop\Arcade\Aracde\Aracde\obj\Debug\Aracde.pdb
+C:\Users\Joel Millage\Desktop\Arcade\Aracde\Aracde\bin\Debug\Aracde.exe.manifest
+C:\Users\Joel Millage\Desktop\Arcade\Aracde\Aracde\bin\Debug\Aracde.application
+C:\Users\Joel Millage\Desktop\Arcade\Aracde\Aracde\bin\Debug\Aracde.exe
+C:\Users\Joel Millage\Desktop\Arcade\Aracde\Aracde\bin\Debug\Aracde.pdb
+C:\Users\Joel Millage\Desktop\Arcade\Aracde\Aracde\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joel Millage\Desktop\Arcade\Aracde\Aracde\obj\Debug\WindowsApplication1.Arcade.resources
+C:\Users\Joel Millage\Desktop\Arcade\Aracde\Aracde\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\Joel Millage\Desktop\Arcade\Aracde\Aracde\obj\Debug\Aracde.csproj.GenerateResource.Cache
+C:\Users\Joel Millage\Desktop\Arcade\Aracde\Aracde\obj\Debug\Aracde.exe.manifest
+C:\Users\Joel Millage\Desktop\Arcade\Aracde\Aracde\obj\Debug\Aracde.application
+C:\Users\Joel Millage\Desktop\Arcade\arcadesoftware\Aracde\Aracde\obj\Debug\Aracde.exe
+C:\Users\Joel Millage\Desktop\Arcade\arcadesoftware\Aracde\Aracde\obj\Debug\Aracde.pdb
+D:\Documents and Settings\ArcadeSystem\Desktop\Main Program\Aracde\Aracde\obj\Debug\Aracde.exe
+D:\Documents and Settings\ArcadeSystem\Desktop\Main Program\Aracde\Aracde\obj\Debug\Aracde.pdb
+C:\Arcade\Main Program\Aracde\Aracde\obj\Debug\GenerateResource.read.1.tlog
+C:\Arcade\Main Program\Aracde\Aracde\obj\Debug\GenerateResource.write.1.tlog
+C:\SVN\Aracde\Aracde\obj\Debug\Aracde.exe
+C:\SVN\Aracde\Aracde\obj\Debug\Aracde.pdb
+C:\SVN\Aracde\Aracde\bin\Debug\Aracde.exe.manifest
+C:\SVN\Aracde\Aracde\bin\Debug\Aracde.application
+C:\SVN\Aracde\Aracde\bin\Debug\Aracde.exe
+C:\SVN\Aracde\Aracde\bin\Debug\Aracde.pdb
+C:\SVN\Aracde\Aracde\obj\Debug\ResolveAssemblyReference.cache
+C:\SVN\Aracde\Aracde\obj\Debug\WindowsApplication1.Arcade.resources
+C:\SVN\Aracde\Aracde\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\SVN\Aracde\Aracde\obj\Debug\GenerateResource.read.1.tlog
+C:\SVN\Aracde\Aracde\obj\Debug\GenerateResource.write.1.tlog
+C:\SVN\Aracde\Aracde\obj\Debug\Aracde.exe.manifest
+C:\SVN\Aracde\Aracde\obj\Debug\Aracde.application
